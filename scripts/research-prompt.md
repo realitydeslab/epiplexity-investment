@@ -1,90 +1,87 @@
-# Epiplexity Investment — Deep Future Research
+# Epiplexity Investment — Deep Future Research (1-Year Focus)
 
 You are researching **{TICKER} ({NAME})** for Epiplexity Investment.
 
-Your job is NOT stock analysis. Your job is **future analysis** — understanding the future this company is designing, evaluating whether that future is achievable, and quantifying what it's worth.
+**TIME HORIZON: 12 MONTHS.** We don't care about 10-year visions. We care about what happens THIS YEAR.
 
 ---
 
-## Part 1: The Future Blueprint 🔮
+## Part 1: The Catalyst Map 🎯
 
-**What world is this company trying to create?**
+**What SPECIFIC events in the next 12 months could reprice this stock/token?**
 
-- Map their **stated future** — CEO letters, earnings calls, investor days, manifestos, product roadmaps
-- Map their **revealed future** — where R&D dollars actually go, acquisitions, patents filed, talent hired
-- Map their **unstated future** — what they're quietly positioning for that they haven't announced yet
-- **Timeline:** Break the plan into phases:
-  - **Phase 1 (0-2 years):** What's shipping/launching now?
-  - **Phase 2 (2-5 years):** What's in development/announced?
-  - **Phase 3 (5-10 years):** What's the long-term vision/end state?
-- For EACH phase: What specific milestones would prove they're on track?
-- **The End State:** If everything works, describe the world in 2035. What has changed? What does this company control?
+For EACH catalyst:
+- **What:** Describe the event precisely
+- **When:** Expected date/quarter
+- **Impact:** How much could it move the price? (%, with reasoning)
+- **Probability:** How likely is it? (High/Medium/Low)
+- **Market expectation:** What does consensus think will happen?
+- **Our edge:** Why do we think reality will differ from consensus?
 
-## Part 2: The Execution Score 📊
+Categories of catalysts to investigate:
+- Earnings surprises (next 1-4 quarters)
+- Product launches / upgrades
+- Regulatory decisions / approvals
+- Partnerships / contracts
+- Market expansion / new geographies
+- Profitability inflection points
+- Share buybacks / capital returns
+- Analyst coverage initiation / upgrades
+- Index inclusion
+- Macro tailwinds (stimulus, policy, rates)
 
 ## Part 1.5: The Leader 👤
 
-**Who is driving this future?**
+- CEO/founder — are they the right person to execute on these catalysts?
+- Recent insider buying/selling — are THEY betting on the next 12 months?
+- Key hires/departures in last 6 months
+- Public statements about near-term outlook
 
-- **CEO/Founder profile:** Background, education, philosophy, public persona
-- **Track record:** Previous companies, exits, promises kept vs. broken
-- **Vision articulation:** How clearly and consistently do they communicate the future?
-- **Insider activity:** Are they buying or selling their own stock? Patterns over 12 months
-- **Leadership team:** Key lieutenants — CTO, CFO, heads of key divisions. Depth of bench.
-- **Succession risk:** What happens if this person leaves? Is the vision bigger than one person?
-- **Red flags:** Lawsuits, controversies, governance issues, excessive compensation
-- **The question:** Is this the RIGHT person to build this future? Why or why not?
+## Part 2: Growth Velocity 📈
 
-**Can they actually pull this off?**
+**Is growth ACCELERATING or decelerating?**
 
-For EACH phase of their plan, evaluate:
+- Revenue growth: last 4 quarters, quarter over quarter
+- User/customer growth trajectory
+- Order backlog / pipeline
+- Guidance vs. actual history (do they beat or miss?)
+- Unit economics improving or deteriorating?
+- Path to profitability (if not yet profitable) — when?
 
-1. **Technical feasibility** — Does the technology exist or is it speculative?
-2. **Talent** — Do they have the people to build this?
-3. **Capital** — Can they fund it? How many years of runway at current burn?
-4. **Regulatory path** — What governments/regulators could block this?
-5. **Market timing** — Is the world ready for what they're building?
-6. **Past delivery** — Have they hit previous milestones? Track record of promises vs. reality.
+## Part 3: The Trade Setup 💰
 
-**Execution Score:** Rate each phase 1-10, with justification.
+### Entry
+- Current price and recent range
+- Technical levels: support, resistance, 50/200 DMA
+- Options activity (unusual volume, put/call ratio)
+- Short interest (squeeze potential?)
 
-## Part 3: The Competitive Map 🗺️
+### Scenarios ($10K invested)
 
-- Who else is building the SAME future? (direct competitors)
-- Who is building an ALTERNATIVE future that would make theirs irrelevant?
-- What would have to be true for THIS company to win vs. alternatives?
-- Is there a scenario where multiple companies can co-exist, or is this winner-take-all?
+| Scenario | 12-Month Target | $10K → | Return |
+|----------|----------------|--------|--------|
+| 🚀 Bull (catalysts hit) | $XX | $XX,XXX | +XX% |
+| 📊 Base (partial) | $XX | $XX,XXX | +XX% |
+| 🐻 Bear (catalysts miss) | $XX | $XX,XXX | -XX% |
 
-## Part 4: The Value of the Future 💰
+### Risk Management
+- Stop-loss level recommendation
+- Position sizing guidance (% of portfolio)
+- What kills the trade? (specific trigger to exit)
+- Correlation risk (what else would need to go wrong?)
 
-**If this future happens, what's it worth?**
+## Part 4: Competitive Map 🗺️
 
-For each scenario:
+- Who benefits from the SAME catalysts?
+- Who loses if this company wins?
+- Pair trade opportunities?
 
-### 🐂 Full Vision Achieved (all phases succeed)
-- What's the revenue/market cap in 2030? 2035?
-- $10K invested today → worth how much?
-- What's the CAGR?
+## Part 5: Structured Intelligence 🧠
 
-### 📊 Partial Vision (Phase 1-2 succeed, Phase 3 stalls)
-- Same calculations
-- What do you still own? Is it still valuable?
-
-### 🐻 Vision Fails (competition wins or market doesn't materialize)
-- Downside floor — what's the company worth as-is, without the dream?
-- $10K invested today → worst case?
-
-### 🦢 Black Swan — what unexpected event could 10x OR destroy this?
-
-## Part 5: What Can I Learn? 🧠
-
-**Structured intelligence from studying this company:**
-
-- **Industry insights** — What does this company's bet tell us about where the world is going?
-- **Pattern recognition** — What playbook are they running? (platform shift, vertical integration, network effects, etc.)
-- **Adjacent opportunities** — What other companies/tokens benefit if THIS company's vision succeeds?
-- **Contrarian signals** — What does the market misunderstand about this company?
-- **Decision framework** — Under what conditions should I buy, hold, or sell?
+- What does this tell us about the sector/market?
+- Adjacent plays that benefit from the same thesis
+- Contrarian angle — what's the market missing?
+- Timeline: KEY DATES to watch in next 12 months
 
 ---
 
@@ -92,13 +89,13 @@ For each scenario:
 
 Write to `/home/biber/research/epiplexity-investment/reports/{TICKER}/`:
 
-1. `future-blueprint.md` — The future plan, phased timeline, end state
-2. `leader-profile.md` — CEO/founder deep dive, track record, insider activity
-3. `execution-score.md` — Can they do it? Rated 1-10 per phase
-4. `competitive-map.md` — Who else is building this future?
-5. `value-scenarios.md` — $10K invested → worth what under each scenario?
-6. `learnings.md` — Structured intelligence, patterns, adjacent opportunities
-7. `thesis.md` — 1-page synthesis: the bet, the risk, the verdict
-8. `meta.json` — Structured data: scores, prices, dates, status
+1. `catalyst-map.md` — Part 1 (specific events, dates, impact)
+2. `leader-profile.md` — Part 1.5 (CEO, insider activity)
+3. `growth-velocity.md` — Part 2 (acceleration analysis)
+4. `trade-setup.md` — Part 3 (entry, scenarios, risk management)
+5. `competitive-map.md` — Part 4 (winners/losers, pair trades)
+6. `learnings.md` — Part 5 (intelligence, adjacent plays, key dates)
+7. `thesis.md` — 1-page: the catalyst, the trade, the risk, the verdict
+8. `meta.json` — scores, prices, catalyst dates, status
 
-Use REAL data from web search. Cite sources. Include dates. Label speculation clearly.
+Use REAL data from web search. Cite sources. Include dates. Be specific about catalysts and timelines.
