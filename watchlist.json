@@ -27,8 +27,9 @@
       "name": "Alibaba Group",
       "thesis_hint": "China AI + cloud + commerce recovery play",
       "added": "2026-03-06",
-      "status": "pending",
-      "priority": "high"
+      "status": "researched",
+      "priority": "high",
+      "last_researched": "2026-03-06"
     },
     {
       "ticker": "BTC",
