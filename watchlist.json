@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-03-06",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -655,6 +655,116 @@
       "thesis_hint": "Hong Kong Stock Exchange \u2014 gateway for China capital flows, AI trading infra",
       "priority": "medium",
       "status": "pending"
+    },
+    {
+      "ticker": "TEM",
+      "market": "US",
+      "name": "Tempus AI",
+      "category": "ai_platforms",
+      "thesis_hint": "AI precision medicine \u2014 genomic diagnostics, 83% YoY growth, $1.59B 2026 forecast",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "TTD",
+      "market": "US",
+      "name": "The Trade Desk",
+      "category": "anticipated_2026",
+      "thesis_hint": "Programmatic ads, CEO bought $148M shares, OpenAI partnership potential",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "SOUN",
+      "market": "US",
+      "name": "SoundHound AI",
+      "category": "ai_platforms",
+      "thesis_hint": "Voice AI for enterprise \u2014 restaurants, auto, customer service. 117% analyst upside",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 75,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "2252.HK",
+      "market": "HK",
+      "name": "Shanghai Biren Technology",
+      "category": "china_ai",
+      "thesis_hint": "China AI GPU designer, IPO surged 120%, DeepSeek ecosystem play",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 74,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "CLS",
+      "market": "US",
+      "name": "Celestica",
+      "category": "ai_infrastructure",
+      "thesis_hint": "AI server manufacturing, $1B investment, hyperscaler relationships",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 73,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "ACHR",
+      "market": "US",
+      "name": "Archer Aviation",
+      "category": "anticipated_2026",
+      "thesis_hint": "eVTOL air taxis, FAA certification on track, commercial flights 2H 2026",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "HIMS",
+      "market": "US",
+      "name": "Hims & Hers Health",
+      "category": "anticipated_2026",
+      "thesis_hint": "Telehealth platform, $1.5B revenue, GLP-1 + mental health expansion",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 71,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "CAVA",
+      "market": "US",
+      "name": "CAVA Group",
+      "category": "anticipated_2026",
+      "thesis_hint": "Fast-casual scaling, $1B+ revenue, 41% YTD, 74-76 new restaurants 2026",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 68,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "XYZ",
+      "market": "US",
+      "name": "Block (fka Square)",
+      "category": "anticipated_2026",
+      "thesis_hint": "Payments + fintech AI, 27% earnings beat surge",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 62,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "HOOD",
+      "market": "US",
+      "name": "Robinhood",
+      "category": "anticipated_2026",
+      "thesis_hint": "Fintech, $4.5B revenue (52% YoY), prediction markets +300%",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 63,
+      "discovered": "2026-03-06"
     }
   ]
 }
