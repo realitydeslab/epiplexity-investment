@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated": "2026-03-06",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -770,6 +770,105 @@
       "category": "anticipated_2026",
       "thesis_hint": "Fintech, $4.5B revenue (52% YoY), prediction markets +300%",
       "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 63,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "LEU",
+      "market": "US",
+      "name": "Centrus Energy",
+      "category": "ai_energy",
+      "thesis_hint": "Only US HALEU enricher, $900M DOE award, $2.3B backlog, nuclear renaissance monopoly",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 84,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "RHM.DE",
+      "market": "EU",
+      "name": "Rheinmetall",
+      "category": "military_ai",
+      "thesis_hint": "European defense rearmament super-cycle, ammunition + vehicles, analyst targets \u20ac2,060-2,200",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "VERA",
+      "market": "US",
+      "name": "Vera Therapeutics",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA July 7 2026 for atacicept (IgAN), Breakthrough Therapy, $90 PT, binary catalyst",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 79,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "BAESY",
+      "market": "US",
+      "name": "BAE Systems (ADR)",
+      "category": "military_ai",
+      "thesis_hint": "Record \u00a383.6B backlog, 12% profit growth, new era defense spending, better value than Rheinmetall",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 77,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "FLR",
+      "market": "US",
+      "name": "Fluor Corporation",
+      "category": "ai_infrastructure",
+      "thesis_hint": "$28.2B backlog, top data center constructor, nuclear + AI infrastructure EPC",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 74,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "BW",
+      "market": "US",
+      "name": "Babcock & Wilcox",
+      "category": "ai_energy",
+      "thesis_hint": "$1.5B data center power plant contract, +1119% 52-week, thermal power for AI",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "GEV",
+      "market": "US",
+      "name": "GE Vernova",
+      "category": "ai_energy",
+      "thesis_hint": "Nuclear turbine + grid infrastructure for AI data centers, spun from GE",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 71,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "SMR",
+      "market": "US",
+      "name": "NuScale Power",
+      "category": "ai_energy",
+      "thesis_hint": "Only NRC-approved SMR design, AI data center dedicated nuclear power play",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 68,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "TMC",
+      "market": "US",
+      "name": "The Metals Company",
+      "category": "anticipated_2026",
+      "thesis_hint": "Deep-sea mining first-mover, ISA decision 2026, nickel/cobalt for EV batteries",
+      "priority": "low",
       "status": "pending",
       "epiplexity_score": 63,
       "discovered": "2026-03-06"
