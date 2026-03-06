@@ -87,7 +87,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "EUV lithography monopoly \u2014 bottleneck for all advanced chips",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 90
     },
     {
       "ticker": "MSFT",

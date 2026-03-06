@@ -1,0 +1,48 @@
+{
+  "ticker": "ASML",
+  "name": "ASML Holding",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-06",
+  "current_price_usd": 1480,
+  "currency": "USD",
+  "market_cap_b": 580,
+  "pe_forward": 24,
+  "52_week_low": 555,
+  "52_week_high": 1564,
+  "epiplexity_score": 90,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scenarios": {
+    "bull": { "target": 1900, "return_pct": 28 },
+    "base": { "target": 1650, "return_pct": 11 },
+    "bear": { "target": 1200, "return_pct": -19 }
+  },
+  "key_catalyst": "High-NA EUV volume shipments + record bookings",
+  "next_catalyst_date": "2026-04-28",
+  "next_catalyst": "Q1 2026 earnings",
+  "stop_loss": 1240,
+  "position_size_pct": "5-8%",
+  "growth_accelerating": true,
+  "moat_rating": 5,
+  "risk_factors": [
+    "China revenue headwind (~€3B decline)",
+    "Export restriction escalation",
+    "Semiconductor capex cycle peak",
+    "High-NA yield issues"
+  ],
+  "analyst_targets": {
+    "bernstein": 1911,
+    "rbc": 1625,
+    "kgi": 1415,
+    "consensus": 1600
+  },
+  "key_metrics": {
+    "fy2025_revenue_eur_b": 32.7,
+    "fy2026_guidance_eur_b": "34-39",
+    "q4_2025_bookings_eur_b": 13.2,
+    "gross_margin_target": "51-53%",
+    "buyback_annual_eur_b": 6
+  },
+  "status": "researched"
+}
