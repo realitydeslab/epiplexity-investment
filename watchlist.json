@@ -43,7 +43,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "Custom AI ASICs for hyperscalers (Google TPU, Meta MTIA), networking",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 85
     },
     {
       "ticker": "TSM",

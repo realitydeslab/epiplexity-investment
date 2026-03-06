@@ -1,0 +1,42 @@
+{
+  "ticker": "AVGO",
+  "name": "Broadcom",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-06",
+  "current_price": 332.77,
+  "currency": "USD",
+  "market_cap_T": 1.49,
+  "forward_pe": 21.56,
+  "trailing_pe": 65.70,
+  "dividend_yield_pct": 0.82,
+  "beta": 1.26,
+  "52_week_low": 138.10,
+  "52_week_high": 414.61,
+  "q1_fy2026_revenue_B": 19.31,
+  "q1_fy2026_ai_revenue_B": 8.4,
+  "q1_fy2026_eps": 2.05,
+  "q2_fy2026_revenue_guide_B": 22.0,
+  "yoy_revenue_growth_pct": 29.5,
+  "yoy_ai_revenue_growth_pct": 106,
+  "free_cash_flow_quarterly_B": 8.0,
+  "buyback_program_B": 10.0,
+  "scenarios": {
+    "bull_12m": {"price": 500, "return_pct": 50},
+    "base_12m": {"price": 420, "return_pct": 26},
+    "bear_12m": {"price": 250, "return_pct": -25}
+  },
+  "stop_loss": 275,
+  "position_size_pct": "5-8%",
+  "epiplexity_score": 85,
+  "verdict": "BUY",
+  "key_catalysts": [
+    {"event": "Q2 FY2026 earnings", "date": "June 2026", "impact": "high"},
+    {"event": "New hyperscaler customer announcements", "date": "Mid-2026", "impact": "high"},
+    {"event": "$100B AI revenue 2027 validation", "date": "Throughout 2026", "impact": "very high"},
+    {"event": "$10B share buyback execution", "date": "2026-2027", "impact": "medium"}
+  ],
+  "analyst_pt_high": 630,
+  "analyst_pt_avg": 458,
+  "status": "researched"
+}
