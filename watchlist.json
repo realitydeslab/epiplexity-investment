@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updated": "2026-03-06",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -530,7 +530,9 @@
       "category": "hk_tech",
       "thesis_hint": "AI + IoT ecosystem, EV (SU7), smart manufacturing, HyperOS",
       "priority": "high",
-      "status": "pending"
+      "status": "pending",
+      "epiplexity_score": 72,
+      "last_researched": "2026-03-06"
     },
     {
       "ticker": "9868.HK",
@@ -883,6 +885,72 @@
       "priority": "low",
       "status": "pending",
       "epiplexity_score": 63,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "NBIS",
+      "market": "US",
+      "name": "Nebius Group",
+      "category": "ai_infrastructure",
+      "thesis_hint": "AI factory pure-play, Q4 rev +547% YoY, 1.2GW Missouri campus, $8B run rate target",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 84,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "ALAB",
+      "market": "US",
+      "name": "Astera Labs",
+      "category": "ai_semiconductors",
+      "thesis_hint": "AI connectivity chips, FY2025 rev $852M (+115% YoY), Scorpio/CXL hyperscaler wins",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "RZLV",
+      "market": "US",
+      "name": "Rezolve AI",
+      "category": "ai_platforms",
+      "thesis_hint": "Agentic commerce, guiding $350M 2026 rev (10x YoY), $500M ARR exit target",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 76,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "THLEF",
+      "market": "US",
+      "name": "Thales Group (ADR)",
+      "category": "military_ai",
+      "thesis_hint": "European defense rearmament, cyber/AI, space, digital identity, diversified",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 73,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "ALDX",
+      "market": "US",
+      "name": "Aldeyra Therapeutics",
+      "category": "anticipated_2026",
+      "thesis_hint": "Binary FDA PDUFA March 16 for reproxalap (dry eye), AbbVie $200M deal on approval",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 71,
+      "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "CCJ",
+      "market": "US",
+      "name": "Cameco Corporation",
+      "category": "ai_energy",
+      "thesis_hint": "Uranium supply king, $2.6B India deal, nuclear renaissance from AI power demand",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 68,
       "discovered": "2026-03-06"
     }
   ]
