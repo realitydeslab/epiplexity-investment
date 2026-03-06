@@ -1,0 +1,52 @@
+{
+  "ticker": "META",
+  "name": "Meta Platforms",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_platforms",
+  "research_date": "2026-03-06",
+  "status": "researched",
+  "price_at_research": 645.70,
+  "market_cap": "1.63T",
+  "epiplexity_score": 88,
+  "scores": {
+    "catalyst_strength": 9,
+    "growth_velocity": 9,
+    "leadership": 9,
+    "valuation": 8,
+    "competitive_position": 9,
+    "risk_reward": 9
+  },
+  "targets": {
+    "bull_12m": 950,
+    "base_12m": 830,
+    "bear_12m": 520,
+    "stop_loss": 580
+  },
+  "key_metrics": {
+    "pe_ttm": 27.47,
+    "forward_pe": 18.70,
+    "peg": 0.96,
+    "revenue_growth_ttm": "22.17%",
+    "revenue_2025": "200.97B",
+    "revenue_2026e": "254.86B",
+    "eps_ttm": 23.49,
+    "eps_2026e": 30.55,
+    "gross_margin": "82.0%",
+    "operating_margin": "41.4%",
+    "fcf_ttm": "46.1B",
+    "short_interest": "1.24%",
+    "insider_ownership": "13.65%",
+    "analyst_consensus": "Strong Buy",
+    "avg_price_target": 835.77
+  },
+  "key_catalyst_dates": [
+    {"date": "2026-03-16", "event": "Dividend ex-date"},
+    {"date": "2026-04-29", "event": "Q1 2026 Earnings (est.)"},
+    {"date": "2026-Q2", "event": "AI Shopping beta / Llama 4"},
+    {"date": "2026-07-29", "event": "Q2 2026 Earnings (est.)"},
+    {"date": "2026-10-28", "event": "Q3 2026 Earnings (est.)"}
+  ],
+  "verdict": "BUY",
+  "position_sizing": "5-8% of portfolio"
+}
