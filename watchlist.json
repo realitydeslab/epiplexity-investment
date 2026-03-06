@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "updated": "2026-03-06",
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "market": "US",
+      "name": "NVIDIA Corporation",
+      "thesis_hint": "AI infrastructure monopoly — GPU compute for the AI era",
+      "added": "2026-03-06",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "ticker": "AAPL",
+      "market": "US",
+      "name": "Apple Inc",
+      "thesis_hint": "Services & spatial computing transition",
+      "added": "2026-03-06",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "ticker": "9988.HK",
+      "market": "HK",
+      "name": "Alibaba Group",
+      "thesis_hint": "China AI + cloud + commerce recovery play",
+      "added": "2026-03-06",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "ticker": "BTC",
+      "market": "CRYPTO",
+      "name": "Bitcoin",
+      "thesis_hint": "Digital gold / sovereign reserve asset",
+      "added": "2026-03-06",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "ticker": "ETH",
+      "market": "CRYPTO",
+      "name": "Ethereum",
+      "thesis_hint": "Programmable value layer / DeFi infrastructure",
+      "added": "2026-03-06",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}
