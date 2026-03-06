@@ -170,7 +170,9 @@
       "category": "ai_platforms",
       "thesis_hint": "AIP platform \u2014 AI for defense & enterprise, government AI moat",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 84
     },
     {
       "ticker": "SMCI",

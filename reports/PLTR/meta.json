@@ -1,0 +1,65 @@
+{
+  "ticker": "PLTR",
+  "name": "Palantir Technologies",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_platforms",
+  "research_date": "2026-03-06",
+  "price_at_research": 157.14,
+  "market_cap_b": 375,
+  "52_week_low": 66.12,
+  "52_week_high": 207.52,
+  "ytd_return": -0.20,
+  "epiplexity_score": 84,
+  "verdict": "cautious_buy",
+  "scores": {
+    "growth": 98,
+    "profitability": 92,
+    "catalysts": 88,
+    "leadership": 80,
+    "valuation": 35,
+    "insider_signal": 40,
+    "competitive_moat": 90
+  },
+  "financials": {
+    "fy2025_revenue_m": 4475,
+    "fy2025_yoy_growth": 0.56,
+    "q4_2025_revenue_m": 1407,
+    "q4_2025_yoy_growth": 0.70,
+    "fy2026_guide_revenue_m": 7190,
+    "fy2026_guide_growth": 0.61,
+    "fy2026_guide_fcf_m": 4000,
+    "gaap_op_margin": 0.41,
+    "adj_op_margin": 0.57,
+    "fcf_margin": 0.56,
+    "rule_of_40": 127,
+    "cash_b": 7.2
+  },
+  "scenarios": {
+    "bull": {"target": 250, "return": 0.59},
+    "base": {"target": 200, "return": 0.27},
+    "bear": {"target": 110, "return": -0.30}
+  },
+  "key_dates": [
+    {"date": "2026-04-01", "event": "UK MoD contract activation"},
+    {"date": "2026-05-05", "event": "Q1 2026 earnings (est)"},
+    {"date": "2026-08-04", "event": "Q2 2026 earnings (est)"},
+    {"date": "2026-11-03", "event": "Q3 2026 earnings (est)"}
+  ],
+  "catalysts": [
+    "Q1 2026 earnings beat + raise",
+    "DHS $1B BPA task orders",
+    "UK MoD + NATO expansion",
+    "US commercial AIP acceleration to $3.14B+",
+    "Large DOD contract wins",
+    "$4B+ FCF machine validation"
+  ],
+  "risks": [
+    "52x revenue valuation — priced for perfection",
+    "$400M insider selling in 2 weeks",
+    "Political controversy (ICE, surveillance)",
+    "GAAP vs adjusted SBC gap",
+    "Tech multiple compression risk"
+  ],
+  "status": "researched"
+}
