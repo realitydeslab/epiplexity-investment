@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-03-06",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -10,7 +10,9 @@
     "china_ai": "Chinese AI ecosystem \u2014 models, chips, cloud",
     "crypto_ai": "Crypto x AI intersection",
     "anticipated_2026": "High-conviction plays for 2026 catalysts",
-    "military_ai": "Defense & military AI \u2014 autonomous systems, cybersecurity, intelligence"
+    "military_ai": "Defense & military AI \u2014 autonomous systems, cybersecurity, intelligence",
+    "hk_tech": "Hong Kong listed tech \u2014 AI, cloud, EVs, biotech, fintech",
+    "hk_traditional": "Hong Kong blue chips \u2014 finance, property, infrastructure"
   },
   "watchlist": [
     {
@@ -470,6 +472,186 @@
       "name": "AST SpaceMobile",
       "category": "military_ai",
       "thesis_hint": "Space-based cellular broadband \u2014 military comms from any phone, government contracts",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "3690.HK",
+      "market": "HK",
+      "name": "Meituan",
+      "category": "hk_tech",
+      "thesis_hint": "AI-powered delivery/logistics, autonomous drones, local services super-app",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "9618.HK",
+      "market": "HK",
+      "name": "JD.com",
+      "category": "hk_tech",
+      "thesis_hint": "AI logistics, autonomous warehouses, drone delivery, e-commerce",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "9999.HK",
+      "market": "HK",
+      "name": "NetEase",
+      "category": "hk_tech",
+      "thesis_hint": "AI gaming, music streaming, education tech",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "1810.HK",
+      "market": "HK",
+      "name": "Xiaomi",
+      "category": "hk_tech",
+      "thesis_hint": "AI + IoT ecosystem, EV (SU7), smart manufacturing, HyperOS",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "9868.HK",
+      "market": "HK",
+      "name": "XPeng",
+      "category": "hk_tech",
+      "thesis_hint": "AI autonomous driving, flying cars, robotics, XNGP system",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "9866.HK",
+      "market": "HK",
+      "name": "NIO",
+      "category": "hk_tech",
+      "thesis_hint": "AI-powered EVs, battery swap network, NIO Phone, autonomous driving",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "2015.HK",
+      "market": "HK",
+      "name": "Li Auto",
+      "category": "hk_tech",
+      "thesis_hint": "EREV + BEV, AI cockpit, family-oriented smart EVs, profitable",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "1024.HK",
+      "market": "HK",
+      "name": "Kuaishou",
+      "category": "hk_tech",
+      "thesis_hint": "AI short video, AI-generated content, live commerce, rival to TikTok/Douyin",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "6060.HK",
+      "market": "HK",
+      "name": "ZhongAn Online",
+      "category": "hk_tech",
+      "thesis_hint": "AI insurtech, digital insurance, fintech pioneer",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "ticker": "0981.HK",
+      "market": "HK",
+      "name": "SMIC",
+      "category": "hk_tech",
+      "thesis_hint": "China's largest chip foundry \u2014 semiconductor self-sufficiency play",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "2382.HK",
+      "market": "HK",
+      "name": "Sunny Optical",
+      "category": "hk_tech",
+      "thesis_hint": "AI camera modules, autonomous driving optics, smartphone lenses",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "0285.HK",
+      "market": "HK",
+      "name": "BYD Electronic",
+      "category": "hk_tech",
+      "thesis_hint": "AI manufacturing, smart device components, EV electronics",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "1211.HK",
+      "market": "HK",
+      "name": "BYD Company",
+      "category": "hk_tech",
+      "thesis_hint": "World's largest EV maker, AI chips, autonomous driving, global expansion",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "9626.HK",
+      "market": "HK",
+      "name": "Bilibili",
+      "category": "hk_tech",
+      "thesis_hint": "Gen-Z video platform, AI content generation, gaming, China YouTube",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "2013.HK",
+      "market": "HK",
+      "name": "Weimob",
+      "category": "hk_tech",
+      "thesis_hint": "AI SaaS for merchants, WeChat mini-program ecosystem",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "ticker": "0020.HK",
+      "market": "HK",
+      "name": "SenseTime",
+      "category": "hk_tech",
+      "thesis_hint": "China's largest pure-play AI company \u2014 computer vision, generative AI, SenseNova",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "ticker": "2018.HK",
+      "market": "HK",
+      "name": "AAC Technologies",
+      "category": "hk_tech",
+      "thesis_hint": "AI acoustics, haptics, optics for smartphones and AR/VR devices",
+      "priority": "low",
+      "status": "pending"
+    },
+    {
+      "ticker": "0005.HK",
+      "market": "HK",
+      "name": "HSBC Holdings",
+      "category": "hk_traditional",
+      "thesis_hint": "AI banking transformation, Asia wealth management, HK/China gateway",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "1299.HK",
+      "market": "HK",
+      "name": "AIA Group",
+      "category": "hk_traditional",
+      "thesis_hint": "AI insurance underwriting, Asia's largest insurer, demographics tailwind",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "ticker": "0388.HK",
+      "market": "HK",
+      "name": "HKEX",
+      "category": "hk_traditional",
+      "thesis_hint": "Hong Kong Stock Exchange \u2014 gateway for China capital flows, AI trading infra",
       "priority": "medium",
       "status": "pending"
     }
