@@ -22,6 +22,19 @@ Your job is NOT stock analysis. Your job is **future analysis** — understandin
 
 ## Part 2: The Execution Score 📊
 
+## Part 1.5: The Leader 👤
+
+**Who is driving this future?**
+
+- **CEO/Founder profile:** Background, education, philosophy, public persona
+- **Track record:** Previous companies, exits, promises kept vs. broken
+- **Vision articulation:** How clearly and consistently do they communicate the future?
+- **Insider activity:** Are they buying or selling their own stock? Patterns over 12 months
+- **Leadership team:** Key lieutenants — CTO, CFO, heads of key divisions. Depth of bench.
+- **Succession risk:** What happens if this person leaves? Is the vision bigger than one person?
+- **Red flags:** Lawsuits, controversies, governance issues, excessive compensation
+- **The question:** Is this the RIGHT person to build this future? Why or why not?
+
 **Can they actually pull this off?**
 
 For EACH phase of their plan, evaluate:
@@ -79,12 +92,13 @@ For each scenario:
 
 Write to `/home/biber/research/epiplexity-investment/reports/{TICKER}/`:
 
-1. `future-blueprint.md` — Part 1 (the plan, phased timeline, end state)
-2. `execution-score.md` — Part 2 (can they do it, rated per phase)
-3. `competitive-map.md` — Part 3 (who else, alternative futures)
-4. `value-scenarios.md` — Part 4 (what's it worth under each scenario)
-5. `learnings.md` — Part 5 (structured intelligence)
-6. `thesis.md` — 1-page synthesis: the bet, the risk, the verdict
-7. `meta.json` — structured data: scores, prices, dates, status
+1. `future-blueprint.md` — The future plan, phased timeline, end state
+2. `leader-profile.md` — CEO/founder deep dive, track record, insider activity
+3. `execution-score.md` — Can they do it? Rated 1-10 per phase
+4. `competitive-map.md` — Who else is building this future?
+5. `value-scenarios.md` — $10K invested → worth what under each scenario?
+6. `learnings.md` — Structured intelligence, patterns, adjacent opportunities
+7. `thesis.md` — 1-page synthesis: the bet, the risk, the verdict
+8. `meta.json` — Structured data: scores, prices, dates, status
 
 Use REAL data from web search. Cite sources. Include dates. Label speculation clearly.
