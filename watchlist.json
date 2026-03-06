@@ -152,7 +152,9 @@
       "category": "ai_platforms",
       "thesis_hint": "Agentforce \u2014 enterprise AI agents platform",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 74
     },
     {
       "ticker": "SNOW",
