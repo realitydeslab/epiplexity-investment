@@ -1,0 +1,49 @@
+{
+  "ticker": "MSFT",
+  "name": "Microsoft Corporation",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "sector": "Technology",
+  "category": "ai_platforms",
+  "research_date": "2026-03-06",
+  "price_at_research": 410.53,
+  "market_cap": "3.05T",
+  "epiplexity_score": 87,
+  "verdict": "BUY",
+  "forward_pe": 21.62,
+  "peg_ratio": 1.19,
+  "ttm_eps": 15.98,
+  "next_year_eps_est": 19.01,
+  "eps_growth_5yr_est": "18.19%",
+  "revenue_ttm": "305.45B",
+  "revenue_growth_yoy": "16.7%",
+  "azure_growth_yoy": "39%",
+  "cloud_rpo": "625B",
+  "cloud_rpo_growth": "110%",
+  "gross_margin": "68.59%",
+  "52w_high": 555.45,
+  "52w_low": 344.79,
+  "short_float": "0.77%",
+  "insider_ownership": "1.50%",
+  "institutional_ownership": "74.86%",
+  "dividend_yield": "0.88%",
+  "scenarios": {
+    "bull": { "target": 550, "return": "+34%" },
+    "base": { "target": 475, "return": "+16%" },
+    "bear": { "target": 360, "return": "-12%" }
+  },
+  "stop_loss": 370,
+  "position_size": "8-12%",
+  "key_catalysts": [
+    { "event": "Q3 FY2026 Earnings", "date": "2026-04-28", "impact": "high" },
+    { "event": "Q4 FY2026 + FY2027 Guidance", "date": "2026-07-28", "impact": "very_high" },
+    { "event": "OpenAI Restructuring/IPO", "date": "2026-H2", "impact": "very_high" },
+    { "event": "Copilot Price/Tier Update", "date": "2026-H1", "impact": "medium" },
+    { "event": "Windows 12 / AI PC Launch", "date": "2026-H2", "impact": "low" }
+  ],
+  "top_risks": [
+    "AI capex ROI questioned",
+    "OpenAI relationship fracture",
+    "Macro recession / multiple compression"
+  ]
+}
