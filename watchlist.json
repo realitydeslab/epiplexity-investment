@@ -122,7 +122,8 @@
       "category": "ai_edge",
       "thesis_hint": "Apple Intelligence, on-device AI, spatial computing",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06"
     },
     {
       "ticker": "CRM",

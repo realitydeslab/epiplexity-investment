@@ -1,0 +1,50 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc",
+  "market": "US",
+  "research_date": "2026-03-06",
+  "share_price_approx": 250,
+  "currency": "USD",
+  "market_cap_approx": "3.7T",
+  "pe_ratio": 33,
+  "revenue_ttm_approx": "430B",
+  "net_income_ttm_approx": "110B",
+  "installed_base": "2.5B devices",
+  "execution_scores": {
+    "phase1": 8.0,
+    "phase2": 7.0,
+    "phase3": 5.8,
+    "overall": 7.0
+  },
+  "leader": {
+    "name": "Tim Cook",
+    "role": "CEO",
+    "tenure_years": 14,
+    "rating": 7.5,
+    "insider_activity": "net seller (-$418M, 2yr)"
+  },
+  "value_scenarios": {
+    "bull_2035_10k": 21300,
+    "bull_cagr": 8.7,
+    "base_2035_10k": 14600,
+    "base_cagr": 4.3,
+    "bear_2030_10k": 7600,
+    "bear_cagr": -5.5,
+    "floor_price": 128
+  },
+  "verdict": "Quality hold, buy on dips below $220",
+  "thesis_oneline": "Apple is a $120B/year toll booth on the digital economy disguised as a phone company — buy it on dips, hold it forever, but don't expect fireworks at $3.7T.",
+  "key_catalysts": [
+    "Siri 2.0 launch (Spring 2026)",
+    "iPhone 17 AI features",
+    "AR glasses announcement",
+    "Services crossing $35B/quarter"
+  ],
+  "key_risks": [
+    "Siri 2.0 quality",
+    "Antitrust (EU DMA, US DOJ)",
+    "China geopolitical risk",
+    "Valuation multiple compression"
+  ],
+  "status": "researched"
+}
