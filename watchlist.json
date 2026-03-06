@@ -65,7 +65,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "CPU architecture licensing \u2014 every AI chip uses Arm cores",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 82
     },
     {
       "ticker": "MRVL",

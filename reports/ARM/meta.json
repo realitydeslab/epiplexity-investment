@@ -1,0 +1,40 @@
+{
+  "ticker": "ARM",
+  "name": "Arm Holdings",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-06",
+  "current_price": 121,
+  "price_currency": "USD",
+  "52_week_low": 63,
+  "52_week_high": 160,
+  "market_cap_billions": 130,
+  "ttm_revenue_billions": 4.7,
+  "yoy_revenue_growth_pct": 26,
+  "gross_margin_pct": 97,
+  "operating_margin_pct": 41,
+  "last_eps": 0.43,
+  "eps_beat_pct": 5,
+  "next_earnings": "2026-05-06",
+  "guided_next_eps": 0.58,
+  "analyst_consensus": "Moderate Buy",
+  "analyst_avg_target": 169.52,
+  "analyst_high_target": 210,
+  "analyst_low_target": 120,
+  "epiplexity_score": 82,
+  "scenarios": {
+    "bull": {"target": 180, "return_pct": 49},
+    "base": {"target": 150, "return_pct": 24},
+    "bear": {"target": 90, "return_pct": -26}
+  },
+  "top_catalysts": [
+    {"event": "Q4 FY2026 Earnings", "date": "2026-05-06", "impact": "high"},
+    {"event": "Armv9 royalty rate inflection", "date": "ongoing", "impact": "high"},
+    {"event": "Hyperscaler CSS ramps", "date": "H1-H2 2026", "impact": "high"},
+    {"event": "Automotive design wins", "date": "H2 2026", "impact": "medium"}
+  ],
+  "stop_loss": 100,
+  "position_size_pct": "3-5%",
+  "insider_activity": "net_selling",
+  "status": "researched"
+}
