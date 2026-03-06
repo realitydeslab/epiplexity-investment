@@ -131,7 +131,9 @@
       "category": "ai_platforms",
       "thesis_hint": "AWS AI/Bedrock, Trainium custom chips, Anthropic investor",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 87
     },
     {
       "ticker": "AAPL",

@@ -1,0 +1,58 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon.com, Inc.",
+  "market": "US",
+  "category": "ai_platforms",
+  "research_date": "2026-03-06",
+  "price_at_research": 213.89,
+  "market_cap": "2.30T",
+  "currency": "USD",
+  "epiplexity_score": 87,
+  "scores": {
+    "catalyst_strength": 88,
+    "growth_velocity": 85,
+    "leader_quality": 85,
+    "competitive_position": 90,
+    "risk_reward": 82,
+    "conviction": 87
+  },
+  "valuation": {
+    "pe_ttm": 29.8,
+    "pe_forward": 27.0,
+    "ps_ratio": 3.21,
+    "ev_ebitda": 16
+  },
+  "growth": {
+    "revenue_yoy": "12.38%",
+    "revenue_q4_yoy": "13.63%",
+    "eps_growth": "29.66%",
+    "operating_margin": "11.16%",
+    "gross_margin": "50.29%"
+  },
+  "analyst_consensus": {
+    "rating": "Strong Buy",
+    "count": 44,
+    "avg_target": 279.57,
+    "median_target": 295,
+    "low": 175,
+    "high": 325
+  },
+  "trade_setup": {
+    "entry": 213.89,
+    "stop_loss": 190,
+    "bull_target": 295,
+    "base_target": 260,
+    "bear_target": 175,
+    "position_size": "5-8%"
+  },
+  "key_catalysts": [
+    {"event": "Q1 2026 Earnings", "date": "2026-04-30", "impact": "high"},
+    {"event": "AWS capacity unlock", "date": "2026-H1", "impact": "high"},
+    {"event": "Trainium3 launch", "date": "2026-H2", "impact": "medium"},
+    {"event": "Project Kuiper commercial", "date": "2026-H2", "impact": "medium"},
+    {"event": "Q2 2026 Earnings", "date": "2026-07-31", "impact": "high"},
+    {"event": "Q3 2026 Earnings", "date": "2026-10-31", "impact": "high"}
+  ],
+  "insider_activity": "routine_selling",
+  "status": "researched"
+}
