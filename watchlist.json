@@ -54,7 +54,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "Manufactures every AI chip \u2014 NVIDIA, AMD, Apple, custom ASICs",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 88
     },
     {
       "ticker": "ARM",
