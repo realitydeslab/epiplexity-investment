@@ -1,53 +1,61 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-03-06",
+  "categories": {
+    "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
+    "ai_platforms": "Companies building AI models, platforms, and applications",
+    "ai_semiconductors": "Chipmakers powering AI compute",
+    "ai_energy": "Power infrastructure enabling AI data centers",
+    "ai_edge": "AI at the edge — robotics, autonomous systems, devices",
+    "china_ai": "Chinese AI ecosystem — models, chips, cloud",
+    "crypto_ai": "Crypto x AI intersection",
+    "anticipated_2026": "High-conviction plays for 2026 catalysts"
+  },
   "watchlist": [
-    {
-      "ticker": "NVDA",
-      "market": "US",
-      "name": "NVIDIA Corporation",
-      "thesis_hint": "AI infrastructure monopoly \u2014 GPU compute for the AI era",
-      "added": "2026-03-06",
-      "status": "researched",
-      "priority": "high",
-      "last_researched": "2026-03-06"
-    },
-    {
-      "ticker": "AAPL",
-      "market": "US",
-      "name": "Apple Inc",
-      "thesis_hint": "Services & spatial computing transition",
-      "added": "2026-03-06",
-      "status": "pending",
-      "priority": "medium"
-    },
-    {
-      "ticker": "9988.HK",
-      "market": "HK",
-      "name": "Alibaba Group",
-      "thesis_hint": "China AI + cloud + commerce recovery play",
-      "added": "2026-03-06",
-      "status": "researched",
-      "priority": "high",
-      "last_researched": "2026-03-06"
-    },
-    {
-      "ticker": "BTC",
-      "market": "CRYPTO",
-      "name": "Bitcoin",
-      "thesis_hint": "Digital gold / sovereign reserve asset",
-      "added": "2026-03-06",
-      "status": "pending",
-      "priority": "medium"
-    },
-    {
-      "ticker": "ETH",
-      "market": "CRYPTO",
-      "name": "Ethereum",
-      "thesis_hint": "Programmable value layer / DeFi infrastructure",
-      "added": "2026-03-06",
-      "status": "pending",
-      "priority": "medium"
-    }
+    {"ticker": "NVDA", "market": "US", "name": "NVIDIA", "category": "ai_semiconductors", "thesis_hint": "AI GPU monopoly, CUDA moat, Blackwell→Vera Rubin cycle", "priority": "high", "status": "researched", "last_researched": "2026-03-06"},
+
+    {"ticker": "AMD", "market": "US", "name": "Advanced Micro Devices", "category": "ai_semiconductors", "thesis_hint": "MI300X/MI400 challenging NVIDIA in inference, value alternative", "priority": "high", "status": "pending"},
+    {"ticker": "AVGO", "market": "US", "name": "Broadcom", "category": "ai_semiconductors", "thesis_hint": "Custom AI ASICs for hyperscalers (Google TPU, Meta MTIA), networking", "priority": "high", "status": "pending"},
+    {"ticker": "TSM", "market": "US", "name": "TSMC", "category": "ai_semiconductors", "thesis_hint": "Manufactures every AI chip — NVIDIA, AMD, Apple, custom ASICs", "priority": "high", "status": "pending"},
+    {"ticker": "ARM", "market": "US", "name": "Arm Holdings", "category": "ai_semiconductors", "thesis_hint": "CPU architecture licensing — every AI chip uses Arm cores", "priority": "medium", "status": "pending"},
+    {"ticker": "MRVL", "market": "US", "name": "Marvell Technology", "category": "ai_semiconductors", "thesis_hint": "Custom AI silicon + networking for cloud", "priority": "medium", "status": "pending"},
+    {"ticker": "ASML", "market": "US", "name": "ASML", "category": "ai_semiconductors", "thesis_hint": "EUV lithography monopoly — bottleneck for all advanced chips", "priority": "high", "status": "pending"},
+
+    {"ticker": "MSFT", "market": "US", "name": "Microsoft", "category": "ai_platforms", "thesis_hint": "OpenAI partnership, Copilot everywhere, Azure AI cloud", "priority": "high", "status": "pending"},
+    {"ticker": "GOOGL", "market": "US", "name": "Alphabet/Google", "category": "ai_platforms", "thesis_hint": "Gemini, DeepMind, TPUs, Search AI transformation", "priority": "high", "status": "pending"},
+    {"ticker": "META", "market": "US", "name": "Meta Platforms", "category": "ai_platforms", "thesis_hint": "Llama open-source models, AI-driven ads, metaverse pivot to AI", "priority": "high", "status": "pending"},
+    {"ticker": "AMZN", "market": "US", "name": "Amazon", "category": "ai_platforms", "thesis_hint": "AWS AI/Bedrock, Trainium custom chips, Anthropic investor", "priority": "high", "status": "pending"},
+    {"ticker": "AAPL", "market": "US", "name": "Apple", "category": "ai_edge", "thesis_hint": "Apple Intelligence, on-device AI, spatial computing", "priority": "medium", "status": "pending"},
+    {"ticker": "CRM", "market": "US", "name": "Salesforce", "category": "ai_platforms", "thesis_hint": "Agentforce — enterprise AI agents platform", "priority": "medium", "status": "pending"},
+    {"ticker": "SNOW", "market": "US", "name": "Snowflake", "category": "ai_platforms", "thesis_hint": "AI data cloud, Cortex AI, enterprise data for LLMs", "priority": "medium", "status": "pending"},
+    {"ticker": "PLTR", "market": "US", "name": "Palantir", "category": "ai_platforms", "thesis_hint": "AIP platform — AI for defense & enterprise, government AI moat", "priority": "high", "status": "pending"},
+
+    {"ticker": "SMCI", "market": "US", "name": "Super Micro Computer", "category": "ai_infrastructure", "thesis_hint": "AI server assembly — liquid cooling, GPU racks for data centers", "priority": "medium", "status": "pending"},
+    {"ticker": "VRT", "market": "US", "name": "Vertiv Holdings", "category": "ai_infrastructure", "thesis_hint": "Power & cooling infrastructure for AI data centers", "priority": "medium", "status": "pending"},
+    {"ticker": "DELL", "market": "US", "name": "Dell Technologies", "category": "ai_infrastructure", "thesis_hint": "AI server & storage — enterprise on-prem AI infrastructure", "priority": "medium", "status": "pending"},
+
+    {"ticker": "VST", "market": "US", "name": "Vistra Energy", "category": "ai_energy", "thesis_hint": "Nuclear + natural gas power for AI data centers", "priority": "medium", "status": "pending"},
+    {"ticker": "CEG", "market": "US", "name": "Constellation Energy", "category": "ai_energy", "thesis_hint": "Nuclear power — Microsoft deal for Three Mile Island restart", "priority": "medium", "status": "pending"},
+    {"ticker": "OKLO", "market": "US", "name": "Oklo", "category": "ai_energy", "thesis_hint": "Small modular nuclear reactors for AI data centers, Sam Altman backed", "priority": "high", "status": "pending"},
+
+    {"ticker": "TSLA", "market": "US", "name": "Tesla", "category": "ai_edge", "thesis_hint": "FSD robotaxi, Optimus humanoid robot, Dojo supercomputer", "priority": "high", "status": "pending"},
+    {"ticker": "ISRG", "market": "US", "name": "Intuitive Surgical", "category": "ai_edge", "thesis_hint": "AI-powered robotic surgery — da Vinci platform", "priority": "medium", "status": "pending"},
+
+    {"ticker": "9988.HK", "market": "HK", "name": "Alibaba Group", "category": "china_ai", "thesis_hint": "Qwen models, Alibaba Cloud AI, China AI leader", "priority": "high", "status": "pending"},
+    {"ticker": "0700.HK", "market": "HK", "name": "Tencent", "category": "china_ai", "thesis_hint": "Hunyuan AI, WeChat AI integration, gaming + AI", "priority": "high", "status": "pending"},
+    {"ticker": "BIDU", "market": "US", "name": "Baidu", "category": "china_ai", "thesis_hint": "Ernie Bot, Apollo autonomous driving, China search AI", "priority": "medium", "status": "pending"},
+    {"ticker": "9888.HK", "market": "HK", "name": "Baidu (HK)", "category": "china_ai", "thesis_hint": "HK-listed Baidu for China exposure", "priority": "low", "status": "pending"},
+    {"ticker": "BABA", "market": "US", "name": "Alibaba (US ADR)", "category": "china_ai", "thesis_hint": "US-listed Alibaba ADR", "priority": "low", "status": "pending"},
+
+    {"ticker": "BTC", "market": "CRYPTO", "name": "Bitcoin", "category": "crypto_ai", "thesis_hint": "Digital gold, sovereign reserve, ETF inflows", "priority": "medium", "status": "pending"},
+    {"ticker": "ETH", "market": "CRYPTO", "name": "Ethereum", "category": "crypto_ai", "thesis_hint": "DeFi + AI agent infrastructure layer", "priority": "medium", "status": "pending"},
+    {"ticker": "TAO", "market": "CRYPTO", "name": "Bittensor", "category": "crypto_ai", "thesis_hint": "Decentralized AI network — crypto x AI pure play", "priority": "high", "status": "pending"},
+    {"ticker": "RENDER", "market": "CRYPTO", "name": "Render Network", "category": "crypto_ai", "thesis_hint": "Decentralized GPU compute for AI/rendering", "priority": "medium", "status": "pending"},
+    {"ticker": "FET", "market": "CRYPTO", "name": "Fetch.ai (ASI Alliance)", "category": "crypto_ai", "thesis_hint": "AI agent economy — autonomous economic agents", "priority": "medium", "status": "pending"},
+
+    {"ticker": "RKLB", "market": "US", "name": "Rocket Lab", "category": "anticipated_2026", "thesis_hint": "Neutron rocket 2026 launch, space infrastructure, satellite AI", "priority": "high", "status": "pending"},
+    {"ticker": "IONQ", "market": "US", "name": "IonQ", "category": "anticipated_2026", "thesis_hint": "Quantum computing — potential AI acceleration breakthrough", "priority": "medium", "status": "pending"},
+    {"ticker": "RDDT", "market": "US", "name": "Reddit", "category": "anticipated_2026", "thesis_hint": "AI training data moat — Google/OpenAI licensing deals", "priority": "medium", "status": "pending"},
+    {"ticker": "APP", "market": "US", "name": "AppLovin", "category": "anticipated_2026", "thesis_hint": "AI-powered ad tech — AXON engine dominance", "priority": "high", "status": "pending"}
   ]
 }
