@@ -109,7 +109,9 @@
       "category": "ai_platforms",
       "thesis_hint": "Gemini, DeepMind, TPUs, Search AI transformation",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 87
     },
     {
       "ticker": "META",

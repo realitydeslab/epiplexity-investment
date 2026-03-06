@@ -1,0 +1,50 @@
+{
+  "ticker": "GOOGL",
+  "name": "Alphabet/Google",
+  "market": "US",
+  "category": "ai_platforms",
+  "research_date": "2026-03-06",
+  "status": "researched",
+  "epiplexity_score": 87,
+  "verdict": "BUY — High Conviction",
+  "current_price": 299.52,
+  "price_date": "2026-03-06",
+  "market_cap": "3.62T",
+  "pe_ratio": 27.7,
+  "forward_pe": 25.9,
+  "52_week_range": "140.53 - 349.00",
+  "revenue_fy2025": "402.8B",
+  "revenue_growth_fy2025": "15.1%",
+  "revenue_growth_q4_2025": "18.0%",
+  "eps_fy2025": 10.82,
+  "eps_growth_fy2025": "34.4%",
+  "net_income_fy2025": "132.2B",
+  "fcf_fy2025": "73.3B",
+  "cash_position": "126.8B",
+  "google_cloud_q4_revenue": "17.66B",
+  "google_cloud_q4_growth": "48%",
+  "cloud_backlog": "240B",
+  "gemini_mau": "750M",
+  "capex_guidance_2026": "175-185B",
+  "analyst_consensus": "Strong Buy (44 analysts)",
+  "avg_price_target": 351.82,
+  "median_price_target": 370,
+  "scenarios": {
+    "bull_12m": {"price": 420, "return": "+40%"},
+    "base_12m": {"price": 370, "return": "+24%"},
+    "bear_12m": {"price": 240, "return": "-20%"}
+  },
+  "key_catalysts": [
+    {"event": "Q1 2026 Earnings", "date": "2026-04-29", "impact": "high"},
+    {"event": "Google I/O 2026", "date": "2026-05-15", "impact": "high"},
+    {"event": "DOJ Antitrust Remedy Decision", "date": "2026-Q2-Q3", "impact": "high"},
+    {"event": "Q2 2026 Earnings", "date": "2026-07-28", "impact": "high"},
+    {"event": "Waymo New City Launches", "date": "2026-ongoing", "impact": "medium"}
+  ],
+  "risks": [
+    "Capex ROI disappointment",
+    "DOJ forced divestiture",
+    "YouTube deceleration",
+    "AI monetization negative for search economics"
+  ]
+}
