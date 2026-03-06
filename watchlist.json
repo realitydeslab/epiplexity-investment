@@ -76,7 +76,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "Custom AI silicon + networking for cloud",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 86
     },
     {
       "ticker": "ASML",

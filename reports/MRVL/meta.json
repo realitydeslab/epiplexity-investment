@@ -1,0 +1,65 @@
+{
+  "ticker": "MRVL",
+  "name": "Marvell Technology",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-06",
+  "status": "researched",
+  "epiplexity_score": 86,
+  "conviction": "high",
+  "verdict": "BUY on pullback",
+  "current_price": 87.0,
+  "price_at_research": 87.0,
+  "pre_earnings_close": 75.68,
+  "after_hours_surge": 15,
+  "52_week_high": 102.77,
+  "52_week_low": 47.08,
+  "market_cap_billions": 76,
+  "pe_ratio": 28.57,
+  "peg_ratio": 0.66,
+  "targets": {
+    "bull_12mo": 130,
+    "base_12mo": 110,
+    "bear_12mo": 70,
+    "stop_loss": 72
+  },
+  "scenarios_10k": {
+    "bull": {"value": 14940, "return_pct": 49},
+    "base": {"value": 12640, "return_pct": 26},
+    "bear": {"value": 8050, "return_pct": -20}
+  },
+  "analyst_consensus": {
+    "avg_target": 114.78,
+    "rating": "Moderate Buy",
+    "strong_buy": 14,
+    "buy": 8,
+    "hold": 8,
+    "sell": 0
+  },
+  "financials": {
+    "fy2026_revenue_b": 8.195,
+    "fy2026_yoy_growth_pct": 42,
+    "q4_fy2026_revenue_b": 2.219,
+    "q4_fy2026_eps_gaap": 0.46,
+    "q4_fy2026_eps_nongaap": 0.80,
+    "fy2026_eps_gaap": 3.07,
+    "fy2026_eps_nongaap": 2.84,
+    "gross_margin_nongaap_pct": 59.0,
+    "q1_fy2027_revenue_guidance_b": 2.4,
+    "fy2027_revenue_target_b": 11.0
+  },
+  "key_catalysts": [
+    {"event": "Q1 FY2027 earnings", "date": "2026-06", "impact": "high"},
+    {"event": "Google next-gen TPU launch", "date": "2026-Q2-Q3", "impact": "high"},
+    {"event": "1.6T deployment ramp", "date": "2026-H2", "impact": "high"},
+    {"event": "Celestial AI CPO revenue ramp", "date": "2026-H2", "impact": "medium-high"},
+    {"event": "Analyst upgrades post-earnings", "date": "2026-03", "impact": "medium"}
+  ],
+  "risks": [
+    "AI capex slowdown",
+    "NVIDIA Spectrum-X competition",
+    "Celestial AI/XConn integration",
+    "High beta (1.97) in volatile macro",
+    "Iran conflict / rates staying higher"
+  ]
+}
