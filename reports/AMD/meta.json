@@ -1,0 +1,39 @@
+{
+  "ticker": "AMD",
+  "name": "Advanced Micro Devices",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-06",
+  "current_price": 216,
+  "currency": "USD",
+  "scores": {
+    "catalyst_strength": 9,
+    "growth_velocity": 8,
+    "leadership": 10,
+    "competitive_position": 7,
+    "valuation": 8,
+    "risk_reward": 8,
+    "overall_epiplexity": 83
+  },
+  "targets": {
+    "bull_12mo": 330,
+    "base_12mo": 270,
+    "bear_12mo": 165,
+    "stop_loss": 180
+  },
+  "position_sizing": "5-8% of portfolio",
+  "verdict": "BUY",
+  "conviction": "HIGH",
+  "key_catalyst": "MI450 GPU launch H2 2026",
+  "key_catalyst_date": "2026-H2",
+  "key_risk": "CoWoS packaging bottleneck + NVIDIA ecosystem moat",
+  "next_earnings": "2026-04-late",
+  "catalysts": [
+    {"event": "Q1 2026 Earnings", "date": "2026-04-late", "impact": "high"},
+    {"event": "Computex MI450 demos", "date": "2026-06", "impact": "high"},
+    {"event": "Q2 2026 Earnings", "date": "2026-07-late", "impact": "high"},
+    {"event": "MI450 sampling", "date": "2026-Q3", "impact": "very_high"},
+    {"event": "MI450 volume ramp", "date": "2026-H2", "impact": "very_high"}
+  ],
+  "status": "researched"
+}

@@ -32,7 +32,9 @@
       "category": "ai_semiconductors",
       "thesis_hint": "MI300X/MI400 challenging NVIDIA in inference, value alternative",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-06",
+      "epiplexity_score": 83
     },
     {
       "ticker": "AVGO",
