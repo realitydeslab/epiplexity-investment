@@ -1,0 +1,45 @@
+{
+  "ticker": "ISRG",
+  "name": "Intuitive Surgical",
+  "market": "US",
+  "category": "ai_edge",
+  "research_date": "2026-03-07",
+  "current_price": 490.20,
+  "fifty_two_week_high": 603.88,
+  "fifty_two_week_low": 425.00,
+  "market_cap_billions": 170,
+  "epiplexity_score": 83,
+  "verdict": "BUY on pullback",
+  "conviction": "HIGH",
+  "scenarios": {
+    "bull": { "target": 680, "return_pct": 38.8, "ten_k_becomes": 13878 },
+    "base": { "target": 610, "return_pct": 24.5, "ten_k_becomes": 12449 },
+    "bear": { "target": 420, "return_pct": -14.3, "ten_k_becomes": 8571 }
+  },
+  "stop_loss": 440,
+  "position_size_pct": "3-5%",
+  "key_catalysts": [
+    { "event": "da Vinci 5 cardiac surgery rollout", "date": "2026 throughout", "probability": "High" },
+    { "event": "Q1 2026 earnings", "date": "2026-04-22", "probability": "High beat probability" },
+    { "event": "European distribution in-housing", "date": "2026 H2", "probability": "High" },
+    { "event": "My Intuitive+ subscription launch", "date": "2026", "probability": "Medium-High" },
+    { "event": "Ion platform inflection", "date": "2026 ongoing", "probability": "High" }
+  ],
+  "key_metrics": {
+    "fy2025_revenue_billions": 10.06,
+    "q4_2025_revenue_billions": 2.87,
+    "q4_2025_eps": 2.53,
+    "yoy_revenue_growth_pct": 19.1,
+    "procedure_growth_pct": 18,
+    "installed_base_davinci": 11106,
+    "installed_base_ion": 995,
+    "dv5_placements_q4": 303,
+    "forward_pe": 45
+  },
+  "analyst_consensus": {
+    "rating": "Moderate Buy",
+    "avg_price_target": 609.82,
+    "high_price_target": 787.50
+  },
+  "status": "researched"
+}
