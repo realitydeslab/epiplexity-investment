@@ -1,0 +1,69 @@
+{
+  "ticker": "SNOW",
+  "name": "Snowflake",
+  "market": "US",
+  "category": "ai_platforms",
+  "researched_date": "2026-03-07",
+  "price_at_research": 168.29,
+  "market_cap_b": 57.6,
+  "epiplexity_score": 80,
+  "scores": {
+    "catalyst_strength": 82,
+    "leader_quality": 85,
+    "growth_velocity": 83,
+    "trade_setup": 78,
+    "competitive_position": 75,
+    "risk_reward": 80
+  },
+  "key_catalysts": [
+    {
+      "event": "Q1 FY2027 Earnings",
+      "date": "2026-05-late",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "Snowflake Summit",
+      "date": "2026-06",
+      "impact": "medium",
+      "probability": "high"
+    },
+    {
+      "event": "Observe Integration Revenue",
+      "date": "2026-H2",
+      "impact": "medium-high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "NRR Re-acceleration >130%",
+      "date": "2026-H2",
+      "impact": "high",
+      "probability": "medium"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 280, "return_pct": 66.7 },
+    "base": { "target": 225, "return_pct": 33.9 },
+    "bear": { "target": 135, "return_pct": -19.6 }
+  },
+  "analyst_consensus": {
+    "avg_target": 252.86,
+    "high": 300,
+    "low": 177,
+    "num_analysts": 29
+  },
+  "financials": {
+    "fy2026_revenue_b": 4.68,
+    "fy2027_guidance_product_rev_b": 5.66,
+    "q4_fy2026_product_rev_m": 1230,
+    "q4_fy2026_yoy_growth_pct": 30,
+    "rpo_b": 9.77,
+    "rpo_yoy_growth_pct": 42,
+    "nrr_pct": 125,
+    "adj_fcf_q4_m": 782.2,
+    "customers_total": 13328,
+    "customers_1m_plus": 733
+  },
+  "status": "researched",
+  "verdict": "BUY on weakness"
+}
