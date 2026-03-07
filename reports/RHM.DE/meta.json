@@ -1,0 +1,39 @@
+{
+  "ticker": "RHM.DE",
+  "name": "Rheinmetall",
+  "market": "EU",
+  "category": "military_ai",
+  "research_date": "2026-03-07",
+  "price_at_research": 1580,
+  "currency": "EUR",
+  "market_cap_billions": 70,
+  "epiplexity_score": 85,
+  "verdict": "BUY",
+  "position_size": "3-5%",
+  "scenarios": {
+    "bull": { "target": 2400, "return_pct": 52, "10k_becomes": 15190 },
+    "base": { "target": 2000, "return_pct": 27, "10k_becomes": 12660 },
+    "bear": { "target": 1200, "return_pct": -24, "10k_becomes": 7590 }
+  },
+  "stop_loss": 1400,
+  "key_catalysts": [
+    { "event": "Q4/FY2025 Results", "date": "2026-03-11", "impact": "high" },
+    { "event": "German €67B defense order wave", "date": "2026-Q1-Q4", "impact": "high" },
+    { "event": "NVL Naval acquisition close", "date": "2026-Q1", "impact": "medium" },
+    { "event": "NATO 3%+ GDP spending", "date": "2026", "impact": "high" },
+    { "event": "€80B international pipeline", "date": "2026", "impact": "high" }
+  ],
+  "growth_metrics": {
+    "revenue_growth_2025": "30-35%",
+    "revenue_growth_2026": "40-50%",
+    "operating_margin_2025": "18.5-19%",
+    "operating_margin_2026_guided": "18-20%",
+    "pe_ratio": 37.6,
+    "order_backlog_billions": 38.3
+  },
+  "insider_activity": {
+    "ceo_buy": true,
+    "ceo_buy_date": "2026-02-05",
+    "signal": "strong_bullish"
+  }
+}
