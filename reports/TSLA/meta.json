@@ -1,0 +1,53 @@
+{
+  "ticker": "TSLA",
+  "name": "Tesla, Inc.",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_edge",
+  "research_date": "2026-03-07",
+  "status": "researched",
+  "epiplexity_score": 80,
+  "scores": {
+    "catalyst_density": 95,
+    "valuation_risk": 40,
+    "execution_visibility": 75,
+    "leader_quality": 70,
+    "growth_velocity": 65
+  },
+  "price_at_research": 400,
+  "currency": "USD",
+  "market_cap": "1.3T",
+  "pe_forward": 196,
+  "pe_trailing": 376,
+  "52w_high": 498.83,
+  "52w_low": 214.25,
+  "targets": {
+    "bull_12m": 600,
+    "base_12m": 480,
+    "bear_12m": 280
+  },
+  "stop_loss": 340,
+  "position_size_pct": "3-5%",
+  "verdict": "cautious_buy",
+  "key_catalyst_dates": [
+    {"date": "2026-03-09", "event": "NHTSA FSD data deadline"},
+    {"date": "2026-04-01", "event": "CyberCab production start"},
+    {"date": "2026-04-28", "event": "Q1 2026 earnings (est)"},
+    {"date": "2026-06-30", "event": "H1 robotaxi expansion deadline"},
+    {"date": "2026-07-28", "event": "Q2 2026 earnings (est)"}
+  ],
+  "analyst_consensus": {
+    "average_target": 406.84,
+    "buys": 19,
+    "holds": 13,
+    "sells": 9,
+    "bull_target": 460,
+    "bear_target": 280
+  },
+  "sources": [
+    "https://electrek.co/2026/01/28/tesla-tsla-releases-q4-2025-financial-results-slight-beat-on-earnings/",
+    "https://finance.yahoo.com/news/bank-america-resumes-tesla-stock-122312432.html",
+    "https://www.notateslaapp.com/news/3626/musk-confirms-tesla-will-sell-the-cybercab-this-year-to-consumers",
+    "https://ilovetesla.com/teslas-q4-2025-earnings-call-margins-rebound-energy-soars-and-the-great-pivot-to-robots-and-ai/"
+  ]
+}
