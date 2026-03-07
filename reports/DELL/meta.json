@@ -1,0 +1,64 @@
+{
+  "ticker": "DELL",
+  "name": "Dell Technologies",
+  "market": "US",
+  "category": "ai_infrastructure",
+  "researched_date": "2026-03-07",
+  "current_price": 146.48,
+  "currency": "USD",
+  "market_cap_b": 102,
+  "pe_forward": 11.4,
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "conviction": "medium-high",
+  "targets": {
+    "bull": 200,
+    "base": 168,
+    "bear": 115,
+    "stop_loss": 125
+  },
+  "position_size_pct": "3-5%",
+  "key_catalysts": [
+    {
+      "event": "Q1 FY2027 Earnings",
+      "date": "2026-05-28",
+      "impact": "high"
+    },
+    {
+      "event": "$50B AI Revenue FY2027 Tracking",
+      "date": "2026-H1",
+      "impact": "very_high"
+    },
+    {
+      "event": "PC Refresh Cycle (AI PCs)",
+      "date": "2026-ongoing",
+      "impact": "medium"
+    },
+    {
+      "event": "NVIDIA Blackwell/Vera Rubin Ramp",
+      "date": "2026-H1-H2",
+      "impact": "high"
+    }
+  ],
+  "risks": [
+    "AI server margin compression",
+    "Michael Dell insider selling",
+    "AI capex cycle slowdown",
+    "Rising short interest (6.7%)"
+  ],
+  "growth_velocity": "accelerating",
+  "revenue_growth_yoy": "19%",
+  "forward_revenue_growth": "22-25%",
+  "ai_backlog_b": 43,
+  "ai_revenue_fy26_b": 25,
+  "ai_revenue_fy27_guide_b": 50,
+  "analyst_consensus": "Moderate Buy",
+  "analyst_avg_target": 160.47,
+  "short_interest_pct": 6.7,
+  "sources": [
+    "https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-third-quarter-fiscal-2026-financial",
+    "https://finance.yahoo.com/news/dell-technologies-inc-dell-q4-050504335.html",
+    "https://www.marketbeat.com/instant-alerts/dell-technologies-nysedell-price-target-raised-to-16800-at-barclays-2026-02-27/",
+    "https://www.investing.com/news/stock-market-news/bezos-huang-dell-zuckerberg--who-cashed-out-the-most-in-2026-4427512"
+  ]
+}
