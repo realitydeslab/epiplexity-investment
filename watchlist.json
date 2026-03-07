@@ -1073,9 +1073,10 @@
       "category": "anticipated_2026",
       "thesis_hint": "ANKTIVA 700% YoY rev, lung cancer + bladder + glioblastoma, 33-country expansion, 500%+ YTD",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 84,
-      "discovered": "2026-03-07"
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "FOUR",

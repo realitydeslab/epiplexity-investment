@@ -1,0 +1,50 @@
+{
+  "ticker": "IBRX",
+  "name": "ImmunityBio",
+  "market": "US",
+  "category": "anticipated_2026",
+  "researched_date": "2026-03-07",
+  "price_at_research": 8.67,
+  "market_cap": "8.91B",
+  "epiplexity_score": 84,
+  "verdict": "BUY",
+  "analyst_consensus": "Strong Buy",
+  "analyst_pt_avg": 12.50,
+  "analyst_pt_high": 23.00,
+  "analyst_pt_low": 7.00,
+  "revenue_ttm": "113.29M",
+  "revenue_growth_yoy": "668.31%",
+  "eps_ttm": -0.38,
+  "short_float": "39.07%",
+  "insider_ownership": "66.47%",
+  "52w_high": 12.43,
+  "52w_low": 1.83,
+  "key_catalysts": [
+    {
+      "event": "BCG-naïve pivotal trial data",
+      "timing": "Q3-Q4 2026",
+      "impact": "+30-50%",
+      "probability": "High"
+    },
+    {
+      "event": "Lung cancer clinical updates",
+      "timing": "Mid-2026",
+      "impact": "+50-100%",
+      "probability": "Medium"
+    },
+    {
+      "event": "Short squeeze trigger",
+      "timing": "Any catalyst",
+      "impact": "+50-200%",
+      "probability": "Medium"
+    }
+  ],
+  "scenarios": {
+    "bull": {"target": 20.00, "return": "+131%"},
+    "base": {"target": 12.50, "return": "+44%"},
+    "bear": {"target": 4.00, "return": "-54%"}
+  },
+  "stop_loss": 6.50,
+  "position_size": "2-3%",
+  "status": "active"
+}
