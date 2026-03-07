@@ -817,9 +817,10 @@
       "category": "ai_energy",
       "thesis_hint": "Only US HALEU enricher, $900M DOE award, $2.3B backlog, nuclear renaissance monopoly",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 84,
-      "discovered": "2026-03-06"
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "RHM.DE",

@@ -1,0 +1,45 @@
+{
+  "ticker": "LEU",
+  "name": "Centrus Energy Corp.",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "ai_energy",
+  "research_date": "2026-03-07",
+  "price_at_research": 193.72,
+  "market_cap_b": 3.7,
+  "epiplexity_score": 84,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scenarios": {
+    "bull": { "target": 320, "return_pct": 65, "probability": 25 },
+    "base": { "target": 250, "return_pct": 29, "probability": 50 },
+    "bear": { "target": 140, "return_pct": -28, "probability": 25 }
+  },
+  "expected_return_pct": 21.5,
+  "stop_loss": 165,
+  "position_size_pct": "3-5",
+  "key_catalysts": [
+    { "event": "DOE $900M HALEU contract finalization", "expected": "Q1-Q2 2026", "impact": "high" },
+    { "event": "NNSA sole-source enrichment award", "expected": "Q2-Q3 2026", "impact": "high" },
+    { "event": "Centrifuge manufacturing milestones", "expected": "Throughout 2026", "impact": "medium-high" },
+    { "event": "SWU price escalation", "expected": "Ongoing", "impact": "medium" },
+    { "event": "Advanced reactor fuel contracts", "expected": "H2 2026", "impact": "high" }
+  ],
+  "financials": {
+    "revenue_2025": 448.7,
+    "net_income_2025": 77.8,
+    "eps_diluted_2025": 3.90,
+    "gross_margin_2025_pct": 26.2,
+    "cash_unrestricted_m": 2000,
+    "backlog_contingent_m": 2300,
+    "guidance_2026_low": 425,
+    "guidance_2026_high": 475
+  },
+  "analyst_consensus": {
+    "rating": "Moderate Buy",
+    "analysts": 15,
+    "avg_pt": 252.92,
+    "bear_pt": 195
+  },
+  "tags": ["nuclear", "uranium", "enrichment", "HALEU", "national-security", "AI-energy", "monopoly"]
+}
