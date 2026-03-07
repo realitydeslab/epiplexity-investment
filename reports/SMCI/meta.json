@@ -1,0 +1,39 @@
+{
+  "ticker": "SMCI",
+  "name": "Super Micro Computer",
+  "market": "US",
+  "category": "ai_infrastructure",
+  "research_date": "2026-03-07",
+  "current_price": 32.00,
+  "market_cap_b": 18.75,
+  "epiplexity_score": 72,
+  "scores": {
+    "growth_velocity": 92,
+    "catalyst_density": 85,
+    "leadership_confidence": 45,
+    "governance_quality": 30,
+    "valuation": 95,
+    "risk_adjusted_return": 65
+  },
+  "scenarios": {
+    "bull": { "target": 60, "return_pct": 87.5 },
+    "base": { "target": 44, "return_pct": 37.5 },
+    "bear": { "target": 20, "return_pct": -37.5 }
+  },
+  "stop_loss": 26,
+  "position_size_pct": "3-5",
+  "verdict": "SPECULATIVE BUY",
+  "key_catalysts": [
+    { "event": "NVIDIA GTC / Vera Rubin", "date": "2026-03", "impact": "high" },
+    { "event": "Q3 FY2026 Earnings", "date": "2026-04/05", "impact": "high" },
+    { "event": "SEC/DOJ Resolution", "date": "2026-H1", "impact": "critical" },
+    { "event": "Q4 FY2026 Earnings", "date": "2026-07/08", "impact": "high" }
+  ],
+  "key_risks": [
+    "SEC/DOJ enforcement action",
+    "Gross margin deterioration",
+    "CEO continued heavy selling",
+    "Hyperscaler customer losses"
+  ],
+  "status": "researched"
+}

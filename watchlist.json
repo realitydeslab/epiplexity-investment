@@ -185,7 +185,9 @@
       "category": "ai_infrastructure",
       "thesis_hint": "AI server assembly \u2014 liquid cooling, GPU racks for data centers",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-07",
+      "epiplexity_score": 72
     },
     {
       "ticker": "VRT",
