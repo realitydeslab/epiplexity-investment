@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated": "2026-03-06",
+  "updated": "2026-03-07",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
     "ai_platforms": "Companies building AI models, platforms, and applications",
@@ -228,7 +228,9 @@
       "category": "ai_energy",
       "thesis_hint": "Small modular nuclear reactors for AI data centers, Sam Altman backed",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-07",
+      "epiplexity_score": 68
     },
     {
       "ticker": "TSLA",

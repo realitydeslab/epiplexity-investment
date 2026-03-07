@@ -1,0 +1,57 @@
+{
+  "ticker": "OKLO",
+  "name": "Oklo Inc.",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "ai_energy",
+  "date_researched": "2026-03-07",
+  "current_price": 58.29,
+  "market_cap_billions": 14.5,
+  "epiplexity_score": 68,
+  "verdict": "HOLD / WAIT FOR BETTER ENTRY",
+  "revenue": 0,
+  "revenue_growth": null,
+  "cash_position_billions": 1.2,
+  "quarterly_burn_millions": 36.3,
+  "annual_burn_guidance_millions": "65-80",
+  "runway_years": 15,
+  "customer_pipeline_gw": 14,
+  "key_catalysts": [
+    {
+      "event": "Aurora-INL first criticality",
+      "expected": "Mid-2026",
+      "probability": "Medium",
+      "impact_pct": "+40-60%"
+    },
+    {
+      "event": "NRC COLA submission",
+      "expected": "2026",
+      "probability": "High",
+      "impact_pct": "+15-25%"
+    },
+    {
+      "event": "HALEU fuel supply resolution",
+      "expected": "2026-2027",
+      "probability": "Medium-Low",
+      "impact_pct": "+20-30%"
+    },
+    {
+      "event": "Additional customer PPAs",
+      "expected": "Rolling 2026",
+      "probability": "High",
+      "impact_pct": "+10-20%"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 120, "return_pct": 106 },
+    "base": { "target": 70, "return_pct": 20 },
+    "bear": { "target": 30, "return_pct": -49 }
+  },
+  "insider_activity": "NEGATIVE - CEO sold $130M+ in 6 weeks",
+  "stop_loss": 45,
+  "position_size_pct": "2-3%",
+  "competitors": ["SMR", "Kairos (private)", "TerraPower (private)", "X-energy (private)"],
+  "adjacent_plays": ["LEU", "CEG", "CCJ", "BWXT", "GEV"],
+  "risks": ["HALEU fuel supply", "Timeline slippage", "Insider selling", "Valuation", "Dilution"],
+  "status": "researched"
+}
