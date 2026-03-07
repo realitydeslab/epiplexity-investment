@@ -904,9 +904,10 @@
       "category": "ai_infrastructure",
       "thesis_hint": "AI factory pure-play, Q4 rev +547% YoY, 1.2GW Missouri campus, $8B run rate target",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 84,
-      "discovered": "2026-03-06"
+      "status": "researched",
+      "epiplexity_score": 85,
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "ALAB",

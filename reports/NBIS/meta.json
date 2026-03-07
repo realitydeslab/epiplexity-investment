@@ -1,0 +1,41 @@
+{
+  "ticker": "NBIS",
+  "name": "Nebius Group",
+  "market": "US",
+  "category": "ai_infrastructure",
+  "status": "researched",
+  "last_researched": "2026-03-07",
+  "epiplexity_score": 85,
+  "current_price": 100,
+  "price_date": "2026-03-07",
+  "market_cap_b": 25.6,
+  "pe_ratio": 242.65,
+  "52_week_low": 18,
+  "52_week_high": 141,
+  "revenue_q4_2025_m": 227.7,
+  "revenue_yoy_growth": "547%",
+  "arr_b": 1.25,
+  "guidance_revenue_2026_b": "3.0-3.4",
+  "guidance_arr_2026_b": "7-9",
+  "backlog_b": 20,
+  "capex_2026_plan_b": "16-20",
+  "ebitda_margin_target": "40%",
+  "analyst_consensus": "Buy",
+  "analyst_pt": 168,
+  "analyst_count": 8,
+  "scenarios": {
+    "bull": {"target": 200, "return": "+100%"},
+    "base": {"target": 150, "return": "+50%"},
+    "bear": {"target": 55, "return": "-45%"}
+  },
+  "key_catalysts": [
+    {"event": "Microsoft deal revenue recognition", "when": "Q1-Q2 2026", "impact": "high"},
+    {"event": "Data center capacity ramp to 800MW-1GW", "when": "Throughout 2026", "impact": "high"},
+    {"event": "EBITDA margin expansion to 40%", "when": "H2 2026", "impact": "high"},
+    {"event": "Additional hyperscaler contracts", "when": "Any quarter", "impact": "medium-high"},
+    {"event": "Russell 1000 inclusion", "when": "June 2026", "impact": "medium"}
+  ],
+  "verdict": "BUY",
+  "position_size": "3-5%",
+  "stop_loss": 75
+}
