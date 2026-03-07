@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updated": "2026-03-07",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -320,7 +320,9 @@
       "category": "crypto_ai",
       "thesis_hint": "Decentralized AI network \u2014 crypto x AI pure play",
       "priority": "high",
-      "status": "pending"
+      "status": "pending",
+      "epiplexity_score": 72,
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "RENDER",
@@ -329,7 +331,9 @@
       "category": "crypto_ai",
       "thesis_hint": "Decentralized GPU compute for AI/rendering",
       "priority": "medium",
-      "status": "pending"
+      "status": "pending",
+      "epiplexity_score": 65,
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "FET",
@@ -946,7 +950,8 @@
       "priority": "medium",
       "status": "pending",
       "epiplexity_score": 71,
-      "discovered": "2026-03-06"
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-07"
     },
     {
       "ticker": "CCJ",
@@ -958,6 +963,39 @@
       "status": "pending",
       "epiplexity_score": 68,
       "discovered": "2026-03-06"
+    },
+    {
+      "ticker": "GLW",
+      "market": "US",
+      "name": "Corning",
+      "category": "ai_infrastructure",
+      "thesis_hint": "AI fiber optic bottleneck \u2014 Meta $6B deal, $11B Springboard target, 5x optical connectivity needed",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 81,
+      "discovered": "2026-03-07"
+    },
+    {
+      "ticker": "NUVL",
+      "market": "US",
+      "name": "Nuvalent",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA Sept 18 2026 zidesamtinib (ROS1+ NSCLC), Breakthrough Therapy, $1.4B cash, dual NDA",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-07"
+    },
+    {
+      "ticker": "S",
+      "market": "US",
+      "name": "SentinelOne",
+      "category": "military_ai",
+      "thesis_hint": "AI-native cybersecurity, agentic AI identity protection, on-device AI brain, down 32% = contrarian entry",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 76,
+      "discovered": "2026-03-07"
     }
   ]
 }
