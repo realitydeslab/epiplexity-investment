@@ -196,7 +196,9 @@
       "category": "ai_infrastructure",
       "thesis_hint": "Power & cooling infrastructure for AI data centers",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-07",
+      "epiplexity_score": 84
     },
     {
       "ticker": "DELL",

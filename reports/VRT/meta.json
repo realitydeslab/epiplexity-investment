@@ -1,0 +1,48 @@
+{
+  "ticker": "VRT",
+  "name": "Vertiv Holdings",
+  "market": "US",
+  "category": "ai_infrastructure",
+  "research_date": "2026-03-07",
+  "current_price": 242.00,
+  "market_cap_b": 96.0,
+  "epiplexity_score": 84,
+  "verdict": "BUY on pullback",
+  "scores": {
+    "growth_velocity": 9,
+    "catalyst_clarity": 9,
+    "competitive_moat": 8,
+    "valuation": 6,
+    "leadership": 7,
+    "risk_reward": 8
+  },
+  "targets": {
+    "bull_12m": 340,
+    "base_12m": 285,
+    "bear_12m": 195,
+    "stop_loss": 200
+  },
+  "scenarios_10k": {
+    "bull": { "value": 14050, "return_pct": 40.5 },
+    "base": { "value": 11780, "return_pct": 17.8 },
+    "bear": { "value": 8060, "return_pct": -19.4 }
+  },
+  "key_metrics": {
+    "forward_pe": 40.2,
+    "peg_ratio": 0.9,
+    "revenue_growth_fy26e": "28%",
+    "eps_growth_fy26e": "43%",
+    "backlog_b": 15.0,
+    "book_to_bill": 2.9,
+    "fcf_fy26e_b": 2.2
+  },
+  "key_dates": [
+    { "date": "2026-04-late", "event": "Q1 2026 earnings" },
+    { "date": "2026-07-late", "event": "Q2 2026 earnings" },
+    { "date": "2026-10-late", "event": "Q3 2026 earnings" }
+  ],
+  "analyst_consensus": {
+    "buy": 22, "hold": 3, "sell": 0,
+    "median_pt": 278.50, "high_pt": 320.00, "low_pt": 155.00
+  }
+}
