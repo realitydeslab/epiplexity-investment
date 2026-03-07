@@ -1,0 +1,60 @@
+{
+  "ticker": "0700.HK",
+  "name": "Tencent Holdings",
+  "market": "HK",
+  "category": "china_ai",
+  "researched_date": "2026-03-07",
+  "current_price": {
+    "hkd": 519.00,
+    "usd_adr": 67.75,
+    "date": "2026-03-06"
+  },
+  "52_week_range": {
+    "low": 419.00,
+    "high": 683.00
+  },
+  "targets": {
+    "bull_12mo": 750,
+    "base_12mo": 620,
+    "bear_12mo": 420,
+    "stop_loss": 460
+  },
+  "scenarios_10k": {
+    "bull": 14450,
+    "base": 11950,
+    "bear": 8090
+  },
+  "epiplexity_score": 82,
+  "scores": {
+    "catalyst_density": 9,
+    "growth_velocity": 7.5,
+    "management_quality": 8.5,
+    "competitive_position": 8,
+    "risk_reward": 8,
+    "overall": 82
+  },
+  "key_catalysts": [
+    {
+      "event": "Q4/FY2025 Annual Results",
+      "date": "2026-03-18",
+      "impact": "high"
+    },
+    {
+      "event": "WeChat AI Agent Launch",
+      "date": "H1-H2 2026",
+      "impact": "very_high"
+    },
+    {
+      "event": "Hunyuan Agent Model Release",
+      "date": "Q2-Q3 2026",
+      "impact": "high"
+    },
+    {
+      "event": "Mini Program AI Ecosystem Traction",
+      "date": "H2 2026",
+      "impact": "medium"
+    }
+  ],
+  "verdict": "BUY",
+  "status": "researched"
+}
