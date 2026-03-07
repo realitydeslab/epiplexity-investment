@@ -1,0 +1,69 @@
+{
+  "ticker": "9988.HK",
+  "name": "Alibaba Group",
+  "market": "HK",
+  "adr_ticker": "BABA",
+  "research_date": "2026-03-07",
+  "price_at_research": {
+    "BABA": 130.83,
+    "9988.HK": 143.00,
+    "currency": "USD/HKD"
+  },
+  "epiplexity_score": 84,
+  "scores": {
+    "catalyst_clarity": 9,
+    "growth_velocity": 8,
+    "valuation": 9,
+    "leadership": 7,
+    "risk_reward": 9
+  },
+  "verdict": "BUY",
+  "market_cap_usd": "403B",
+  "pe_forward": 24.4,
+  "pe_trailing": 20.9,
+  "analyst_consensus": {
+    "rating": "Moderate Buy",
+    "avg_target_usd": 195.17,
+    "high_target_usd": 225,
+    "low_target_usd": 140,
+    "buy": 16,
+    "hold": 3,
+    "sell": 1
+  },
+  "key_catalysts": [
+    {
+      "event": "Q3 FY2026 Earnings",
+      "date": "2026-03-19",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "AI Cloud Revenue Inflection",
+      "date": "2026-Q2-Q3",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Share Buyback ($19.3B remaining)",
+      "date": "ongoing",
+      "impact": "medium",
+      "probability": "high"
+    },
+    {
+      "event": "China Stimulus",
+      "date": "2026-H1-H2",
+      "impact": "medium-high",
+      "probability": "medium"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 190, "return_pct": 45 },
+    "base": { "target": 160, "return_pct": 22 },
+    "bear": { "target": 105, "return_pct": -20 }
+  },
+  "stop_loss": 110,
+  "position_size_pct": "3-5%",
+  "cloud_growth_yoy": "34%",
+  "ai_revenue_growth": "triple-digit (9 consecutive quarters)",
+  "status": "researched"
+}
