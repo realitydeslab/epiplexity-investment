@@ -1,0 +1,47 @@
+{
+  "ticker": "CEG",
+  "name": "Constellation Energy",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "sector": "Energy / Nuclear / AI Infrastructure",
+  "category": "ai_energy",
+  "research_date": "2026-03-07",
+  "price_at_research": 319.06,
+  "market_cap": "115.5B",
+  "pe_ratio": 43.12,
+  "forward_pe": 28.07,
+  "52_week_low": 161.35,
+  "52_week_high": 412.70,
+  "beta": 1.11,
+  "dividend_yield": 0.53,
+  "epiplexity_score": 83,
+  "analyst_consensus": "Buy",
+  "analyst_pt_avg": 397.57,
+  "analyst_pt_low": 330,
+  "analyst_pt_high": 462,
+  "fy2025_revenue": "25.53B",
+  "fy2025_eps": 7.40,
+  "fy2026e_revenue": "28.21B",
+  "fy2026e_eps": 11.63,
+  "fy2026e_eps_growth": "57%",
+  "scenarios": {
+    "bull": { "target": 460, "return_pct": 44, "10k_becomes": 14420 },
+    "base": { "target": 400, "return_pct": 25, "10k_becomes": 12540 },
+    "bear": { "target": 250, "return_pct": -22, "10k_becomes": 7840 }
+  },
+  "key_catalysts": [
+    { "event": "Calpine acquisition closure", "when": "H2 2026", "impact": "high" },
+    { "event": "TMI Unit 1 NRC milestones", "when": "2026 ongoing", "impact": "medium" },
+    { "event": "New hyperscaler PPAs (Meta+)", "when": "2026 ongoing", "impact": "high" },
+    { "event": "FY2026 EPS acceleration", "when": "Quarterly", "impact": "high" },
+    { "event": "Nuclear policy support", "when": "2026 ongoing", "impact": "medium" }
+  ],
+  "key_risks": [
+    "Calpine regulatory delay/block",
+    "AI capex slowdown",
+    "Interest rate pressure on deal debt",
+    "TMI restart complications"
+  ],
+  "verdict": "BUY",
+  "status": "researched"
+}
