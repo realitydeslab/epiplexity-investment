@@ -1,0 +1,56 @@
+{
+  "ticker": "VST",
+  "name": "Vistra Energy",
+  "market": "US",
+  "category": "ai_energy",
+  "research_date": "2026-03-07",
+  "current_price": 166,
+  "currency": "USD",
+  "epiplexity_score": 82,
+  "verdict": "BUY_ON_PULLBACK",
+  "scores": {
+    "catalyst_strength": 85,
+    "growth_velocity": 78,
+    "valuation": 82,
+    "leadership": 75,
+    "competitive_moat": 80,
+    "risk_reward": 83
+  },
+  "targets": {
+    "bull_12m": 250,
+    "base_12m": 210,
+    "bear_12m": 120,
+    "stop_loss": 140
+  },
+  "position_sizing": "3-5% of portfolio",
+  "key_metrics": {
+    "fy2025_ebitda": 5912000000,
+    "fy2026_ebitda_guidance_low": 6800000000,
+    "fy2026_ebitda_guidance_high": 7600000000,
+    "fy2025_adj_fcf": 3592000000,
+    "ev_ebitda_2026e": 10,
+    "fcf_yield": 0.065,
+    "nuclear_capacity_gw": 6.4,
+    "contracted_nuclear_gw": 3.8,
+    "total_fleet_gw": 49,
+    "annual_buyback": 1000000000,
+    "shares_retired_since_2021_pct": 30
+  },
+  "key_catalysts": [
+    {"event": "Cogentrix acquisition close", "date": "Q2-Q3 2026", "impact": "high"},
+    {"event": "Q1 2026 earnings", "date": "May 2026", "impact": "medium-high"},
+    {"event": "ERCOT summer peak", "date": "Jun-Sep 2026", "impact": "medium"},
+    {"event": "Nuclear uprate milestones", "date": "H2 2026", "impact": "medium"},
+    {"event": "Q2 2026 earnings", "date": "Aug 2026", "impact": "medium-high"},
+    {"event": "New nuclear PPA announcements", "date": "anytime", "impact": "high"},
+    {"event": "Vistra Vision separation", "date": "speculative", "impact": "very-high"}
+  ],
+  "insider_activity": {
+    "selling_12m": 227307298,
+    "buying_12m": 190125,
+    "assessment": "heavy_selling_yellow_flag"
+  },
+  "analyst_targets": {
+    "wells_fargo": {"target": 234, "rating": "overweight"}
+  }
+}
