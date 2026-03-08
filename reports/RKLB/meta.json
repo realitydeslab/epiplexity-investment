@@ -1,0 +1,38 @@
+{
+  "ticker": "RKLB",
+  "name": "Rocket Lab Corporation",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "anticipated_2026",
+  "researched_date": "2026-03-08",
+  "epiplexity_score": 81,
+  "current_price": 70.08,
+  "market_cap_billions": 38.4,
+  "pe_ratio": -194.35,
+  "beta": 2.20,
+  "52_week_low": 14.71,
+  "52_week_high": 99.58,
+  "revenue_ttm_millions": 602,
+  "revenue_growth_yoy": 0.38,
+  "backlog_billions": 1.85,
+  "gaap_profitable": false,
+  "analyst_consensus": "Moderate Buy",
+  "analyst_target_avg": 75.92,
+  "analyst_target_high": 120,
+  "analyst_target_low": null,
+  "scenarios": {
+    "bull": { "target": 120, "return_pct": 71, "10k_becomes": 17123 },
+    "base": { "target": 90, "return_pct": 28, "10k_becomes": 12842 },
+    "bear": { "target": 45, "return_pct": -36, "10k_becomes": 6421 }
+  },
+  "key_catalysts": [
+    { "event": "Neutron first launch", "date": "Q4 2026", "impact": "HIGH" },
+    { "event": "Q1 2026 earnings", "date": "2026-04-30", "impact": "HIGH" },
+    { "event": "SDA contract revenue ramp", "date": "2026 ongoing", "impact": "MEDIUM" },
+    { "event": "SpaceX IPO potential", "date": "H2 2026", "impact": "MEDIUM" }
+  ],
+  "verdict": "BUY on dips, HOLD at current",
+  "position_size_pct": "3-5%",
+  "stop_loss": 55,
+  "status": "researched"
+}
