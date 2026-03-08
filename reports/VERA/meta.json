@@ -1,0 +1,48 @@
+{
+  "ticker": "VERA",
+  "name": "Vera Therapeutics",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-08",
+  "price_at_research": 39.07,
+  "market_cap": "2.79B",
+  "enterprise_value": "2.15B",
+  "epiplexity_score": 79,
+  "verdict": "BUY — Speculative Binary Catalyst",
+  "key_catalyst": "FDA PDUFA July 7, 2026 — atacicept for IgA nephropathy",
+  "catalyst_date": "2026-07-07",
+  "catalyst_type": "FDA_approval",
+  "approval_probability": 0.75,
+  "scenarios": {
+    "bull": { "target": 95, "return_pct": 143, "probability": 0.45 },
+    "base": { "target": 70, "return_pct": 79, "probability": 0.30 },
+    "bear": { "target": 13, "return_pct": -67, "probability": 0.25 }
+  },
+  "expected_value_return_pct": 43,
+  "technicals": {
+    "50_dma": 45.31,
+    "200_dma": 31.70,
+    "rsi": 36.30,
+    "short_interest_pct": 11.26,
+    "days_to_cover": 7.70,
+    "beta": 1.17
+  },
+  "financials": {
+    "revenue": 0,
+    "net_income": -299620000,
+    "eps": -4.66,
+    "cash": 714590000,
+    "debt": 77310000,
+    "net_cash_per_share": 8.93,
+    "fcf": -241730000,
+    "shares_outstanding": 71360000
+  },
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 10,
+  "price_target_avg": 80.56,
+  "price_target_low": 33,
+  "price_target_high": 110,
+  "risk_level": "HIGH",
+  "position_sizing": "2-3% max portfolio"
+}
