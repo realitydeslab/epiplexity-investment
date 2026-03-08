@@ -1,0 +1,53 @@
+{
+  "ticker": "NOC",
+  "name": "Northrop Grumman",
+  "market": "US",
+  "category": "military_ai",
+  "research_date": "2026-03-08",
+  "price_at_research": 756.13,
+  "market_cap": "107.31B",
+  "pe_ratio": 26.0,
+  "forward_pe": 27.26,
+  "dividend_yield": 1.22,
+  "beta": 0.01,
+  "52_week_low": 450.13,
+  "52_week_high": 774.00,
+  "revenue_ttm": "41.95B",
+  "revenue_growth_ttm": 2.24,
+  "eps_ttm": 29.08,
+  "fcf_ttm": "3.31B",
+  "fcf_growth": 26.17,
+  "analyst_consensus": "Buy",
+  "analyst_pt_avg": 675.29,
+  "analyst_pt_high": 815,
+  "analyst_pt_low": 521,
+  "next_earnings": "2026-04-21",
+  "epiplexity_score": 80,
+  "scores": {
+    "catalyst_clarity": 9,
+    "growth_velocity": 7,
+    "trade_setup": 6,
+    "edge_vs_consensus": 7,
+    "leadership": 8
+  },
+  "scenarios": {
+    "bull": { "target": 900, "return_pct": 19.0 },
+    "base": { "target": 810, "return_pct": 7.1 },
+    "bear": { "target": 620, "return_pct": -18.0 }
+  },
+  "verdict": "BUY on pullback, HOLD at current levels",
+  "key_catalysts": [
+    "B-21 Raider production ramp",
+    "Q1 2026 earnings Apr 21",
+    "European/NATO defense orders",
+    "Sentinel ICBM milestones",
+    "FY2026 defense budget passage"
+  ],
+  "key_risks": [
+    "Valuation above analyst consensus PT",
+    "B-21 production execution",
+    "Budget continuing resolution",
+    "Program concentration risk"
+  ],
+  "status": "researched"
+}

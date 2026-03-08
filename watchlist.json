@@ -435,7 +435,9 @@
       "category": "military_ai",
       "thesis_hint": "B-21 stealth bomber, autonomous systems, space defense, nuclear modernization",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-08",
+      "epiplexity_score": 80
     },
     {
       "ticker": "GD",
