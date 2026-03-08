@@ -1,0 +1,55 @@
+{
+  "ticker": "ALAB",
+  "name": "Astera Labs",
+  "market": "US",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-08",
+  "current_price": 119.21,
+  "market_cap_b": 20.3,
+  "52w_high": 262.90,
+  "52w_low": 47.13,
+  "epiplexity_score": 82,
+  "conviction": 7,
+  "verdict": "BUY",
+  "targets": {
+    "bull": 220,
+    "base": 175,
+    "bear": 85
+  },
+  "scenarios_10k": {
+    "bull": {"value": 18480, "return_pct": 85},
+    "base": {"value": 14700, "return_pct": 47},
+    "bear": {"value": 7140, "return_pct": -29}
+  },
+  "analyst_consensus": {
+    "rating": "Buy",
+    "buy": 18,
+    "hold": 5,
+    "sell": 0,
+    "median_pt": 207.50,
+    "low_pt": 155.00,
+    "high_pt": 250.00
+  },
+  "financials": {
+    "fy2025_revenue_m": 852,
+    "q4_2025_revenue_m": 271,
+    "q4_2025_yoy_growth_pct": 92,
+    "q1_2026_guidance_low_m": 286,
+    "q1_2026_guidance_high_m": 297,
+    "fy2026_revenue_est_m": "1200-1400"
+  },
+  "key_catalysts": [
+    {"event": "Q1 2026 earnings", "date": "May 2026", "impact": "high"},
+    {"event": "Scorpio switch ramp", "date": "H1-H2 2026", "impact": "high"},
+    {"event": "Taurus 400G/800G ramp", "date": "2026", "impact": "medium"},
+    {"event": "CXL adoption inflection", "date": "H2 2026", "impact": "medium"},
+    {"event": "Amazon partnership deepening", "date": "ongoing", "impact": "medium"}
+  ],
+  "risks": [
+    "Customer concentration (likely NVIDIA 30-40%+)",
+    "AI capex deceleration",
+    "Scorpio ramp execution",
+    "Buyside whisper exceeding consensus"
+  ],
+  "status": "researched"
+}
