@@ -1,0 +1,78 @@
+{
+  "ticker": "FINMY",
+  "primary_listing": "LDO.MI",
+  "name": "Leonardo SpA",
+  "sector": "Aerospace & Defense",
+  "market": "EU",
+  "currency": "EUR",
+  "researched_date": "2026-03-08",
+  "epiplexity_score": 80,
+  "price_at_research": 58.62,
+  "price_currency": "EUR",
+  "market_cap_eur": 33800000000,
+  "pe_ratio": 31.91,
+  "dividend_yield": 0.0089,
+  "52_week_low": 33.74,
+  "52_week_high": 61.00,
+  "morningstar_fair_value": 62.20,
+  "ytd_return_pct": 17.0,
+  "1y_return_pct": 35.7,
+  "revenue_fy2024_eur": 17763000000,
+  "revenue_growth_fy2025": 0.11,
+  "operating_profit_growth_fy2025": 0.18,
+  "new_orders_growth_fy2025": 0.15,
+  "earnings_growth_forecast_annual": 0.1503,
+  "scenarios": {
+    "bull": {
+      "target_eur": 80,
+      "return_pct": 37,
+      "10k_usd_outcome": 13670
+    },
+    "base": {
+      "target_eur": 68,
+      "return_pct": 16,
+      "10k_usd_outcome": 11560
+    },
+    "bear": {
+      "target_eur": 48,
+      "return_pct": -18,
+      "10k_usd_outcome": 8200
+    }
+  },
+  "key_catalysts": [
+    {
+      "event": "European defense rearmament super-cycle",
+      "timing": "Ongoing 2026",
+      "probability": "high"
+    },
+    {
+      "event": "Saudi Arabia aerostructures JV",
+      "timing": "Mid-2026",
+      "probability": "medium-high"
+    },
+    {
+      "event": "GCAP Saudi entry decision",
+      "timing": "Q1-Q2 2026",
+      "probability": "medium"
+    },
+    {
+      "event": "UK £1bn helicopter contract",
+      "timing": "March 2026",
+      "probability": "high"
+    },
+    {
+      "event": "Italian Army Lynx IFV (LRMV JV)",
+      "timing": "H1-H2 2026",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Euro Stoxx 50 index inclusion",
+      "timing": "September 2026",
+      "probability": "medium"
+    }
+  ],
+  "verdict": "BUY - Accumulate on pullbacks",
+  "stop_loss_eur": 48,
+  "position_size_pct": "3-5%",
+  "status": "researched"
+}
