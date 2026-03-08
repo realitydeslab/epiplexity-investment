@@ -1,0 +1,70 @@
+{
+  "ticker": "BIDU",
+  "name": "Baidu Inc.",
+  "market": "US",
+  "category": "china_ai",
+  "price_at_research": 119.05,
+  "currency": "USD",
+  "market_cap_B": 42,
+  "research_date": "2026-03-08",
+  "epiplexity_score": 82,
+  "status": "researched",
+  "scores": {
+    "catalyst_strength": 88,
+    "growth_velocity": 75,
+    "valuation": 92,
+    "leadership": 78,
+    "risk_adjusted": 80
+  },
+  "catalysts": [
+    {
+      "event": "Kunlunxin AI Chip IPO (HK)",
+      "expected_date": "H2 2026",
+      "impact_pct": "30-50",
+      "probability": "high"
+    },
+    {
+      "event": "$5B Share Buyback",
+      "expected_date": "2026-2028",
+      "impact_pct": "10-15",
+      "probability": "high"
+    },
+    {
+      "event": "Apollo Go International Expansion",
+      "expected_date": "2026",
+      "impact_pct": "15-25",
+      "probability": "medium-high"
+    },
+    {
+      "event": "First-Ever Dividend",
+      "expected_date": "By Dec 2026",
+      "impact_pct": "5-10",
+      "probability": "high"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 185, "return_pct": 55, "10k_outcome": 15546 },
+    "base": { "target": 150, "return_pct": 26, "10k_outcome": 12605 },
+    "bear": { "target": 90, "return_pct": -24, "10k_outcome": 7563 }
+  },
+  "stop_loss": 98,
+  "position_size_pct": "3-5",
+  "short_interest_pct": 2.82,
+  "rsi": 39.42,
+  "52w_high": 165.30,
+  "52w_low": 74.71,
+  "analyst_consensus": "strong_buy",
+  "analyst_targets": {
+    "jefferies": 181,
+    "barclays": 147
+  },
+  "key_metrics": {
+    "pe_ratio": 8,
+    "cash_B_rmb": 294.1,
+    "ai_revenue_pct": 43,
+    "ai_revenue_growth_yoy_pct": 48,
+    "ai_cloud_infra_growth_yoy_pct": 34,
+    "apollo_go_rides_q4_M": 3.4,
+    "ernie_mau_M": 200
+  }
+}
