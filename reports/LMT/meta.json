@@ -1,0 +1,50 @@
+{
+  "ticker": "LMT",
+  "name": "Lockheed Martin",
+  "market": "US",
+  "category": "military_ai",
+  "research_date": "2026-03-08",
+  "price_at_research": 671.77,
+  "after_hours": 676.84,
+  "market_cap_b": 154.56,
+  "enterprise_value_b": 173.21,
+  "pe_ttm": 31.26,
+  "forward_pe": 22.45,
+  "ps_ratio": 2.06,
+  "dividend_yield": 2.05,
+  "beta": 0.20,
+  "52w_low": 410.11,
+  "52w_high": 692.00,
+  "revenue_ttm_b": 75.05,
+  "revenue_growth_yoy": 5.64,
+  "eps_ttm": 21.49,
+  "eps_growth_yoy": -3.67,
+  "fcf_b": 6.91,
+  "shares_outstanding_m": 230.08,
+  "analyst_consensus": "Hold",
+  "analyst_pt_avg": 575.93,
+  "analyst_pt_high": 673,
+  "analyst_pt_low": 432,
+  "next_earnings": "2026-04-21",
+  "epiplexity_score": 81,
+  "scenarios": {
+    "bull": { "target": 850, "return_pct": 26.5 },
+    "base": { "target": 750, "return_pct": 11.6 },
+    "bear": { "target": 550, "return_pct": -18.1 }
+  },
+  "top_catalysts": [
+    "Iran conflict munitions demand + 4x production commitment",
+    "Q1 2026 earnings Apr 21 — 40% EPS growth expected",
+    "F-35 $12B sustainment boost + new contracts",
+    "European NATO rearmament orders",
+    "FCF surge enabling buyback acceleration"
+  ],
+  "key_risks": [
+    "Iran peace deal removes war premium",
+    "Stock 14% above analyst average PT",
+    "Margin recovery uncertain (10.3% vs 12%+ historical)",
+    "Goldman Sachs Strong Sell at $517"
+  ],
+  "verdict": "Cautious Buy — quality compounder at ATH with active conflict catalysts",
+  "status": "researched"
+}

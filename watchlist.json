@@ -413,7 +413,9 @@
       "category": "military_ai",
       "thesis_hint": "AI-powered F-35, hypersonics, autonomous drones, JADC2 command systems",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-08",
+      "epiplexity_score": 81
     },
     {
       "ticker": "RTX",
