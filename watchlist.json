@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updated": "2026-03-08",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1261,6 +1261,61 @@
       "priority": "medium",
       "status": "pending",
       "epiplexity_score": 64,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "RENK.DE",
+      "market": "EU",
+      "name": "Renk Group",
+      "category": "military_ai",
+      "thesis_hint": "European defense drivetrain monopoly, \u20ac6.7B backlog, 20% YoY revenue growth, Leopard 2/KNDS programs",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "PTGX",
+      "market": "US",
+      "name": "Protagonist Therapeutics",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA Q3 2026 rusfertide (polycythemia vera), Breakthrough Therapy, opted out of Takeda profit-share",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "VVV",
+      "market": "CRYPTO",
+      "name": "Venice Token",
+      "category": "crypto_ai",
+      "thesis_hint": "AI privacy platform, Erik Voorhees, censorship-resistant AI, real product revenue, surged 20% in downturn",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 76,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "HNSA",
+      "market": "EU",
+      "name": "Hansa Biopharma",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA Dec 19 2026 imlifidase, first treatment for highly sensitized kidney transplant patients",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "TER",
+      "market": "US",
+      "name": "Teradyne",
+      "category": "ai_edge",
+      "thesis_hint": "Universal Robots division, semiconductor test equipment, $218B robotics market by 2030",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 68,
       "discovered": "2026-03-08"
     }
   ]
