@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "updated": "2026-03-08",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -534,9 +534,11 @@
       "market": "US",
       "name": "AST SpaceMobile",
       "category": "military_ai",
-      "thesis_hint": "Space-based cellular broadband \u2014 military comms from any phone, government contracts",
+      "thesis_hint": "Space-based cellular broadband, $70.9M 2025 rev, $150-200M 2026 target, 2731% Q4 growth, BlueBird 7 March launch",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 78,
+      "last_researched": "2026-03-08"
     },
     {
       "ticker": "3690.HK",
@@ -1324,6 +1326,85 @@
       "priority": "medium",
       "status": "pending",
       "epiplexity_score": 68,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "AXSM",
+      "market": "US",
+      "name": "Axsome Therapeutics",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA Apr 30 AXS-05 Alzheimer agitation, $155M/Q AUVELITY, 63% rev growth, $4.5B peak sales pipeline",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-08"
+    },
+    {
+      "ticker": "VRDN",
+      "market": "US",
+      "name": "Viridian Therapeutics",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA Jun 30 veligrotug thyroid eye disease, $888M cash, 47% analyst upside, binary catalyst",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-08"
+    },
+    {
+      "ticker": "FRSH",
+      "market": "US",
+      "name": "Freshworks",
+      "category": "anticipated_2026",
+      "thesis_hint": "CEO bought 125K shares $7.95 open market Mar 2, enterprise AI SaaS pivot, 73% below IPO highs",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 76,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "ORLA",
+      "market": "US",
+      "name": "Orla Mining",
+      "category": "anticipated_2026",
+      "thesis_hint": "Gold supercycle, 61% YTD, 9-day streak +28%, analyst upgrades, Camino Rojo Underground NPV $3.3B",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 74,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "HAG.DE",
+      "market": "EU",
+      "name": "Hensoldt AG",
+      "category": "military_ai",
+      "thesis_hint": "European defense sensor/radar, orders +62% to \u20ac4.71B, backlog \u20ac8.83B, ReArm Europe beneficiary",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 74,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "NUVB",
+      "market": "US",
+      "name": "Nuvation Bio",
+      "category": "anticipated_2026",
+      "thesis_hint": "IBTROZI 633% Q4 rev growth, 6x faster adoption, Eisai licensing, $529M cash, $4.74 stock",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "SYM",
+      "market": "US",
+      "name": "Symbotic",
+      "category": "anticipated_2026",
+      "thesis_hint": "Profitability milestone $2.6M net profit, $630M Q1 rev, warehouse automation, 20% pullback entry",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 71,
       "discovered": "2026-03-08"
     }
   ]
