@@ -719,9 +719,10 @@
       "category": "ai_platforms",
       "thesis_hint": "AI precision medicine \u2014 genomic diagnostics, 83% YoY growth, $1.59B 2026 forecast",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 82,
-      "discovered": "2026-03-06"
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-08"
     },
     {
       "ticker": "TTD",
