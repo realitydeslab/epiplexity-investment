@@ -1,0 +1,38 @@
+{
+  "ticker": "AXON",
+  "name": "Axon Enterprise",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "military_ai",
+  "researched_date": "2026-03-08",
+  "price_at_research": 574.01,
+  "market_cap_b": 46.15,
+  "epiplexity_score": 83,
+  "scores": {
+    "growth": 92,
+    "moat": 90,
+    "catalyst_clarity": 85,
+    "valuation": 60,
+    "risk_reward": 80,
+    "leader_quality": 95
+  },
+  "revenue_ttm_b": 2.78,
+  "revenue_growth_yoy": 33.47,
+  "forward_pe": 72.37,
+  "analyst_consensus": "Strong Buy",
+  "analyst_avg_pt": 767.85,
+  "targets": {
+    "bull_12m": 850,
+    "base_12m": 725,
+    "bear_12m": 450
+  },
+  "stop_loss": 430,
+  "key_catalysts": [
+    "AI bookings acceleration ($750M+)",
+    "Q1-Q4 2026 earnings beats",
+    "TASER 10 replacement cycle",
+    "Drone-as-first-responder expansion",
+    "International growth acceleration"
+  ],
+  "status": "researched"
+}
