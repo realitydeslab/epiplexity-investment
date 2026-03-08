@@ -476,7 +476,9 @@
       "category": "military_ai",
       "thesis_hint": "AI drone swarms (Valkyrie), autonomous combat UAVs, low-cost attritable aircraft",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-08",
+      "epiplexity_score": 79
     },
     {
       "ticker": "ANET",

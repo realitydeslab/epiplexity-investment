@@ -1,0 +1,52 @@
+{
+  "ticker": "KTOS",
+  "name": "Kratos Defense & Security Solutions",
+  "market": "US",
+  "category": "military_ai",
+  "research_date": "2026-03-08",
+  "price_at_research": 87.00,
+  "market_cap_b": 16.25,
+  "epiplexity_score": 79,
+  "scores": {
+    "catalyst_strength": 85,
+    "insider_signal": 45,
+    "growth_velocity": 88,
+    "valuation": 60,
+    "risk_reward": 72
+  },
+  "analyst_consensus": "Strong Buy",
+  "analyst_avg_pt": 97.44,
+  "analyst_median_pt": 115,
+  "analyst_high_pt": 134,
+  "analyst_low_pt": 44,
+  "analyst_count": 17,
+  "revenue_fy2025": 1347,
+  "revenue_fy2026e": 1680,
+  "revenue_growth_fy2025": 18.53,
+  "revenue_growth_fy2026e": 24.96,
+  "eps_fy2025": 0.13,
+  "eps_fy2026e": 0.80,
+  "forward_pe": 109,
+  "ps_ratio": 12.06,
+  "fcf_fy2025": -137.4,
+  "gross_margin": 22.86,
+  "operating_margin": 1.90,
+  "employees": 4300,
+  "key_catalysts": [
+    {"event": "Q1 FY2026 Earnings", "date": "2026-04/05", "impact": "high"},
+    {"event": "CCA Increment 1 Production Award", "date": "2026-Q2/Q3", "impact": "very_high"},
+    {"event": "Counter-UAS Production Orders", "date": "ongoing", "impact": "medium"},
+    {"event": "Q2 FY2026 Earnings", "date": "2026-07/08", "impact": "high"}
+  ],
+  "insider_activity": "heavy_selling",
+  "verdict": "accumulate_on_weakness",
+  "entry_range": [75, 82],
+  "stop_loss": 72,
+  "position_size": "3-5%",
+  "scenarios": {
+    "bull": {"target": 134, "return_pct": 54},
+    "base": {"target": 115, "return_pct": 32},
+    "bear": {"target": 65, "return_pct": -25}
+  },
+  "status": "researched"
+}
