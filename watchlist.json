@@ -998,9 +998,10 @@
       "category": "ai_infrastructure",
       "thesis_hint": "AI fiber optic bottleneck \u2014 Meta $6B deal, $11B Springboard target, 5x optical connectivity needed",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 81,
-      "discovered": "2026-03-07"
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-08"
     },
     {
       "ticker": "NUVL",

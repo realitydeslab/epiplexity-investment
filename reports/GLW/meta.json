@@ -1,0 +1,73 @@
+{
+  "ticker": "GLW",
+  "name": "Corning",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "ai_infrastructure",
+  "research_date": "2026-03-08",
+  "epiplexity_score": 81,
+  "scores": {
+    "catalyst_clarity": 9,
+    "growth_velocity": 8,
+    "competitive_moat": 9,
+    "valuation": 6,
+    "risk_reward_timing": 7,
+    "leadership": 8
+  },
+  "price": {
+    "current": 123.29,
+    "price_date": "2026-03-06",
+    "52w_high": 155.37,
+    "52w_low": 47.59,
+    "ytd_change_pct": 50.2,
+    "support": 90,
+    "resistance": 160
+  },
+  "fundamentals": {
+    "revenue_fy2025": "15.6B",
+    "revenue_growth_fy2025": "19%",
+    "net_income_fy2025": "1.596B",
+    "eps_fy2025": 2.52,
+    "eps_fy2026e": 3.08,
+    "forward_pe": 42,
+    "trailing_pe": 72,
+    "operating_margin": "20.2%",
+    "optical_comms_q4_revenue": "1.7B",
+    "optical_comms_growth": "24%"
+  },
+  "catalysts": [
+    {
+      "event": "Meta $6B fiber optic deal execution",
+      "date": "2026 ongoing",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "Additional hyperscaler fiber deals",
+      "date": "Q2-Q4 2026",
+      "impact": "very high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Q1 2026 earnings",
+      "date": "Late April 2026",
+      "impact": "high",
+      "probability": "high for beat"
+    },
+    {
+      "event": "India optical facility opening",
+      "date": "H2 2026",
+      "impact": "medium",
+      "probability": "high"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 180, "return_pct": 46 },
+    "base": { "target": 150, "return_pct": 22 },
+    "bear": { "target": 90, "return_pct": -27 }
+  },
+  "recommendation": "BUY on pullback to $105-115",
+  "stop_loss": 100,
+  "position_size": "3-5%",
+  "status": "researched"
+}
