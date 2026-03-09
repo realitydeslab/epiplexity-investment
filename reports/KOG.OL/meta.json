@@ -1,0 +1,78 @@
+{
+  "ticker": "KOG.OL",
+  "name": "Kongsberg Gruppen",
+  "market": "EU",
+  "category": "military_ai",
+  "research_date": "2026-03-09",
+  "epiplexity_score": 80,
+  "current_price": {
+    "value": 396.50,
+    "currency": "NOK",
+    "date": "2026-03-09"
+  },
+  "market_cap": {
+    "value": 75000000000,
+    "currency": "NOK"
+  },
+  "targets": {
+    "bull_12m": 550,
+    "base_12m": 450,
+    "bear_12m": 320,
+    "currency": "NOK"
+  },
+  "scenarios_10k": {
+    "bull": { "value": 13880, "return_pct": 38.8 },
+    "base": { "value": 11350, "return_pct": 13.5 },
+    "bear": { "value": 8070, "return_pct": -19.3 }
+  },
+  "key_catalysts": [
+    {
+      "event": "Maritime demerger listing",
+      "date": "2026-04",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "Poland CUAS delivery begins",
+      "date": "2026",
+      "impact": "medium",
+      "probability": "high"
+    },
+    {
+      "event": "USAF JSM Lot 3 order",
+      "date": "2026-H2",
+      "impact": "medium",
+      "probability": "medium-high"
+    },
+    {
+      "event": "New NASAMS/CUAS customers",
+      "date": "2026",
+      "impact": "high",
+      "probability": "medium"
+    },
+    {
+      "event": "US missile factory construction",
+      "date": "2026-Q2",
+      "impact": "medium",
+      "probability": "high"
+    }
+  ],
+  "financials": {
+    "fy2025_revenue_nok_b": 57,
+    "fy2025_revenue_growth_pct": 17,
+    "q4_2025_revenue_growth_pct": 21,
+    "q4_2025_ebit_margin_pct": 14.7,
+    "order_backlog_nok_b": 157.4,
+    "backlog_growth_pct": 31
+  },
+  "analyst_consensus": {
+    "arctic": { "rating": "buy", "target": 440 },
+    "sb1_markets": { "rating": "buy", "target": 430 },
+    "nordea": { "rating": "buy", "target": 420 },
+    "kepler_cheuvreux": { "rating": "reduce", "target": 337 }
+  },
+  "verdict": "BUY",
+  "stop_loss": 330,
+  "position_size_pct": "3-5%",
+  "status": "researched"
+}
