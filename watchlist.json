@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -638,9 +638,11 @@
       "market": "HK",
       "name": "SMIC",
       "category": "hk_tech",
-      "thesis_hint": "China's largest chip foundry \u2014 semiconductor self-sufficiency play",
+      "thesis_hint": "China's largest chip foundry, 5nm without EUV, 3nm tape-out 2026, Huawei Ascend 950, 100K advanced wafer target, margin trough entry at HKD 60",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 80,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "2382.HK",

@@ -1,0 +1,100 @@
+{
+  "ticker": "0981.HK",
+  "name": "Semiconductor Manufacturing International Corporation (SMIC)",
+  "market": "HK",
+  "category": "china_ai",
+  "researched_date": "2026-03-09",
+  "current_price": {
+    "hkd": 60.85,
+    "usd_equivalent": 7.80,
+    "date": "2026-03-09"
+  },
+  "52_week_range": {
+    "low": 37.00,
+    "high": 93.50
+  },
+  "targets": {
+    "bull_12mo": 95,
+    "base_12mo": 73,
+    "bear_12mo": 42,
+    "stop_loss": 48
+  },
+  "scenarios_10k": {
+    "bull": 15610,
+    "base": 11996,
+    "bear": 6901
+  },
+  "epiplexity_score": 80,
+  "scores": {
+    "catalyst_density": 9,
+    "growth_velocity": 7.5,
+    "leadership": 7,
+    "moat_strength": 8,
+    "risk_reward": 8,
+    "sentiment_timing": 8
+  },
+  "key_catalysts": [
+    {
+      "event": "5nm volume ramp (7nm/5nm output 20K→100K wafers)",
+      "date": "Q2-Q4 2026",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Huawei Ascend 950 series launch",
+      "date": "H1-H2 2026",
+      "probability": "high"
+    },
+    {
+      "event": "3nm tape-out announcement",
+      "date": "H2 2026",
+      "probability": "medium"
+    },
+    {
+      "event": "Q1 2026 earnings (beat flat guidance?)",
+      "date": "May 2026",
+      "probability": "medium-high"
+    },
+    {
+      "event": "10% ASP price hikes on mature nodes",
+      "date": "Q1-Q2 2026",
+      "probability": "high"
+    },
+    {
+      "event": "Build China's ASML initiative progress",
+      "date": "Throughout 2026",
+      "probability": "high"
+    }
+  ],
+  "key_risks": [
+    "US sanctions escalation (DUV maintenance ban)",
+    "Liang Mong Song departure",
+    "5nm yield stagnation at ~33%",
+    "China economic slowdown",
+    "Taiwan Strait escalation"
+  ],
+  "financials": {
+    "fy2025_revenue_usd": 9326800000,
+    "fy2025_revenue_growth": 0.162,
+    "fy2025_net_profit_usd": 685100000,
+    "fy2025_net_profit_growth": 0.391,
+    "fy2025_gross_margin": 0.21,
+    "q4_2025_gross_margin": 0.192,
+    "q1_2026_margin_guidance": "18-20%",
+    "fy2025_capex_usd": 8100000000,
+    "fy2026_capex_guidance": "roughly flat",
+    "utilization_q4_2025": 0.957,
+    "monthly_capacity_wafers": 1059000,
+    "pe_ratio": 90.98,
+    "market_cap_hkd": 603110000000
+  },
+  "analyst_targets": {
+    "consensus": 53.09,
+    "goldman_sachs": 73.1,
+    "range_low": 24.83,
+    "range_high": 73.03
+  },
+  "verdict": "BUY",
+  "conviction": "7/10",
+  "position_size": "3-5%",
+  "status": "complete"
+}
