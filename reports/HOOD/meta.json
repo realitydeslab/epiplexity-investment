@@ -1,0 +1,106 @@
+{
+  "ticker": "HOOD",
+  "name": "Robinhood Markets, Inc.",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "anticipated_2026",
+  "researched_date": "2026-03-09",
+  "price_at_research": 79.35,
+  "market_cap_b": 71.44,
+  "pe_ttm": 38.71,
+  "pe_forward": 28.58,
+  "peg_ratio": 1.39,
+  "ps_ratio": 15.97,
+  "ev_sales": 15.93,
+  "revenue_ttm_b": 4.47,
+  "revenue_growth_yoy": 0.5158,
+  "revenue_growth_forecast_2026": 0.2665,
+  "eps_ttm": 2.05,
+  "eps_forward": 2.44,
+  "eps_growth_forecast": 0.1896,
+  "operating_margin": 0.4681,
+  "gross_margin": 0.9528,
+  "fcf_margin": 0.3628,
+  "fcf_b": 1.62,
+  "net_income_b": 1.88,
+  "beta": 2.48,
+  "short_interest_pct": 4.53,
+  "insider_ownership_pct": 12.97,
+  "institutional_ownership_pct": 63.39,
+  "insider_net_transactions": -5.64,
+  "52w_high": 153.86,
+  "52w_low": 29.66,
+  "50_dma": 95.50,
+  "200_dma": 107.42,
+  "rsi_14": 45.19,
+  "funded_customers_m": 27.0,
+  "auc_b": 324,
+  "monthly_event_contracts_b": 3.0,
+  "employees": 2900,
+  "analyst_consensus": "Buy",
+  "analyst_count": 21,
+  "analyst_avg_pt": 112.81,
+  "analyst_high_pt": 180,
+  "analyst_low_pt": 47,
+  "next_earnings": "2026-04-29",
+  "scenarios": {
+    "bull": {
+      "target": 130,
+      "return_pct": 64,
+      "probability": "Medium"
+    },
+    "base": {
+      "target": 105,
+      "return_pct": 32,
+      "probability": "Medium-High"
+    },
+    "bear": {
+      "target": 55,
+      "return_pct": -31,
+      "probability": "Low-Medium"
+    }
+  },
+  "key_catalysts": [
+    {
+      "event": "Q1 2026 Earnings",
+      "date": "2026-04-29",
+      "impact": "high"
+    },
+    {
+      "event": "Platinum Card adoption metrics",
+      "date": "2026-Q1-Q2",
+      "impact": "medium"
+    },
+    {
+      "event": "EU tokenized trading ramp",
+      "date": "2026-H1",
+      "impact": "medium"
+    },
+    {
+      "event": "Prediction market volume growth",
+      "date": "ongoing",
+      "impact": "high"
+    },
+    {
+      "event": "US Midterm elections",
+      "date": "2026-11",
+      "impact": "high"
+    },
+    {
+      "event": "Fed rate decisions",
+      "date": "ongoing",
+      "impact": "high"
+    }
+  ],
+  "risks": [
+    "NII compression from rate cuts",
+    "PFOF regulatory ban",
+    "Prediction market regulatory reversal",
+    "Crypto winter",
+    "High beta amplifies drawdowns",
+    "Insider selling"
+  ],
+  "epiplexity_score": 78,
+  "conviction": "7/10",
+  "verdict": "BUY on pullback"
+}
