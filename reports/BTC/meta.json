@@ -1,0 +1,109 @@
+{
+  "ticker": "BTC",
+  "name": "Bitcoin",
+  "market": "CRYPTO",
+  "category": "crypto_ai",
+  "research_date": "2026-03-09",
+  "current_price": 68965,
+  "currency": "USD",
+  "market_cap": 1379000000000,
+  "market_cap_display": "$1.379T",
+  "ath": 126080,
+  "ath_date": "2025-10-06",
+  "ath_drawdown_pct": -45.3,
+  "fear_greed_index": 8,
+  "fear_greed_label": "Extreme Fear",
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scenarios": {
+    "bull": {
+      "target": "130000-150000",
+      "return_pct": "+88% to +117%",
+      "probability": 0.25,
+      "10k_outcome": "$18,850-$21,750"
+    },
+    "base": {
+      "target": "90000-110000",
+      "return_pct": "+30% to +59%",
+      "probability": 0.45,
+      "10k_outcome": "$13,050-$15,950"
+    },
+    "bear": {
+      "target": "40000-55000",
+      "return_pct": "-42% to -20%",
+      "probability": 0.20,
+      "10k_outcome": "$5,800-$7,975"
+    },
+    "black_swan": {
+      "target": "25000-35000",
+      "return_pct": "-64% to -49%",
+      "probability": 0.10,
+      "10k_outcome": "$3,625-$5,075"
+    }
+  },
+  "expected_return_pct": 34.0,
+  "expected_12m_value_10k": 13400,
+  "key_catalysts": [
+    {
+      "event": "Iran war resolution",
+      "when": "March 2026",
+      "impact": "+10-20%",
+      "probability": "high"
+    },
+    {
+      "event": "GENIUS Act passage",
+      "when": "Q1-Q2 2026",
+      "impact": "+5-10%",
+      "probability": "high"
+    },
+    {
+      "event": "Clarity Act progress",
+      "when": "Q2-Q3 2026",
+      "impact": "+10-15%",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Fed rate cuts resume",
+      "when": "Q3-Q4 2026",
+      "impact": "+15-25%",
+      "probability": "medium"
+    },
+    {
+      "event": "Institutional/sovereign accumulation wave",
+      "when": "Ongoing",
+      "impact": "+5-15%",
+      "probability": "high"
+    },
+    {
+      "event": "Post-halving secondary rally",
+      "when": "H2 2026",
+      "impact": "+20-40%",
+      "probability": "medium"
+    },
+    {
+      "event": "Strategic Bitcoin Reserve expansion",
+      "when": "H2 2026",
+      "impact": "+20-40%",
+      "probability": "low-medium"
+    }
+  ],
+  "key_risks": [
+    "Strategy (MSTR) forced BTC liquidation",
+    "Iran war escalation/expansion",
+    "Sustained oil above $100 → Fed rate hikes",
+    "Major exchange failure",
+    "Post-halving cycle exhaustion"
+  ],
+  "stop_loss": 50000,
+  "support_levels": [65000, 60000, 50000],
+  "resistance_levels": [72000, 80000, 92000, 126000],
+  "institutional_holdings": {
+    "strategy_btc": 738731,
+    "public_companies_total": 1156000,
+    "num_public_companies": 194
+  },
+  "halving_date": "2024-04-19",
+  "months_post_halving": 23,
+  "status": "researched"
+}

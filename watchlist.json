@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -322,9 +322,11 @@
       "market": "CRYPTO",
       "name": "Bitcoin",
       "category": "crypto_ai",
-      "thesis_hint": "Digital gold, sovereign reserve, ETF inflows",
-      "priority": "medium",
-      "status": "pending"
+      "thesis_hint": "Extreme fear (F&G 8) at strongest institutional adoption ever — Strategy 738K BTC, 194 public companies, sovereign buyers, Iran war resolution catalyst, $69K is 45% off $126K ATH, post-halving cycle bottom setup",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 82,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "ETH",
