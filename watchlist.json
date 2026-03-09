@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -996,9 +996,9 @@
       "thesis_hint": "Binary FDA PDUFA March 16 for reproxalap (dry eye), AbbVie $200M deal on approval",
       "priority": "medium",
       "status": "pending",
-      "epiplexity_score": 71,
+      "epiplexity_score": 76,
       "discovered": "2026-03-06",
-      "last_researched": "2026-03-07"
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "CCJ",
@@ -1413,6 +1413,50 @@
       "status": "pending",
       "epiplexity_score": 71,
       "discovered": "2026-03-08"
+    },
+    {
+      "ticker": "RYTM",
+      "market": "US",
+      "name": "Rhythm Pharmaceuticals",
+      "category": "anticipated_2026",
+      "thesis_hint": "FDA PDUFA March 20 setmelanotide acquired HO, first-ever therapy, -18.8% BMI reduction, $2B+ market",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 81,
+      "discovered": "2026-03-09"
+    },
+    {
+      "ticker": "KOG.OL",
+      "market": "EU",
+      "name": "Kongsberg Gruppen",
+      "category": "military_ai",
+      "thesis_hint": "Record NOK 157B backlog, Maritime demerger April 23 unlocks value, NASAMS/JSM serial production, wide moat",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 80,
+      "discovered": "2026-03-09"
+    },
+    {
+      "ticker": "UAMY",
+      "market": "US",
+      "name": "United States Antimony",
+      "category": "anticipated_2026",
+      "thesis_hint": "$4.6B tungsten deposit, $245M DLA contract, 182% rev growth, only US antimony/tungsten producer",
+      "priority": "high",
+      "status": "pending",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-09"
+    },
+    {
+      "ticker": "EVLV",
+      "market": "US",
+      "name": "Evolv Technologies",
+      "category": "ai_platforms",
+      "thesis_hint": "AI weapons detection, 57% YoY rev growth, 20% ARR target, direct model transition",
+      "priority": "medium",
+      "status": "pending",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-09"
     }
   ]
 }
