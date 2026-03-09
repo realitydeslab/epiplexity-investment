@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -322,7 +322,7 @@
       "market": "CRYPTO",
       "name": "Bitcoin",
       "category": "crypto_ai",
-      "thesis_hint": "Extreme fear (F&G 8) at strongest institutional adoption ever — Strategy 738K BTC, 194 public companies, sovereign buyers, Iran war resolution catalyst, $69K is 45% off $126K ATH, post-halving cycle bottom setup",
+      "thesis_hint": "Extreme fear (F&G 8) at strongest institutional adoption ever \u2014 Strategy 738K BTC, 194 public companies, sovereign buyers, Iran war resolution catalyst, $69K is 45% off $126K ATH, post-halving cycle bottom setup",
       "priority": "high",
       "status": "researched",
       "epiplexity_score": 82,
@@ -335,7 +335,9 @@
       "category": "crypto_ai",
       "thesis_hint": "DeFi + AI agent infrastructure layer",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "last_researched": "2026-03-09",
+      "epiplexity_score": 74
     },
     {
       "ticker": "TAO",
