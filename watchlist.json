@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -696,9 +696,11 @@
       "market": "HK",
       "name": "SenseTime",
       "category": "hk_tech",
-      "thesis_hint": "China's largest pure-play AI company \u2014 computer vision, generative AI, SenseNova",
+      "thesis_hint": "China's largest pure-play AI company — SenseNova V6.5, 73% GenAI growth, spin-off profitability inflection, 18.9x P/S, HKD 91B mcap",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 74,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "2018.HK",

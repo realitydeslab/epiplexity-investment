@@ -1,0 +1,73 @@
+{
+  "ticker": "0020.HK",
+  "name": "SenseTime Group",
+  "market": "HK",
+  "category": "hk_tech",
+  "research_date": "2026-03-09",
+  "price_at_research": 2.30,
+  "currency": "HKD",
+  "market_cap_hkd": 90950000000,
+  "market_cap_usd": 11700000000,
+  "ps_ratio": 18.91,
+  "ttm_revenue_cny": 4390000000,
+  "ttm_revenue_growth_pct": 18.27,
+  "genai_revenue_growth_1h2025_pct": 72.7,
+  "genai_share_of_revenue_pct": 77,
+  "gross_margin_pct": 38.5,
+  "net_loss_ttm_cny": -3300000000,
+  "adjusted_loss_narrowing_1h2025_pct": 50,
+  "cash_reserves_cny": 13200000000,
+  "employees": 3206,
+  "shares_outstanding_b": 35.2,
+  "analyst_consensus_target_hkd": 1.83,
+  "analyst_rating": "Hold",
+  "epiplexity_score": 74,
+  "verdict": "SPECULATIVE BUY",
+  "scenarios": {
+    "bull": {
+      "target_hkd": 4.00,
+      "return_pct": 74,
+      "ten_k_becomes": 17391,
+      "trigger": "FY2025 beat + spin-off IPO + first quarterly profit"
+    },
+    "base": {
+      "target_hkd": 2.80,
+      "return_pct": 22,
+      "ten_k_becomes": 12174,
+      "trigger": "Revenue growth continues, losses narrow but no profitability"
+    },
+    "bear": {
+      "target_hkd": 1.50,
+      "return_pct": -35,
+      "ten_k_becomes": 6522,
+      "trigger": "FY2025 disappoints, more dilution, competition, sanctions escalation"
+    }
+  },
+  "stop_loss_hkd": 1.80,
+  "position_size_pct": "2-3%",
+  "key_catalysts": [
+    {"event": "FY2025 Annual Results", "date": "2026-03-31", "importance": "critical"},
+    {"event": "Tech Day / SenseNova V7", "date": "2026-04-15", "importance": "high"},
+    {"event": "MSCI Rebalance", "date": "2026-05-15", "importance": "medium"},
+    {"event": "X-Business Spin-off Announcement", "date": "2026-Q2", "importance": "critical"},
+    {"event": "WAIC 2026", "date": "2026-07-15", "importance": "high"},
+    {"event": "1H2026 Interim Results", "date": "2026-08-31", "importance": "critical"},
+    {"event": "Potential First Quarterly Profit", "date": "2026-Q3/Q4", "importance": "game-changer"}
+  ],
+  "key_risks": [
+    "US sanctions/entity list escalation",
+    "Persistent losses — R&D exceeds revenue",
+    "Share dilution (8.4% YoY)",
+    "Gross margin compression (70% → 38.5%)",
+    "Competition from DeepSeek, ByteDance, Alibaba",
+    "Geopolitical risk (US-China tech decoupling)"
+  ],
+  "sources": [
+    "StockAnalysis.com",
+    "ACN Newswire (1H2025 results, Aug 28 2025)",
+    "SCMP (multiple articles Aug 2025 - Jan 2026)",
+    "SenseTime official (SenseNova V6.5 launch, WAIC 2025)",
+    "SimplyWall.st analyst consensus",
+    "TipRanks (analyst ratings)"
+  ]
+}
