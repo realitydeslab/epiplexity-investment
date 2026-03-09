@@ -1146,11 +1146,12 @@
       "market": "US",
       "name": "Larimar Therapeutics",
       "category": "anticipated_2026",
-      "thesis_hint": "$25M director insider buy, Friedreich's ataxia nomlabofusp, Phase 2/3 data 2026",
+      "thesis_hint": "BTD designation Feb 2026, BLA submission June 2026, 100% skin FXN normalization, $268M cash, 19.3% short float, first frataxin replacement therapy for FA",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 73,
-      "discovered": "2026-03-07"
+      "status": "researched",
+      "epiplexity_score": 79,
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "GENB",

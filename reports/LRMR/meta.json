@@ -1,0 +1,99 @@
+{
+  "ticker": "LRMR",
+  "name": "Larimar Therapeutics",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 5.57,
+  "market_cap_m": 480,
+  "enterprise_value_m": 309,
+  "week_52_high": 6.42,
+  "week_52_low": 1.61,
+  "shares_outstanding_m": 85.59,
+  "float_m": 46.5,
+  "short_float_pct": 19.31,
+  "insider_ownership_pct": 45.67,
+  "institutional_ownership_pct": 41.43,
+  "cash_and_equivalents_m": 175.44,
+  "pro_forma_cash_m": 268,
+  "quarterly_burn_m": 29,
+  "cash_runway_quarters": 10,
+  "beta": 0.97,
+  "rsi_14": 68.28,
+  "sma_20_distance_pct": 33.46,
+  "sma_50_distance_pct": 48.54,
+  "sma_200_distance_pct": 54.13,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 7,
+  "analyst_target_avg": 16.29,
+  "analyst_target_low": 7.0,
+  "analyst_target_high": 26.0,
+  "analyst_upside_pct": 192.46,
+  "epiplexity_score": 79,
+  "verdict": "STRONG BUY",
+  "conviction": "high",
+  "scenarios": {
+    "bull": {
+      "target": 18.0,
+      "return_pct": 223,
+      "probability_pct": 25,
+      "rationale": "BLA filed and accepted, priority review, approval anticipated"
+    },
+    "base": {
+      "target": 12.0,
+      "return_pct": 115,
+      "probability_pct": 50,
+      "rationale": "BLA submitted June 2026, accepted by FDA, review underway"
+    },
+    "bear": {
+      "target": 2.5,
+      "return_pct": -55,
+      "probability_pct": 25,
+      "rationale": "FDA rejects surrogate endpoint, BLA delayed, cash burn concerns"
+    }
+  },
+  "expected_return_pct": 99.5,
+  "stop_loss": 4.25,
+  "position_size_pct": "2-3%",
+  "key_catalysts": [
+    {
+      "event": "BLA Submission",
+      "date": "2026-06",
+      "impact": "primary",
+      "probability": "high"
+    },
+    {
+      "event": "FDA Priority Review / PDUFA",
+      "date": "2026-Q4 to 2027-Q1",
+      "impact": "binary",
+      "probability": "medium-high"
+    },
+    {
+      "event": "OLE Study Data Updates",
+      "date": "2026-Q2-Q3",
+      "impact": "supportive",
+      "probability": "high"
+    },
+    {
+      "event": "Offering Overhang Clears",
+      "date": "2026-03 to 2026-04",
+      "impact": "minor positive",
+      "probability": "high"
+    },
+    {
+      "event": "Short Squeeze Potential",
+      "date": "catalyst-driven",
+      "impact": "amplifier",
+      "probability": "medium"
+    }
+  ],
+  "drug": "nomlabofusp (CTI-1601)",
+  "indication": "Friedreich's Ataxia",
+  "regulatory_status": "Breakthrough Therapy Designation, BLA planned June 2026",
+  "ceo": "Carole Ben-Maimon, MD",
+  "employees": 65,
+  "major_holder": "Deerfield Management (10%+ owner)",
+  "competitors": ["BIIB (Skyclarys)", "LXEO (gene therapy)", "PTC (frataxin inducer)"],
+  "status": "researched"
+}
