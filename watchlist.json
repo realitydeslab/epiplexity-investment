@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1239,11 +1239,12 @@
       "market": "US",
       "name": "Five9",
       "category": "ai_platforms",
-      "thesis_hint": "Enterprise AI revenue +50% to $100M+ run rate, GAAP profitable, 42% undervalued, $18.70 vs $32.38 FV",
+      "thesis_hint": "Enterprise AI revenue +50% to $100M+ ARR, GAAP profitable, 4.88x forward PE, PEG 0.45, $201M FCF, new M&A-veteran CEO, Google Cloud partnership, activist interest",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 76,
-      "discovered": "2026-03-08"
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "NNE",
