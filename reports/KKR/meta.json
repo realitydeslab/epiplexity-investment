@@ -1,0 +1,98 @@
+{
+  "ticker": "KKR",
+  "name": "KKR & Co. Inc.",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "anticipated_2026",
+  "sector": "Asset Management / Alternative Investments",
+  "research_date": "2026-03-09",
+  "price_at_research": 88.65,
+  "market_cap_B": 79.0,
+  "forward_pe": 11.25,
+  "trailing_pe": 38.14,
+  "peg_ratio": 0.49,
+  "eps_ttm": 2.33,
+  "eps_fy2026e": 6.59,
+  "eps_fy2027e": 7.97,
+  "eps_growth_fy2026": 181.8,
+  "revenue_fy2025_B": 20.51,
+  "fre_margin_pct": 69,
+  "management_fee_growth_yoy_pct": 24,
+  "fundraising_fy2025_B": 129,
+  "k_series_aum_B": 35,
+  "embedded_gains_B": 19,
+  "dividend_yield_pct": 0.83,
+  "dividend_annual": 0.78,
+  "52w_high": 153.87,
+  "52w_low": 84.52,
+  "rsi_14": 33.49,
+  "beta": 1.99,
+  "short_float_pct": 1.28,
+  "insider_ownership_pct": 23.11,
+  "institutional_ownership_pct": 62.01,
+  "analyst_consensus": "Buy",
+  "analyst_target_avg": 148.63,
+  "analyst_target_low": 119,
+  "analyst_target_high": 194,
+  "analyst_count": 16,
+  "co_ceos_insider_buying_shares": 175000,
+  "scenarios": {
+    "bull": {
+      "target": 140,
+      "return_pct": 57.9,
+      "probability_pct": 25
+    },
+    "base": {
+      "target": 115,
+      "return_pct": 29.7,
+      "probability_pct": 45
+    },
+    "bear": {
+      "target": 75,
+      "return_pct": -15.4,
+      "probability_pct": 25
+    },
+    "worst": {
+      "target": 60,
+      "return_pct": -32.3,
+      "probability_pct": 5
+    }
+  },
+  "expected_return_pct": 22.4,
+  "stop_loss": 78,
+  "position_size_pct": "4-6%",
+  "risk_level": "Medium-High",
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "key_catalysts": [
+    "Private credit sector fear subsides → multiple re-rating",
+    "FY2026 EPS ~3x to $6.59 (Q1 earnings May 2026)",
+    "Co-CEO insider buying 175K+ shares at lows",
+    "$300B+ AUM target completion",
+    "Arctos acquisition → new Solutions vertical",
+    "K Series private wealth doubling annually",
+    "AI infrastructure deployment cycle"
+  ],
+  "key_risks": [
+    "Private credit systemic contagion",
+    "FY2026 EPS misses consensus",
+    "Macro recession (beta 1.99)",
+    "Global Atlantic insurance losses",
+    "Co-CEO buying cessation"
+  ],
+  "key_dates": {
+    "q1_2026_earnings": "May 2026",
+    "q2_2026_earnings": "Aug 2026",
+    "q3_2026_earnings": "Nov 2026",
+    "300b_aum_target": "Dec 2026",
+    "arctos_integration": "Q2-Q3 2026"
+  },
+  "sources": [
+    "Google Finance (price data)",
+    "StockAnalysis.com (financials, forecasts, analyst ratings)",
+    "FinViz (technical data, analyst actions, news)",
+    "Insider Monkey (earnings summary, fundraising data)",
+    "Benzinga (private credit sector analysis)",
+    "Barron's (co-CEO insider buying reports)"
+  ]
+}

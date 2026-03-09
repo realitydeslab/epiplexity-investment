@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1210,11 +1210,12 @@
       "market": "US",
       "name": "KKR & Co",
       "category": "anticipated_2026",
-      "thesis_hint": "Co-CEOs bought 175K shares at Feb lows, infrastructure/AI investments, earnings catalyst",
+      "thesis_hint": "Best-in-class alt manager at 11.25x forward PE, co-CEOs buying 175K shares, EPS to ~3x in FY2026 ($6.59), $19B embedded gains, private credit panic = contrarian entry",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 78,
-      "discovered": "2026-03-08"
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "AUPH",
