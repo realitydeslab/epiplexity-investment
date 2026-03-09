@@ -1,0 +1,45 @@
+{
+  "ticker": "SOUN",
+  "name": "SoundHound AI",
+  "market": "US",
+  "category": "ai_platforms",
+  "researched_date": "2026-03-09",
+  "current_price": 8.07,
+  "market_cap_B": 3.8,
+  "epiplexity_score": 72,
+  "verdict": "speculative_buy",
+  "position_size": "2-3%",
+  "entry_price": 8.07,
+  "stop_loss": 6.50,
+  "targets": {
+    "bear": 5.00,
+    "base": 13.00,
+    "bull": 20.00
+  },
+  "key_catalysts": [
+    {"event": "Q1 2026 earnings", "date": "2026-05 (est)", "impact": "high"},
+    {"event": "EBITDA breakeven target", "date": "2026-Q3/Q4", "impact": "critical"},
+    {"event": "Enterprise deal announcements", "date": "ongoing", "impact": "medium"},
+    {"event": "Short squeeze potential", "date": "any", "impact": "high"}
+  ],
+  "key_metrics": {
+    "fy2025_revenue_M": 168.9,
+    "fy2025_yoy_growth": "99%",
+    "fy2026_guidance_M": "225-260",
+    "q4_2025_revenue_M": 55.1,
+    "gaap_gross_margin": "47.9%",
+    "non_gaap_gross_margin": "60.5%",
+    "adj_ebitda_loss_M": -58.4,
+    "cash_M": 248.5,
+    "short_interest_pct": "35.6%",
+    "insider_buys_12m": 0,
+    "insider_sells_12m_M": 33.42
+  },
+  "analyst_targets": {
+    "hc_wainwright": 20.00,
+    "da_davidson": 14.00,
+    "consensus": 14.63
+  },
+  "risks": ["unprofitable", "big_tech_competition", "insider_selling", "high_valuation", "growth_deceleration"],
+  "status": "researched"
+}

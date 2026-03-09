@@ -759,9 +759,10 @@
       "category": "ai_platforms",
       "thesis_hint": "Voice AI for enterprise \u2014 restaurants, auto, customer service. 117% analyst upside",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 75,
-      "discovered": "2026-03-06"
+      "status": "researched",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "2252.HK",
