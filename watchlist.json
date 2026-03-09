@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -818,11 +818,12 @@
       "market": "US",
       "name": "Hims & Hers Health",
       "category": "anticipated_2026",
-      "thesis_hint": "Telehealth platform, $1.5B revenue, GLP-1 + mental health expansion",
-      "priority": "medium",
-      "status": "pending",
-      "epiplexity_score": 71,
-      "discovered": "2026-03-06"
+      "thesis_hint": "Novo Nordisk deal transforms from compounded GLP-1 to authorized Wegovy/Ozempic distributor, +40% on deal day, 39% short float squeeze, $2.35B rev, $1.15B Eucalyptus acquisition for international expansion",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 80,
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "CAVA",

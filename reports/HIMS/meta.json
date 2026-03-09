@@ -1,0 +1,95 @@
+{
+  "ticker": "HIMS",
+  "name": "Hims & Hers Health",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 22.16,
+  "after_hours": 22.40,
+  "day_change_pct": 40.79,
+  "market_cap_B": 5.05,
+  "enterprise_value_B": 5.59,
+  "epiplexity_score": 80,
+  "verdict": "BUY",
+  "conviction": "high",
+  "financials": {
+    "revenue_ttm_B": 2.348,
+    "revenue_growth_yoy_pct": 59.0,
+    "net_income_M": 128.37,
+    "eps_diluted": 0.51,
+    "gross_margin_pct": 73.84,
+    "operating_margin_pct": 4.50,
+    "fcf_M": 73.96,
+    "cash_and_investments_M": 577.49,
+    "total_debt_M": 1121,
+    "net_cash_M": -543.1
+  },
+  "valuation": {
+    "pe_ttm": 42.44,
+    "pe_forward": 31.98,
+    "ps_ttm": 2.15,
+    "ev_sales": 2.38,
+    "ev_ebitda": 31.75,
+    "peg": 1.03,
+    "pb": 9.31
+  },
+  "technicals": {
+    "rsi_14": 59.0,
+    "beta": 2.57,
+    "sma_20_pct": 34.97,
+    "sma_50_pct": -11.22,
+    "sma_200_pct": -48.19,
+    "52w_high": 70.43,
+    "52w_low": 13.74,
+    "from_52w_high_pct": -68.54,
+    "from_52w_low_pct": 61.28
+  },
+  "short_interest": {
+    "short_float_pct": 39.12,
+    "shares_short_M": 81.01,
+    "days_to_cover": 3.48
+  },
+  "catalyst_dates": {
+    "novo_deal_announced": "2026-03-09",
+    "q1_2026_earnings": "2026-05-01",
+    "branded_glp1_launch": "2026-Q2",
+    "q2_2026_earnings": "2026-08-01",
+    "eucalyptus_integration": "2026-H2"
+  },
+  "scenarios": {
+    "bull": {
+      "target": 40,
+      "return_pct": 80.5,
+      "10k_becomes": 18050
+    },
+    "base": {
+      "target": 28,
+      "return_pct": 26.4,
+      "10k_becomes": 12635
+    },
+    "bear": {
+      "target": 15,
+      "return_pct": -32.3,
+      "10k_becomes": 6770
+    }
+  },
+  "risk_management": {
+    "stop_loss_tight": 18.50,
+    "stop_loss_wide": 15.50,
+    "position_size_pct": "2-3%",
+    "kill_triggers": [
+      "Novo deal margin terms disappoint",
+      "Gross margin falls below 65%",
+      "Eucalyptus integration fails",
+      "Competitor gets similar pharma deal"
+    ]
+  },
+  "analyst_consensus": {
+    "rating": "Hold",
+    "avg_pt": 26.7,
+    "low_pt": 13.25,
+    "high_pt": 68.0,
+    "num_analysts": 13
+  }
+}
