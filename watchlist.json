@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -524,9 +524,11 @@
       "market": "US",
       "name": "CrowdStrike",
       "category": "military_ai",
-      "thesis_hint": "AI endpoint security, threat intelligence, federal/defense sector growth",
+      "thesis_hint": "AI endpoint security king, Charlotte AI agentic SOC, $5.25B ARR, 23% growth reaccelerating to 24%+, Iran war cyber tailwind, 71x fwd PE premium but wide moat, $1.31B FCF",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 78,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "AXON",

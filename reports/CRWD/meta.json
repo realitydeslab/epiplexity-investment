@@ -1,0 +1,100 @@
+{
+  "ticker": "CRWD",
+  "name": "CrowdStrike Holdings",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "military_ai",
+  "research_date": "2026-03-09",
+  "price_at_research": 434.13,
+  "market_cap_b": 110.1,
+  "enterprise_value_b": 105.1,
+  "52_week_high": 566.90,
+  "52_week_low": 298.00,
+  "50_dma": 399.0,
+  "200_dma": 467.0,
+  "rsi": 57.39,
+  "beta": 1.08,
+  "shares_outstanding_m": 253.36,
+  "short_interest_pct": 3.05,
+  "insider_ownership_pct": 3.33,
+  "institutional_ownership_pct": 72.73,
+  "revenue_ttm_m": 4812,
+  "revenue_growth_yoy_pct": 21.71,
+  "gross_margin_pct": 74.67,
+  "operating_margin_pct": -6.10,
+  "fcf_ttm_m": 1310,
+  "fcf_margin_pct": 27.23,
+  "net_cash_m": 5230,
+  "eps_ttm": -0.65,
+  "forward_eps": 6.14,
+  "ps_ratio": 22.74,
+  "forward_ps": 18.4,
+  "ev_sales": 21.84,
+  "peg_ratio": 2.46,
+  "forward_pe": 70.74,
+  "arr_b": 5.25,
+  "net_new_arr_b": 1.01,
+  "employees": 10698,
+  "epiplexity_score": 78,
+  "verdict": "BUY",
+  "analyst_consensus": "Buy",
+  "analyst_count": 44,
+  "analyst_avg_pt": 506.68,
+  "analyst_low_pt": 368,
+  "analyst_high_pt": 613,
+  "scenarios": {
+    "bull": {
+      "target": 580,
+      "return_pct": 33.6,
+      "10k_becomes": 13360
+    },
+    "base": {
+      "target": 500,
+      "return_pct": 15.2,
+      "10k_becomes": 11518
+    },
+    "bear": {
+      "target": 340,
+      "return_pct": -21.7,
+      "10k_becomes": 7833
+    }
+  },
+  "stop_loss": 380,
+  "position_size_pct": "3-5%",
+  "next_catalyst": "Fal.Con Gov 2026 - March 18, 2026",
+  "key_dates": [
+    "2026-03-18: Fal.Con Gov 2026 (Washington, D.C.)",
+    "2026-03-26: RSAC 2026 (San Francisco)",
+    "2026-06-03: Q1 FY2027 Earnings (est.)",
+    "2026-06: Russell reconstitution",
+    "2026-09-01: Day Zero / Fal.Con 2026 (Las Vegas)",
+    "2026-09-02: Q2 FY2027 Earnings (est.)",
+    "2026-12-02: Q3 FY2027 Earnings (est.)"
+  ],
+  "top_catalysts": [
+    "Charlotte AI monetization inflection (H1 2026)",
+    "FY2027 revenue reacceleration to 24%+ (Q1 earnings ~Jun 3)",
+    "Iran war driving federal cyber spending surge (ongoing)",
+    "Fal.Con Gov 2026 federal contract announcements (Mar 18)",
+    "RSAC 2026 product launches (Mar 26)",
+    "GAAP profitability in FY2027"
+  ],
+  "key_risks": [
+    "Premium valuation (23x P/S, 71x fwd PE, PEG 2.46)",
+    "AI disruption narrative persists in market sentiment",
+    "Microsoft Defender bundling threat in mid-market/SMB",
+    "No meaningful insider buying despite large insider ownership",
+    "Second global outage risk (July 2024 precedent)",
+    "Growth deceleration below 20% would break thesis"
+  ],
+  "sources": [
+    "stockanalysis.com",
+    "finviz.com",
+    "crowdstrike.com",
+    "insidermonkey.com",
+    "seekingalpha.com",
+    "barrons.com",
+    "fool.com",
+    "benzinga.com"
+  ]
+}
