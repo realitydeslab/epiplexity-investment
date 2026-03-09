@@ -985,11 +985,12 @@
       "market": "US",
       "name": "Rezolve AI",
       "category": "ai_platforms",
-      "thesis_hint": "Agentic commerce, guiding $350M 2026 rev (10x YoY), $500M ARR exit target",
+      "thesis_hint": "Agentic commerce, guiding $350M 2026 rev (10x YoY), $500M ARR exit target, $230M Reward Loyalty acquisition, MSFT/GOOGL partnerships, 3.4x forward P/S if revenue materializes",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 76,
-      "discovered": "2026-03-06"
+      "discovered": "2026-03-06",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "THLEF",

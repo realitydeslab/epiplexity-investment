@@ -1,0 +1,88 @@
+{
+  "ticker": "RZLV",
+  "name": "Rezolve AI PLC",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_platforms",
+  "research_date": "2026-03-09",
+  "current_price": 2.715,
+  "market_cap_B": 1.08,
+  "enterprise_value_B": 1.11,
+  "shares_outstanding_M": 398.83,
+  "float_M": 262.51,
+  "52w_high": 8.45,
+  "52w_low": 1.07,
+  "insider_ownership_pct": 34.18,
+  "institutional_ownership_pct": 13.14,
+  "short_float_pct": 13.70,
+  "short_interest_M": 35.96,
+  "beta": -0.22,
+  "revenue_ttm_M": 5.30,
+  "revenue_fy2025e_M": 41.3,
+  "revenue_fy2026e_M": 315.3,
+  "revenue_fy2027e_M": 500.8,
+  "eps_ttm": -1.07,
+  "eps_fy2025e": -0.27,
+  "eps_fy2026e": -0.12,
+  "gross_margin_pct": 95.63,
+  "operating_loss_ttm_M": -160.75,
+  "fcf_ttm_M": -36.64,
+  "ps_ratio_ttm": 198.56,
+  "ps_ratio_forward_2026": 3.43,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 7,
+  "avg_price_target": 10.00,
+  "median_price_target": 8.50,
+  "low_price_target": 7.00,
+  "high_price_target": 15.00,
+  "epiplexity_score": 76,
+  "verdict": "Speculative Buy",
+  "risk_level": "Very High",
+  "position_sizing": "1-2% of portfolio",
+  "stop_loss": 2.00,
+  "scenarios": {
+    "bull": {
+      "target": 8.00,
+      "return_pct": 194,
+      "10k_result": 29412
+    },
+    "base": {
+      "target": 4.50,
+      "return_pct": 65,
+      "10k_result": 16544
+    },
+    "bear": {
+      "target": 1.20,
+      "return_pct": -56,
+      "10k_result": 4412
+    }
+  },
+  "key_catalysts": [
+    {
+      "event": "FY2025 Annual Results",
+      "date": "Q1 2026",
+      "impact": "Critical revenue validation"
+    },
+    {
+      "event": "Reward Loyalty Integration",
+      "date": "Q1-Q2 2026",
+      "impact": "Revenue acceleration proof"
+    },
+    {
+      "event": "First Combined Quarterly Report",
+      "date": "Q2 2026",
+      "impact": "Shows acquisition contribution"
+    },
+    {
+      "event": "Russell Reconstitution",
+      "date": "June 2026",
+      "impact": "Index flow catalyst"
+    },
+    {
+      "event": "$350M Revenue Tracking",
+      "date": "H2 2026",
+      "impact": "Full-year guidance validation"
+    }
+  ],
+  "status": "researched"
+}
