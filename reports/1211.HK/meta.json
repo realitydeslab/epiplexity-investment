@@ -1,0 +1,55 @@
+{
+  "ticker": "1211.HK",
+  "name": "BYD Company Limited",
+  "market": "HK",
+  "research_date": "2026-03-09",
+  "share_price_approx": 98.05,
+  "currency": "HKD",
+  "market_cap_approx": "894B HKD (~$115B USD)",
+  "pe_ratio": 36.85,
+  "revenue_ttm_approx": "953B CNY (~$138B USD)",
+  "net_income_ttm_approx": "44B CNY (~$6.4B USD)",
+  "revenue_2024": "777B CNY",
+  "units_sold_2025": "4.28M NEVs",
+  "execution_scores": {
+    "phase1": 8.5,
+    "phase2": 7.5,
+    "phase3": 6.5,
+    "overall": 7.5
+  },
+  "leader": {
+    "name": "Wang Chuanfu",
+    "role": "Chairman & President",
+    "tenure_years": 31,
+    "rating": 8.5,
+    "insider_activity": "Founder, ~22% stake via BYD Int'l"
+  },
+  "value_scenarios": {
+    "bull_12mo_10k": 16500,
+    "bull_price": 162,
+    "base_12mo_10k": 12800,
+    "base_price": 128,
+    "bear_12mo_10k": 7700,
+    "bear_price": 75,
+    "floor_price": 65
+  },
+  "verdict": "High-conviction BUY on pullback. 2nd-gen blade battery + global expansion = 2026 rerating catalyst",
+  "thesis_oneline": "BYD is the world's largest EV maker with vertically integrated battery+chip+software, trading at 37x P/E during a temporary 6-month sales slump — the 2nd-gen blade battery and global expansion are the rerating triggers for 2026.",
+  "key_catalysts": [
+    "2nd-gen blade battery rollout across 10+ models (Q2 2026)",
+    "20,000 flash-charging stations by year-end 2026",
+    "FY2025 annual results (March 2026) — revenue likely record ~CNY 950B+",
+    "God's Eye autonomous driving tech across lineup",
+    "Global expansion: Hungary factory, SE Asia, LatAm, Middle East",
+    "New premium models: Seal 08, Datang SUV, Yangwang refresh"
+  ],
+  "key_risks": [
+    "6-month consecutive sales decline in China",
+    "5% purchase tax headwind on NEVs in 2026",
+    "EU tariff risk (anti-subsidy investigation)",
+    "Battery raw material cost inflation",
+    "Intense domestic competition (Xiaomi, Huawei, Xpeng)",
+    "Geopolitical risk — Western market access"
+  ],
+  "status": "researched"
+}
