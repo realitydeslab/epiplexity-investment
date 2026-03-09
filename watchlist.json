@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -818,10 +818,10 @@
       "market": "US",
       "name": "Hims & Hers Health",
       "category": "anticipated_2026",
-      "thesis_hint": "Novo Nordisk deal transforms from compounded GLP-1 to authorized Wegovy/Ozempic distributor, +40% on deal day, 39% short float squeeze, $2.35B rev, $1.15B Eucalyptus acquisition for international expansion",
+      "thesis_hint": "Novo Nordisk GLP-1 deal transforms to authorized Wegovy/Ozempic distributor, +40.79% on deal day, lawsuit dropped, 39% short float squeeze, $2.35B rev, $1.15B Eucalyptus acquisition",
       "priority": "high",
       "status": "researched",
-      "epiplexity_score": 80,
+      "epiplexity_score": 85,
       "discovered": "2026-03-06",
       "last_researched": "2026-03-09"
     },
@@ -1492,6 +1492,66 @@
       "status": "pending",
       "epiplexity_score": 72,
       "discovered": "2026-03-09"
+    },
+    {
+      "ticker": "MU",
+      "market": "US",
+      "name": "Micron Technology",
+      "category": "ai_semiconductors",
+      "thesis_hint": "HBM memory king for AI, earnings March 18, forward PE 9.29, FY2026 rev forecast $79.4B (+112% YoY), EPS $35.27, analysts raising PTs to $430-550",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 84,
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
+    },
+    {
+      "ticker": "LITE",
+      "market": "US",
+      "name": "Lumentum Holdings",
+      "category": "ai_infrastructure",
+      "thesis_hint": "AI optical laser king, S&P 500 addition, NVIDIA $2B investment, Q2 FY26 rev $665.5M (+65.5% YoY), guiding $780-830M next Q, bottleneck winner",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
+    },
+    {
+      "ticker": "COHR",
+      "market": "US",
+      "name": "Coherent Corp",
+      "category": "ai_infrastructure",
+      "thesis_hint": "S&P 500 addition March 9, NVIDIA partnership, 22% YoY rev growth to $1.69B, datacenter optics, 6-inch wafer ramp for margins",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
+    },
+    {
+      "ticker": "ORCL",
+      "market": "US",
+      "name": "Oracle Corporation",
+      "category": "ai_platforms",
+      "thesis_hint": "Earnings March 10, $151 vs $279 analyst PT (+84%), OCI cloud growth, FY2026 EPS +73%, down 56% from ATH, contrarian cloud play",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 76,
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
+    },
+    {
+      "ticker": "ONDS",
+      "market": "US",
+      "name": "Ondas Inc",
+      "category": "military_ai",
+      "thesis_hint": "Defense drone/autonomous systems, Q4 rev 6x YoY, FY2025 $49.6M (6x vs 2024), multi-layer defense platform, speculative",
+      "priority": "medium",
+      "status": "researched",
+      "epiplexity_score": 72,
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
     }
   ]
 }
