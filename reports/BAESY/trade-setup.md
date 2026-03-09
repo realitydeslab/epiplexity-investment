@@ -1,106 +1,94 @@
 # BAE Systems (BAESY) — Trade Setup 💰
 
-*Research Date: 2026-03-09 | ADR Price: $121.38 | London: GBX 2,234*
+*Research Date: 2026-03-09 | Current Price: $121.92*
 
----
+## Current Position
 
-## Current Price Context
+- **Price:** $121.92 (new 52-week high as of March 9, 2026)
+- **52-week range:** $76.01 (April 4, 2025) — $122.72 (today)
+- **YTD performance:** Strong rally, breaking out to new highs
+- **12-month return:** +33%
+- **5-year return:** +345%
 
-| Metric | Value |
-|--------|-------|
-| ADR Price | $121.38 |
-| London (BA.L) | GBX 2,234 (£22.34) |
-| Market Cap | $90.82B / £66.98B |
-| P/E Ratio | 33.26x (ADR) / 32.84x (London) |
-| Dividend Yield | 1.59% |
-| 52-Week Range (ADR) | $76.01 - $122.72 |
-| 52-Week Range (London) | GBX 1,394 - GBX 2,294 |
-| Distance from 52-Week High | -1.1% (near all-time highs) |
-| 50-Day MA | $109.26 (11% above) |
-| 200-Day MA | $101.89 (19% above) |
+## Technical Levels
 
-## Technical Assessment
+| Level | Price | Notes |
+|-------|-------|-------|
+| Current | $121.92 | At 52-week high — breakout territory |
+| 50 DMA | $109.26 | 11.6% below current — strong uptrend |
+| 200 DMA | $101.89 | 19.6% below current — long-term uptrend intact |
+| Support 1 | $115.00 | Recent consolidation zone |
+| Support 2 | $109.00 | 50 DMA / prior resistance-turned-support |
+| Support 3 | $100.00 | Psychological level near 200 DMA |
+| Resistance 1 | $122.72 | Today's intraday high / 52-week high |
+| Resistance 2 | $135.00 | Round number target |
+| Resistance 3 | $150.00 | Bull case target |
 
-- **Trend:** Strong uptrend. Price above both 50 and 200 DMA.
-- **Support levels:** $109 (50 DMA), $102 (200 DMA), $95 (psychological), $76 (52-week low)
-- **Resistance:** $122.72 (52-week high, being tested NOW)
-- **Momentum:** Trading near highs while broader market is volatile — relative strength.
-- **Volume:** Average 574K shares/day (adequate but thin for ADR; London is primary market with 6.83M shares/day)
+**Technical Assessment:** Stock is in a strong uptrend, breaking out to new all-time highs. The 50 DMA ($109) is well below, indicating the trend has momentum but is somewhat extended. A pullback to the $109-115 range would be a healthier entry point.
 
-## Valuation Context
+## Valuation
 
-| Metric | BAESY | RHM.DE | LMT | RTX | NOC |
-|--------|-------|--------|-----|-----|-----|
-| P/E | 33x | 37x | 22x | 28x | 25x |
-| Div Yield | 1.6% | 0.4% | 2.3% | 1.9% | 1.7% |
-| Rev Growth | +7% | +36% | +5% | +8% | +4% |
-| Backlog | £83.6B | €67B | $176B | $217B | $84B |
+| Metric | Value | vs. Peers |
+|--------|-------|-----------|
+| P/E (TTM) | 33.4x | Rheinmetall ~37x, Saab ~48x, LMT ~22x |
+| P/E (FY2026E consensus) | 31.9x | Using $3.82 consensus |
+| P/E (FY2026E Erste) | 27.5x | Using $4.43 Erste estimate |
+| EV/EBITDA (TTM) | ~17.5x | Mid-range for defense |
+| Dividend yield | 1.58% | Better than Rheinmetall (0.5%), worse than LMT (2.5%) |
+| Price/Book | 30.3x | Elevated |
 
-**BAE trades at a premium to US defense primes but a discount to Rheinmetall.** The European defense premium is justified by faster growth outlook, but BAE's lower growth rate vs. Rheinmetall doesn't fully justify a near-similar multiple.
+**Valuation Assessment:** At 33x P/E, BAE is richly valued by historical standards but trades at a DISCOUNT to European defense peers (Rheinmetall 37x, Saab 48x). Compared to US primes (LMT 22x, NOC 22x, RTX 22x), BAE trades at a premium — but BAE's growth rate justifies it. The "sweet spot" argument: better growth than US primes, cheaper than European pure-plays.
 
-## Entry Strategy
+## Scenarios ($10K Invested at $121.92)
 
-**NOT an ideal entry at $121.** Stock is near all-time highs. Suggested approach:
-
-1. **Wait for pullback:** Target $105-110 range (near 50 DMA) for a better risk/reward
-2. **Scale in:** 1/3 position now, 2/3 on pullback to $110 or below
-3. **Alternative:** Buy London-listed BA.L for better liquidity and tighter spreads
-
-## Scenarios ($10K Invested at $121.38)
-
-| Scenario | 12-Month Target | $10K → | Return | Probability |
-|----------|----------------|--------|--------|-------------|
-| 🚀 **Bull** (European spending surge + AUKUS acceleration + guidance beat) | $160 | $13,180 | +31.8% | 25% |
-| 📊 **Base** (steady growth, backlog conversion, modest re-rating) | $140 | $11,530 | +15.3% | 50% |
-| 🐻 **Bear** (peace dividend risk, multiple compression, macro headwinds) | $100 | $8,240 | -17.6% | 25% |
-
-**Expected value: +10.3% (plus 1.6% dividend = ~11.9% total return)**
-
-### Bull Case ($160)
-- European defense budgets exceed expectations
-- AUKUS submarine program accelerated
-- H1 guidance raised significantly
-- FY2026 EPS hits $4.50+ (Erste Group high estimate)
-- Multiple expands to 35-36x on growth re-rating
-
-### Base Case ($140)
-- Steady 7-10% revenue growth
-- FY2026 EPS ~$4.00-$4.20
-- Multiple stable at 33x
-- Backlog continues growing to £90B+
-- Dividend maintained and growing
-
-### Bear Case ($100)
-- Geopolitical de-escalation (unlikely but possible)
-- Multiple compresses to 25-27x as "defense premium" fades
-- FY2026 EPS misses at $3.60-$3.80
-- UK Spring Statement disappoints on defense spending
-- Broader market sell-off drags all equities
+| Scenario | 12-Month Target | $10K → | Return | Thesis |
+|----------|----------------|--------|--------|--------|
+| 🚀 Bull | $165 | $13,535 | +35% | ReArm Europe accelerates, AUKUS milestone, guidance upgrade to double-digit growth, P/E expansion to 35x on $4.70 EPS |
+| 📊 Base | $140 | $11,483 | +15% | Steady execution, consensus EPS delivery ($3.82-4.00), multiple holds at ~35x |
+| 🐻 Bear | $100 | $8,203 | -18% | Peace talks shock, defense spending fears, multiple compression to 25x, currency headwinds |
 
 ## Risk Management
 
 ### Stop-Loss
-- **Hard stop:** $95 (-21.7%) — below 200 DMA and psychological support
-- **Trailing stop:** 15% from highs
-- **Mental stop:** Reduce if UK defense spending commitment wavers or AUKUS delayed significantly
+- **Hard stop:** $100 (-18%) — below 200 DMA, signals trend breakdown
+- **Trailing stop:** 15% from highs — currently ~$104
 
 ### Position Sizing
-- **Recommendation:** 2-3% of portfolio
-- **Rationale:** Quality compounder with good visibility, but elevated valuation limits risk/reward at current levels. Would size up to 4-5% on a pullback to $105-110.
+- **Recommended:** 2-3% of portfolio
+- **Rationale:** Defense is a crowded trade in 2026. BAE is high quality but at all-time highs. Moderate position allows holding through volatility without panic selling.
 
 ### What Kills the Trade?
-1. **Peace breaking out** — Ukraine/Russia ceasefire reducing urgency for European rearmament
-2. **UK fiscal crisis** — defense spending cut in favor of domestic priorities
-3. **AUKUS collapse** — political change in Australia or UK withdrawing
-4. **Program execution failure** — major cost overruns on Dreadnought or GCAP
-5. **Currency risk** — strong GBP vs. USD hurts ADR returns
+
+1. **Peace dividend shock** — ceasefire in Ukraine/Russia leads to defense spending pullback narrative (probability: LOW in 12 months)
+2. **Saudi relationship disruption** — geopolitical event strains UK-Saudi defense ties
+3. **GBP strength** — BAE reports in GBP; strong pound reduces USD-denominated earnings for ADR holders
+4. **Program delays** — AUKUS, GCAP, or Dreadnought timeline slips
+5. **Multiple compression** — if the "defense premium" fades and BAE re-rates to US prime levels (22-25x), downside of 25-30%
 
 ### Correlation Risk
-- Highly correlated with European defense index
-- Positively correlated with geopolitical risk/VIX
-- Negatively correlated with peace/de-escalation sentiment
-- GBP/USD exchange rate affects ADR pricing
+- BAE has a beta of -0.06 (!) — essentially ZERO correlation with broader market
+- This makes it an excellent portfolio diversifier
+- Primary risk correlation is with the European defense sector (Rheinmetall, Saab, Leonardo)
+- Secondary correlation with GBP/USD exchange rate
 
----
+## Entry Strategy
 
-*Sources: Google Finance, MarketBeat, Motley Fool UK, peer comparisons*
+**Ideal entry:** $109-115 on a pullback to the 50 DMA
+**Acceptable entry:** Current levels ($120-122) with a starter position (1%), adding on pullbacks
+**Avoid:** Chasing above $125 without a pullback
+
+**Why not wait?** The defense spending cycle is structural, not cyclical. Each week brings new contract awards and geopolitical catalysts. Waiting for the "perfect" entry could mean never entering. A tiered approach (buy 1/3 now, 1/3 on dip to $115, 1/3 on dip to $109) manages timing risk.
+
+## Options Activity
+
+- BAESY is OTC-traded (ADR) — limited options market
+- For options exposure, consider the London-listed BA. shares or defense ETFs (ITA, XAR, PPA)
+- Short interest data not available for ADR; ADR institutional ownership is thin at 0.21%
+
+## Dividend
+
+- Current yield: 1.58%
+- Ex-dividend date: April 24, 2026
+- Dividend amount: $1.2151 (next payment)
+- Annual dividend: $1.93
+- Sustainable and growing — 59.3% FCF growth supports continued increases

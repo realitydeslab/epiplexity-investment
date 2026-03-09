@@ -1,0 +1,102 @@
+{
+  "ticker": "BAESY",
+  "name": "BAE Systems (ADR)",
+  "market": "US",
+  "category": "military_ai",
+  "research_date": "2026-03-09",
+  "price_at_research": 121.92,
+  "market_cap_billions": 91.2,
+  "currency": "USD",
+  "primary_listing": "BA. (LSE)",
+  "epiplexity_score": 80,
+  "scores": {
+    "catalyst_strength": 9,
+    "growth_velocity": 8,
+    "leader_quality": 8,
+    "competitive_moat": 9,
+    "valuation": 6,
+    "technical_setup": 6,
+    "risk_reward": 7,
+    "conviction": 8
+  },
+  "key_metrics": {
+    "pe_ttm": 33.41,
+    "eps_ttm": 3.67,
+    "revenue_ttm_billions": 38.0,
+    "ebitda_ttm_billions": 5.2,
+    "net_margin_pct": 7.4,
+    "roe_pct": 17.62,
+    "debt_to_equity": 0.64,
+    "dividend_yield_pct": 1.58,
+    "beta": -0.06,
+    "backlog_billions_gbp": 83.6
+  },
+  "growth": {
+    "revenue_yoy_2023": 9.2,
+    "revenue_yoy_2024": 17.1,
+    "eps_yoy_2024": 9.0,
+    "underlying_op_profit_growth_2025": 12.0,
+    "q4_ebitda_growth": 43.4,
+    "q4_fcf_growth": 59.3
+  },
+  "analyst_consensus": {
+    "rating": "Moderate Buy",
+    "buy_count": 4,
+    "hold_count": 4,
+    "sell_count": 0,
+    "fy2026_eps_consensus": 3.82,
+    "fy2026_eps_erste_group": 4.43,
+    "fy2027_eps_erste_group": 5.01
+  },
+  "trade_setup": {
+    "entry_ideal": "109-115",
+    "entry_acceptable": "120-122",
+    "target_base": 140,
+    "target_bull": 165,
+    "stop_loss": 100,
+    "position_size_pct": "2-3",
+    "fifty_dma": 109.26,
+    "two_hundred_dma": 101.89
+  },
+  "key_catalysts": [
+    {
+      "event": "ReArm Europe contract awards",
+      "timing": "Throughout 2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "H1 2026 interim results / guidance upgrade",
+      "timing": "August 2026",
+      "probability": "MEDIUM-HIGH"
+    },
+    {
+      "event": "AUKUS submarine milestones",
+      "timing": "H2 2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "GCAP design contract awards",
+      "timing": "2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "Saudi Arabia mega-contracts",
+      "timing": "H1-H2 2026",
+      "probability": "MEDIUM"
+    },
+    {
+      "event": "Ex-dividend date",
+      "timing": "April 24, 2026",
+      "probability": "HIGH"
+    }
+  ],
+  "key_risks": [
+    "Valuation at 33x P/E is full — multiple compression risk",
+    "Peace dividend shock from Ukraine/Russia ceasefire",
+    "GBP/USD currency risk for ADR holders",
+    "Defense trade is consensus/crowded in 2026",
+    "At 52-week highs — technically extended"
+  ],
+  "status": "researched",
+  "verdict": "BUY on pullback"
+}
