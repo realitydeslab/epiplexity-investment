@@ -1,0 +1,115 @@
+{
+  "ticker": "UAMY",
+  "name": "United States Antimony Corporation",
+  "market": "US",
+  "exchange": "NYSE (uplisting March 11, 2026 from NYSE American)",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 9.24,
+  "previous_close": 9.57,
+  "market_cap": "1.34B",
+  "enterprise_value": "1.32B",
+  "52w_high": 19.71,
+  "52w_low": 1.25,
+  "short_float_pct": 22.72,
+  "short_interest": "27.70M shares",
+  "short_ratio": 2.10,
+  "insider_ownership_pct": 12.93,
+  "institutional_ownership_pct": 43.36,
+  "shares_outstanding": "130.20M",
+  "float": "121.92M",
+  "beta": 0.05,
+  "revenue_ttm": "33.10M",
+  "revenue_growth_ttm_pct": 201.65,
+  "revenue_fy2024": "14.94M",
+  "revenue_fy2025e": "39.45M",
+  "revenue_fy2026e": "125.58M",
+  "eps_ttm": -0.04,
+  "eps_fy2025e": -0.02,
+  "eps_fy2026e": 0.20,
+  "forward_pe": 48.96,
+  "ps_ratio": 40.49,
+  "pb_ratio": 17.37,
+  "gross_margin_ttm_pct": 25.78,
+  "operating_margin_ttm_pct": -17.53,
+  "profit_margin_ttm_pct": -14.91,
+  "debt_equity": 0.00,
+  "current_ratio": 5.08,
+  "quick_ratio": 3.73,
+  "rsi_14": 56.56,
+  "sma_20_distance_pct": 12.76,
+  "sma_50_distance_pct": 17.93,
+  "sma_200_distance_pct": 57.28,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 5,
+  "price_target_low": 4.50,
+  "price_target_avg": 7.69,
+  "price_target_high": 11.00,
+  "price_target_finviz": 12.69,
+  "epiplexity_score": 78,
+  "scores": {
+    "catalyst_clarity": 9,
+    "growth_velocity": 9,
+    "execution_risk": 5,
+    "valuation": 4,
+    "short_squeeze": 8,
+    "moat": 8,
+    "leadership": 7,
+    "balance_sheet": 7
+  },
+  "catalysts": [
+    {
+      "event": "NYSE uplisting first trading day",
+      "date": "2026-03-11",
+      "impact": "institutional access",
+      "probability": "confirmed"
+    },
+    {
+      "event": "FY2025 10-K filing / earnings",
+      "date": "2026-03/04",
+      "impact": "revenue validation",
+      "probability": "high"
+    },
+    {
+      "event": "Russell index reconstitution",
+      "date": "2026-06",
+      "impact": "forced index buying",
+      "probability": "medium"
+    },
+    {
+      "event": "DLA follow-on orders",
+      "date": "2026 ongoing",
+      "impact": "revenue stream",
+      "probability": "high"
+    },
+    {
+      "event": "Fostung tungsten development",
+      "date": "2026-2028",
+      "impact": "second mineral leg",
+      "probability": "medium"
+    }
+  ],
+  "scenarios": {
+    "bull": {
+      "target": 18.00,
+      "return_pct": 91,
+      "10k_result": 19149
+    },
+    "base": {
+      "target": 12.50,
+      "return_pct": 33,
+      "10k_result": 13298
+    },
+    "bear": {
+      "target": 5.00,
+      "return_pct": -47,
+      "10k_result": 5319
+    }
+  },
+  "stop_loss": 6.50,
+  "position_size_pct": "2-3%",
+  "status": "researched",
+  "employees": 62,
+  "founded": 1968,
+  "ceo": "Gary C. Evans"
+}

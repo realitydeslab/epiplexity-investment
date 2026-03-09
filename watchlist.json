@@ -1445,11 +1445,12 @@
       "market": "US",
       "name": "United States Antimony",
       "category": "anticipated_2026",
-      "thesis_hint": "$4.6B tungsten deposit, $245M DLA contract, 182% rev growth, only US antimony/tungsten producer",
+      "thesis_hint": "$4.6B tungsten deposit, $245M DLA contract, 200%+ rev growth, only US antimony smelter, NYSE uplisting Mar 11, 22.7% short float squeeze potential",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 78,
-      "discovered": "2026-03-09"
+      "discovered": "2026-03-09",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "EVLV",
