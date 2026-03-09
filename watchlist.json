@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1223,11 +1223,12 @@
       "market": "US",
       "name": "Aurinia Pharmaceuticals",
       "category": "anticipated_2026",
-      "thesis_hint": "Kevin Tang $12.6M insider buy, LUPKYNIS 39% YoY revenue growth, acquisition target",
+      "thesis_hint": "Kevin Tang $12.6M insider buy as Board Chair, LUPKYNIS Q4 +29% acceleration, 6.8x P/E, 48% FCF margin, aritinercept pipeline free option, M&A playbook",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 76,
-      "discovered": "2026-03-08"
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "FIVN",
