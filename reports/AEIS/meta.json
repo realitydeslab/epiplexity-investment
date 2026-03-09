@@ -1,0 +1,95 @@
+{
+  "ticker": "AEIS",
+  "name": "Advanced Energy Industries",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_energy",
+  "researched_date": "2026-03-09",
+  "price_at_research": 293.04,
+  "market_cap": "11.03B",
+  "currency": "USD",
+  "epiplexity_score": 80,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 11,
+  "avg_price_target": 331.11,
+  "high_price_target": 375,
+  "low_price_target": 132,
+  "forward_pe": 27.80,
+  "trailing_pe": 76.60,
+  "peg_ratio": 1.24,
+  "short_float_pct": 5.93,
+  "insider_ownership_pct": 1.05,
+  "institutional_ownership_pct": 109.58,
+  "beta": 1.39,
+  "52w_high": 350.00,
+  "52w_low": 75.01,
+  "ytd_return_pct": 39.61,
+  "1y_return_pct": 166.53,
+  "revenue_fy2025": "1.799B",
+  "revenue_growth_fy2025": 21.38,
+  "eps_fy2025": 3.84,
+  "eps_growth_fy2025": 168.53,
+  "revenue_est_fy2026": "2.19B",
+  "eps_est_fy2026": 8.77,
+  "gross_margin_pct": 37.66,
+  "operating_margin_pct": 9.34,
+  "fcf_fy2025": "125.9M",
+  "cash": "791.2M",
+  "total_debt": "679M",
+  "net_cash": "112.2M",
+  "scenarios": {
+    "bull": {
+      "target": 420,
+      "return_pct": 43.3,
+      "10k_value": 14330
+    },
+    "base": {
+      "target": 350,
+      "return_pct": 19.4,
+      "10k_value": 11940
+    },
+    "bear": {
+      "target": 220,
+      "return_pct": -24.9,
+      "10k_value": 7508
+    },
+    "expected_return_pct": 14.3,
+    "expected_10k_value": 11430
+  },
+  "key_catalysts": [
+    {
+      "event": "AI Data Center Power Delivery Supercycle",
+      "timing": "Ongoing 2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "40% Gross Margin Target",
+      "timing": "Q3-Q4 2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "Semi Equipment Recovery",
+      "timing": "Q1-Q3 2026",
+      "probability": "MEDIUM-HIGH"
+    },
+    {
+      "event": "Thailand Factory Full Ramp",
+      "timing": "H1 2026",
+      "probability": "HIGH"
+    },
+    {
+      "event": "Q1 2026 Earnings",
+      "timing": "May 2026",
+      "probability": "HIGH"
+    }
+  ],
+  "stop_loss": 250,
+  "position_size_pct": "3-4%",
+  "recommendation": "BUY on pullback to $270-280",
+  "status": "researched",
+  "ceo": "Steve Kelley",
+  "employees": 13000,
+  "headquarters": "Denver, Colorado",
+  "sector": "Computer and Technology",
+  "industry": "Semiconductor Equipment & Materials"
+}

@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1063,11 +1063,12 @@
       "market": "US",
       "name": "Advanced Energy Industries",
       "category": "ai_energy",
-      "thesis_hint": "AI data center power delivery critical supplier, 60%+ surge, Thailand factory record margins",
+      "thesis_hint": "AI data center power delivery critical supplier, 60%+ surge, Thailand factory record margins, 40% gross margin target, dual semi+DC recovery",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 78,
-      "discovered": "2026-03-07"
+      "status": "researched",
+      "epiplexity_score": 80,
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "LRCX",
