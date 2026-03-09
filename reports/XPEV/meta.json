@@ -1,0 +1,120 @@
+{
+  "ticker": "XPEV",
+  "hk_ticker": "9868.HK",
+  "name": "XPeng Inc.",
+  "market": "US/HK",
+  "category": "hk_tech",
+  "research_date": "2026-03-09",
+  "price_at_research": 18.50,
+  "currency": "USD",
+  "market_cap_usd": "17.66B",
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scores": {
+    "catalyst_strength": 90,
+    "growth_velocity": 85,
+    "margin_trajectory": 92,
+    "valuation": 88,
+    "leadership": 78,
+    "competitive_position": 80,
+    "risk_adjusted_return": 82,
+    "technical_setup": 75
+  },
+  "price_targets": {
+    "bull_12m": 34.00,
+    "base_12m": 25.00,
+    "bear_12m": 16.00,
+    "hard_bear_12m": 10.00,
+    "stop_loss": 14.50
+  },
+  "analyst_consensus": {
+    "rating": "Buy",
+    "avg_target": 26.07,
+    "low_target": 20.00,
+    "high_target": 31.00,
+    "morgan_stanley_target": 34.00,
+    "num_analysts": 6
+  },
+  "key_metrics": {
+    "revenue_ttm_cny": "70.57B",
+    "revenue_growth_yoy": "86.64%",
+    "gross_margin_q3_2025": "20.14%",
+    "net_margin_q3_2025": "-1.87%",
+    "eps_ttm_usd": -0.42,
+    "eps_fy2026e_cny": 0.70,
+    "cash_cny": "36.42B",
+    "cash_per_share_usd": 7.56,
+    "book_per_share_usd": 4.43,
+    "pb_ratio": 0.55,
+    "ps_ratio": 1.47,
+    "short_float": "5.02%",
+    "short_ratio_days": 5.77,
+    "beta": 1.19,
+    "52w_high": 28.24,
+    "52w_low": 15.38,
+    "fy2025_deliveries": 429445
+  },
+  "key_catalysts": [
+    {
+      "event": "Q4 2025 Earnings — profitability milestone",
+      "date": "2026-03-20",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "VLA 2.0 rollout to consumer vehicles",
+      "date": "2026-03-late",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "EREV model volume ramp (G6 EREV + 2 more)",
+      "date": "2026-Q1-Q2",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "VW VLA 2.0 licensing revenue recognition",
+      "date": "2026-H2",
+      "impact": "medium-high",
+      "probability": "high"
+    },
+    {
+      "event": "Iron humanoid robot mass production",
+      "date": "2026-Q4",
+      "impact": "high",
+      "probability": "medium"
+    },
+    {
+      "event": "Robotaxi commercial deployment in Guangzhou",
+      "date": "2026-H2",
+      "impact": "medium",
+      "probability": "medium"
+    },
+    {
+      "event": "P7+ deliveries across 25+ European countries",
+      "date": "2026-H1",
+      "impact": "medium",
+      "probability": "high"
+    }
+  ],
+  "risks": [
+    "Q4 delivery miss may prevent profitability milestone",
+    "VLA 2.0 real-world performance may underwhelm vs claims",
+    "China EV price war pressure on margins",
+    "US-China geopolitical risk / ADR delisting concerns",
+    "Multi-front overextension (EVs + robots + eVTOL + robotaxi)",
+    "EU tariffs on Chinese EVs limiting overseas expansion"
+  ],
+  "sources": [
+    "Google Finance",
+    "CNBC",
+    "StockAnalysis.com",
+    "Finviz",
+    "CnEVPost",
+    "Morgan Stanley research (Mar 2, 2026)",
+    "Benzinga",
+    "Company IR announcements"
+  ]
+}

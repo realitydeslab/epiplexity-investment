@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -591,9 +591,11 @@
       "market": "HK",
       "name": "XPeng",
       "category": "hk_tech",
-      "thesis_hint": "AI autonomous driving, flying cars, robotics, XNGP system",
+      "thesis_hint": "VLA 2.0 AD platform, VW licensing, EREV blitz, humanoid robot factory, Q4 profitability inflection Mar 20",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 82,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "9866.HK",
