@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -382,9 +382,11 @@
       "market": "US",
       "name": "IonQ",
       "category": "anticipated_2026",
-      "thesis_hint": "Quantum computing — potential AI acceleration breakthrough",
-      "priority": "medium",
-      "status": "pending"
+      "thesis_hint": "Only vertically integrated quantum platform — SkyWater $1.8B acquisition, $370M RPO, 9+ acquisitions in 14 months, 98x P/S, defense contracts, quantum networking portfolio",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 72,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "RDDT",
