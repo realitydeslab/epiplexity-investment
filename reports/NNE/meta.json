@@ -1,0 +1,123 @@
+{
+  "ticker": "NNE",
+  "name": "NANO Nuclear Energy Inc.",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_energy",
+  "research_date": "2026-03-09",
+  "price_at_research": 23.74,
+  "market_cap_B": 1.24,
+  "enterprise_value_M": 613,
+  "epiplexity_score": 58,
+  "verdict": "HOLD / AVOID AT CURRENT LEVELS",
+  "scores": {
+    "catalyst_strength": 5,
+    "leadership": 4,
+    "growth_velocity": 2,
+    "trade_setup": 4,
+    "competitive_position": 3,
+    "risk_reward": 3,
+    "overall": 58
+  },
+  "financials": {
+    "revenue_ttm": 0,
+    "net_income_ttm_M": -43.47,
+    "eps_ttm": -0.86,
+    "cash_M": 577.5,
+    "debt_M": 2.69,
+    "net_cash_M": 575.13,
+    "net_cash_per_share": 11.08,
+    "book_value_per_share": 11.85,
+    "shares_outstanding_M": 52.08,
+    "shares_yoy_change_pct": 44.8,
+    "fcf_ttm_M": -30.27,
+    "employees": 36,
+    "burn_rate_annual_M": 30.27,
+    "cash_runway_years": 19
+  },
+  "valuation": {
+    "pe_ratio": null,
+    "pb_ratio": 1.99,
+    "ps_ratio": null,
+    "ev_sales": null,
+    "price_to_net_cash": 2.07
+  },
+  "technicals": {
+    "52w_change_pct": -12.31,
+    "50dma": 29.0,
+    "200dma": 34.61,
+    "rsi_14": 38.47,
+    "vs_50dma_pct": -18.1,
+    "vs_200dma_pct": -31.4
+  },
+  "short_interest": {
+    "shares_short_M": 13.12,
+    "short_pct_outstanding": 25.18,
+    "short_pct_float": 32.76,
+    "days_to_cover": 6.78,
+    "short_change_mom": "+8.3%"
+  },
+  "insider_activity": {
+    "sentiment": "VERY_BEARISH",
+    "net_insider_buys_90d": 0,
+    "net_insider_sells_90d_M": 65,
+    "notable": "Founder sold $55M+ in 5 weeks. CEO, CFO, all directors selling. Zero insider buying."
+  },
+  "analyst_consensus": {
+    "rating": "Hold",
+    "count": 3,
+    "avg_target": 29.5,
+    "upside_pct": 24.26,
+    "range_low": 9.0,
+    "range_high": 50.0
+  },
+  "catalysts": [
+    {
+      "event": "KRONOS NRC licensing submission",
+      "expected": "H2 2026 - H1 2027",
+      "impact": "+30-50%",
+      "probability": "Medium"
+    },
+    {
+      "event": "UAE JV formalization (EHC)",
+      "expected": "Q3-Q4 2026",
+      "impact": "+15-25%",
+      "probability": "Medium"
+    },
+    {
+      "event": "Ameresco federal site deployment",
+      "expected": "H2 2026",
+      "impact": "+10-20%",
+      "probability": "Medium"
+    },
+    {
+      "event": "NASA Lunar Reactor contract",
+      "expected": "2027+",
+      "impact": "+20-40%",
+      "probability": "Low-Medium"
+    },
+    {
+      "event": "UIUC KRONOS prototype milestone",
+      "expected": "2026-2027",
+      "impact": "+15-25%",
+      "probability": "Medium-High"
+    }
+  ],
+  "scenarios": {
+    "bull": { "target": 45, "return_pct": 90, "probability_pct": 15 },
+    "base": { "target": 28, "return_pct": 18, "probability_pct": 40 },
+    "bear": { "target": 14, "return_pct": -41, "probability_pct": 30 },
+    "catastrophic": { "target": 8, "return_pct": -66, "probability_pct": 15 }
+  },
+  "expected_value_pct": -4.8,
+  "competitors": ["OKLO", "SMR", "BWXT", "X-energy (private)", "Ultra Safe Nuclear (private)"],
+  "better_alternatives": ["LEU", "CEG", "BWXT", "OKLO"],
+  "sources": [
+    "StockAnalysis.com",
+    "Finviz.com",
+    "NANO Nuclear press releases (GlobeNewsWire, Newsfile Corp)",
+    "Benzinga",
+    "Seeking Alpha",
+    "SEC Form 4 filings"
+  ]
+}

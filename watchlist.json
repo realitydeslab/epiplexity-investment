@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1252,11 +1252,12 @@
       "market": "US",
       "name": "NANO Nuclear Energy",
       "category": "ai_energy",
-      "thesis_hint": "KRONOS microreactor NRC licensing, $578M cash, AI data center nuclear power, fuel chain vertical integration",
+      "thesis_hint": "Pre-revenue microreactor with $578M cash fortress but massive insider selling. 36 employees, $1.24B mcap, zero NRC application, non-binding MOUs only. 32.76% short float. WAIT for $18-20 or NRC submission catalyst.",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 75,
-      "discovered": "2026-03-08"
+      "status": "researched",
+      "epiplexity_score": 58,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "6861.T",
