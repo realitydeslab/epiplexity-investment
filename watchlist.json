@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "updated": "2026-03-08",
+  "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
     "ai_platforms": "Companies building AI models, platforms, and applications",
@@ -1030,9 +1030,10 @@
       "category": "anticipated_2026",
       "thesis_hint": "FDA PDUFA Sept 18 2026 zidesamtinib (ROS1+ NSCLC), Breakthrough Therapy, $1.4B cash, dual NDA",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 78,
-      "discovered": "2026-03-07"
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "S",

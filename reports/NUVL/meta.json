@@ -1,0 +1,53 @@
+{
+  "ticker": "NUVL",
+  "name": "Nuvalent",
+  "market": "US",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 99.41,
+  "market_cap_B": 7.82,
+  "enterprise_value_B": 6.44,
+  "net_cash_B": 1.37,
+  "shares_outstanding_M": 78.62,
+  "short_interest_pct": 7.22,
+  "short_float_pct": 11.65,
+  "days_to_cover": 11.34,
+  "beta": 1.32,
+  "52_week_change_pct": 38.09,
+  "50_dma": 103.22,
+  "200_dma": 90.25,
+  "rsi": 43.18,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 15,
+  "avg_price_target": 135.33,
+  "low_price_target": 105,
+  "high_price_target": 158,
+  "epiplexity_score": 78,
+  "scores": {
+    "catalyst_clarity": 9,
+    "timing": 8,
+    "risk_reward": 7,
+    "competitive_position": 8,
+    "financial_health": 9,
+    "leadership": 6,
+    "growth_potential": 7,
+    "market_sentiment": 8
+  },
+  "verdict": "BUY on pullbacks to $88-95",
+  "key_catalyst": "FDA PDUFA Sept 18, 2026 — Zidesamtinib for ROS1+ NSCLC",
+  "catalyst_dates": [
+    {"date": "2026-05-15", "event": "Q1 2026 Earnings (est.)", "impact": "low"},
+    {"date": "2026-06-02", "event": "ASCO Annual Meeting", "impact": "medium"},
+    {"date": "2026-08-15", "event": "Q2 2026 Earnings (est.)", "impact": "low"},
+    {"date": "2026-09-18", "event": "FDA PDUFA Zidesamtinib", "impact": "very_high"},
+    {"date": "2026-09-12", "event": "ESMO Congress", "impact": "medium"}
+  ],
+  "scenarios": {
+    "bull": {"target": 155, "return_pct": 55.9},
+    "base": {"target": 130, "return_pct": 30.8},
+    "bear": {"target": 50, "return_pct": -49.7}
+  },
+  "stop_loss": 72,
+  "position_size_pct": "2-4%",
+  "status": "researched"
+}
