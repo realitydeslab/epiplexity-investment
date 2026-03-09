@@ -1,0 +1,31 @@
+{
+  "ticker": "ACHR",
+  "name": "Archer Aviation",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "anticipated_2026",
+  "researched_date": "2026-03-09",
+  "price_at_research": 6.26,
+  "market_cap_billions": 4.66,
+  "net_cash_millions": 1030,
+  "revenue_ttm_millions": 0.3,
+  "net_income_ttm_millions": -618.2,
+  "fcf_ttm_millions": -511.7,
+  "eps_ttm": -0.99,
+  "analyst_consensus": "Buy",
+  "analyst_count": 6,
+  "analyst_pt_avg": 12.0,
+  "analyst_pt_range": [8.0, 18.0],
+  "epiplexity_score": 72,
+  "verdict": "Speculative Buy — Small Position Only",
+  "targets": { "bull": 14.0, "base": 9.0, "bear": 3.5 },
+  "stop_loss": 4.8,
+  "position_size_pct": "2-3%",
+  "primary_catalyst": "FAA Type Certification of Midnight eVTOL",
+  "catalyst_date": "Mid-2026",
+  "scenarios": {
+    "bull": { "target": 14.0, "return_pct": 124, "ten_k_becomes": 22364 },
+    "base": { "target": 9.0, "return_pct": 44, "ten_k_becomes": 14377 },
+    "bear": { "target": 3.5, "return_pct": -44, "ten_k_becomes": 5591 }
+  }
+}
