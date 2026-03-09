@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1109,11 +1109,12 @@
       "market": "US",
       "name": "Shift4 Payments",
       "category": "anticipated_2026",
-      "thesis_hint": "Founder Isaacman bought $13.6M shares, payments growth accelerating, stadiums/hospitality",
+      "thesis_hint": "8x forward PE, 25% growth, 34% short float squeeze, $500M FCF, Worldline/Global Blue acquisitions, founder Isaacman now NASA Admin",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 78,
-      "discovered": "2026-03-07"
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "SOFI",

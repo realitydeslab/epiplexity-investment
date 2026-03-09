@@ -1,0 +1,85 @@
+{
+  "ticker": "FOUR",
+  "name": "Shift4 Payments",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 46.02,
+  "market_cap_B": 3.74,
+  "enterprise_value_B": 7.54,
+  "revenue_ttm_B": 4.18,
+  "revenue_growth_yoy": 0.2549,
+  "eps_ttm": 1.08,
+  "eps_forward": 6.12,
+  "pe_trailing": 42.58,
+  "pe_forward": 8.20,
+  "peg_ratio": 0.43,
+  "ps_ratio": 0.93,
+  "ev_ebitda": 9.62,
+  "fcf_M": 499,
+  "fcf_yield": 0.1283,
+  "gross_margin": 0.3416,
+  "ebitda_margin": 0.1876,
+  "debt_total_B": 4.62,
+  "cash_M": 964,
+  "short_float_pct": 0.3422,
+  "short_days_to_cover": 7.0,
+  "insider_ownership_pct": 0.2887,
+  "beta": 1.64,
+  "52w_high": 108.50,
+  "52w_low": 43.32,
+  "analyst_consensus": "Buy",
+  "analyst_target": 87.35,
+  "analyst_count": 23,
+  "epiplexity_score": 82,
+  "verdict": "STRONG BUY",
+  "scenarios": {
+    "bull": {
+      "target": 90,
+      "return_pct": 95.6,
+      "10k_becomes": 19557
+    },
+    "base": {
+      "target": 73,
+      "return_pct": 58.6,
+      "10k_becomes": 15863
+    },
+    "bear": {
+      "target": 35,
+      "return_pct": -23.9,
+      "10k_becomes": 7606
+    }
+  },
+  "key_catalysts": [
+    {
+      "event": "Q1 2026 Earnings",
+      "date": "2026-04-28",
+      "impact": "high"
+    },
+    {
+      "event": "Worldline NA synergies visible",
+      "date": "2026-Q2",
+      "impact": "high"
+    },
+    {
+      "event": "Global Blue acquisition closing",
+      "date": "2026-H1",
+      "impact": "high"
+    },
+    {
+      "event": "Short squeeze trigger",
+      "date": "anytime",
+      "impact": "very_high"
+    },
+    {
+      "event": "FY2026 EPS normalization",
+      "date": "2026-full-year",
+      "impact": "high"
+    }
+  ],
+  "risk_level": "medium-high",
+  "position_size_pct": "3-5%",
+  "stop_loss": 39.00,
+  "status": "researched"
+}
