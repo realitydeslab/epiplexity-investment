@@ -1310,11 +1310,12 @@
       "market": "US",
       "name": "Protagonist Therapeutics",
       "category": "anticipated_2026",
-      "thesis_hint": "FDA PDUFA Q3 2026 rusfertide (polycythemia vera), Breakthrough Therapy, opted out of Takeda profit-share",
+      "thesis_hint": "FDA PDUFA Q3 2026 rusfertide (polycythemia vera), Breakthrough Therapy, opted out of Takeda profit-share, icotyde oral IL-23 for psoriasis, J&J M&A target, 16% short float",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 78,
-      "discovered": "2026-03-08"
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "VVV",

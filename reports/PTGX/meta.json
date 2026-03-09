@@ -1,0 +1,110 @@
+{
+  "ticker": "PTGX",
+  "name": "Protagonist Therapeutics",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 94.81,
+  "market_cap_b": 6.05,
+  "enterprise_value_b": 5.32,
+  "shares_outstanding_m": 63.81,
+  "float_m": 51.90,
+  "epiplexity_score": 78,
+  "analyst_consensus": "Strong Buy",
+  "analyst_count": 12,
+  "avg_price_target": 100.17,
+  "low_price_target": 73.00,
+  "high_price_target": 118.00,
+  "forward_pe": 31.66,
+  "ps_ratio_trailing": 129.47,
+  "ps_ratio_forward": 16.88,
+  "pb_ratio": 9.37,
+  "beta": 2.24,
+  "rsi_14": 64.80,
+  "dma_50": 85.14,
+  "dma_200": 70.52,
+  "short_interest_pct_float": 16.27,
+  "short_days_to_cover": 11.50,
+  "institutional_ownership_pct": 95.79,
+  "insider_ownership_pct": 1.07,
+  "cash_m": 567.36,
+  "debt_m": 10.32,
+  "net_cash_m": 635.68,
+  "net_cash_per_share": 9.96,
+  "revenue_fy2025_m": 46.02,
+  "revenue_fy2026e_m": 373.31,
+  "eps_fy2025": -2.05,
+  "eps_fy2026e": 1.89,
+  "fcf_fy2025_m": 56.08,
+  "employees": 132,
+  "52_week_change_pct": 147.56,
+  "key_catalysts": [
+    {
+      "event": "Rusfertide FDA PDUFA decision",
+      "date": "Q3 2026",
+      "impact": "HIGH — binary +40-60% / -42%",
+      "probability": "75-85%"
+    },
+    {
+      "event": "Rusfertide commercial launch",
+      "date": "Q4 2026",
+      "impact": "MEDIUM-HIGH",
+      "probability": "Conditional on approval"
+    },
+    {
+      "event": "Icotyde Phase 2b/3 psoriasis data",
+      "date": "H2 2026",
+      "impact": "HIGH — +50-100% on positive",
+      "probability": "50-60%"
+    },
+    {
+      "event": "M&A / J&J acquisition approach",
+      "date": "2026",
+      "impact": "HIGH — 30-70% premium",
+      "probability": "40-50%"
+    }
+  ],
+  "scenarios": {
+    "bull": {
+      "target": 160,
+      "return_pct": 69,
+      "probability_pct": 25,
+      "drivers": "PDUFA approval + icotyde positive + M&A buzz"
+    },
+    "upside": {
+      "target": 130,
+      "return_pct": 37,
+      "probability_pct": 30,
+      "drivers": "PDUFA approved, strong launch signals"
+    },
+    "base": {
+      "target": 110,
+      "return_pct": 16,
+      "probability_pct": 25,
+      "drivers": "PDUFA approved, modest launch"
+    },
+    "downside": {
+      "target": 55,
+      "return_pct": -42,
+      "probability_pct": 15,
+      "drivers": "PDUFA delayed or CRL"
+    },
+    "bear": {
+      "target": 35,
+      "return_pct": -63,
+      "probability_pct": 5,
+      "drivers": "CRL + icotyde failure"
+    }
+  },
+  "trade_setup": {
+    "entry": "94-95 (scale in), or 82-85 on pullback",
+    "stop_loss": 75,
+    "position_size_pct": "3-4%",
+    "time_horizon": "6-12 months"
+  },
+  "verdict": "BUY",
+  "status": "researched"
+}
