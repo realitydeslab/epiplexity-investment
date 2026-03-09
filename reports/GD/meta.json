@@ -1,0 +1,79 @@
+{
+  "ticker": "GD",
+  "name": "General Dynamics",
+  "market": "US",
+  "category": "military_ai",
+  "research_date": "2026-03-09",
+  "price_at_research": 361.98,
+  "market_cap_b": 97.73,
+  "epiplexity_score": 78,
+  "rating": "hold_buy_on_dip",
+  "targets": {
+    "bull_12m": 430,
+    "base_12m": 400,
+    "bear_12m": 310
+  },
+  "scenarios_10k": {
+    "bull": { "value": 11879, "return_pct": 18.8 },
+    "base": { "value": 11050, "return_pct": 10.5 },
+    "bear": { "value": 8564, "return_pct": -14.4 }
+  },
+  "expected_value_10k": 10636,
+  "expected_return_pct": 6.4,
+  "valuation": {
+    "pe_ttm": 23.42,
+    "forward_pe": 19.91,
+    "ps": 1.86,
+    "ev_ebitda": 16.77,
+    "peg": 2.46,
+    "fcf_yield_pct": 4.05,
+    "dividend_yield_pct": 1.66
+  },
+  "growth": {
+    "revenue_yoy_pct": 10.13,
+    "eps_yoy_pct": 13.35,
+    "fcf_yoy_pct": 23.87,
+    "revenue_2026e_growth_pct": 7.14,
+    "eps_2026e_growth_pct": 8.65
+  },
+  "technicals": {
+    "rsi_14": 55.38,
+    "beta": 0.37,
+    "short_float_pct": 0.99,
+    "distance_from_ath_pct": -2.09,
+    "sma200_distance_pct": 10.40
+  },
+  "key_catalysts": [
+    { "date": "2026-04-22", "event": "Q1 2026 Earnings", "impact": "high" },
+    { "date": "2026-H1", "event": "Iran supplemental appropriation", "impact": "very_high" },
+    { "date": "2026-H2", "event": "FY2027 defense budget clarity", "impact": "high" },
+    { "date": "2026-ongoing", "event": "GDIT AI/cyber contract awards", "impact": "medium" },
+    { "date": "2026-ongoing", "event": "European combat vehicle contracts", "impact": "medium" }
+  ],
+  "key_risks": [
+    "Iran conflict de-escalation removes war premium",
+    "CEO succession risk (Novakovic age 67)",
+    "Revenue growth deceleration continues",
+    "Historically rich valuation (23.4x P/E)",
+    "Columbia-class cost overrun potential"
+  ],
+  "analyst_consensus": {
+    "rating": "buy",
+    "num_analysts": 16,
+    "avg_pt": 364.38,
+    "high_pt": 408,
+    "low_pt": 236
+  },
+  "financials": {
+    "revenue_ttm_b": 52.55,
+    "net_income_b": 4.21,
+    "fcf_b": 3.96,
+    "eps_ttm": 15.45,
+    "eps_2026e": 16.79,
+    "debt_equity": 0.38,
+    "gross_margin_pct": 15.13,
+    "operating_margin_pct": 10.19,
+    "profit_margin_pct": 8.01
+  },
+  "status": "researched"
+}

@@ -1,101 +1,132 @@
-# GD Trade Setup — General Dynamics
+# General Dynamics (GD) — Trade Setup 💰
 
-*Research date: March 9, 2026*
+*Research date: March 9, 2026 | Price: $361.98*
 
 ---
 
-## Current Price & Context
+## Current Price Context
 
-- **Price:** $361.98 (close Mar 9, 2026)
-- **After-hours:** $361.25 (-0.20%)
-- **52-Week Range:** $239.20 — $369.70
-- **Distance from 52W High:** -2.1% (near ATH)
-- **Distance from 52W Low:** +51.3%
-- **YTD Performance:** +7.52%
-- **1-Year Performance:** +33.30%
+| Metric | Value |
+|--------|-------|
+| Current price | $361.98 |
+| 52-week high | $369.70 (-2.1% from ATH) |
+| 52-week low | $239.20 (+51.3% from low) |
+| YTD performance | +7.52% |
+| 1-year performance | +33.30% |
+
+**The stock is near all-time highs.** It's 2.1% below its 52-week high, which means you're buying into strength, not weakness. This is the #1 risk for new positions.
+
+---
 
 ## Technical Levels
 
-| Level | Price | Note |
-|-------|-------|------|
-| Resistance (ATH) | $369.70 | Recent high, needs to break |
-| Current Price | $361.98 | Just below ATH |
-| SMA 20 | ~$354 | +2.2% above (bullish) |
-| SMA 50 | ~$355 | +2.1% above (bullish) |
-| SMA 200 | ~$328 | +10.4% above (bullish) |
-| Support 1 | $340 | Recent consolidation zone |
-| Support 2 | $320 | SMA 200 area |
-| Support 3 | $280 | Major support / correction target |
-| 52W Low | $239.20 | Bear case floor |
+| Level | Price | Notes |
+|-------|-------|-------|
+| Current | $361.98 | Near ATH |
+| ATH / Resistance | $369.70 | Key breakout level |
+| SMA 20 | ~$354 | +2.19% above |
+| SMA 50 | ~$355 | +2.06% above |
+| SMA 200 | ~$328 | +10.4% above |
+| Support 1 | $355 | Recent consolidation floor |
+| Support 2 | $340 | Pre-Iran conflict level |
+| Support 3 | $310-315 | 200 DMA convergence |
+| RSI (14) | 55.38 | Neutral — neither overbought nor oversold |
+| Beta | 0.37 | Ultra-low beta. Defensive play. |
 
-**Technical verdict:** Stock is in a strong uptrend, above all major moving averages. RSI at 55.38 — neutral, not overbought. Beta of 0.37 makes this one of the least volatile names in the market.
+**Technical assessment:** Price is above all major moving averages, trending up but not overextended. RSI at 55 is neutral. The 0.37 beta means this stock barely moves with the market — it's a fortress, not a rocket.
+
+---
 
 ## Short Interest & Options
 
-- **Short Float:** 0.99% (very low — no squeeze potential but also no crowded bear thesis)
-- **Short Interest:** 2.65M shares
-- **Short Ratio:** 1.96 days to cover
-- **Options:** Available (Yes/Yes)
-- **Put/Call ratio:** Not extreme — neutral sentiment
+| Metric | Value |
+|--------|-------|
+| Short float | 0.99% |
+| Short interest | 2.65M shares |
+| Short ratio | 1.96 days |
 
-## Valuation Metrics
+**No squeeze potential.** Under 1% short float means bears have essentially given up on this name. This is a consensus long.
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| P/E (TTM) | 23.42 | vs 5Y avg ~18-20 |
-| Forward P/E | 19.91 | Based on FY2026E $18.18 |
-| PEG | 2.46 | Expensive for growth rate |
-| P/S | 1.86 | Reasonable for defense |
-| EV/EBITDA | 16.77 | Moderate |
-| P/B | 3.82 | Premium |
-| P/FCF | 24.72 | Moderate |
-| Dividend Yield | 1.66% | Modest but growing |
+---
 
-**Valuation verdict:** GD trades at a premium to historical averages (P/E 23 vs typical 18-20). The premium is justified by accelerated growth and defense super-cycle, but leaves limited room for error.
+## Valuation
+
+| Metric | GD | LMT | NOC | RTX |
+|--------|-----|-----|-----|-----|
+| P/E (TTM) | 23.4x | 22.5x | 25.0x | 31.9x |
+| Forward P/E | 19.9x | ~20x | ~22x | ~26x |
+| P/S | 1.86x | 2.0x | 2.4x | 4.0x |
+| EV/EBITDA | 16.8x | ~18x | ~20x | ~24x |
+| Dividend yield | 1.66% | 2.5% | 1.5% | 1.9% |
+| PEG | 2.46 | ~2.5 | ~3.0 | ~3.5 |
+
+**GD trades at a slight discount to defense peers on most metrics.** It's cheaper than NOC and significantly cheaper than RTX. Roughly in line with LMT. Not cheap in absolute terms, but not expensive relative to sector.
+
+---
+
+## Entry Strategy
+
+### For New Positions
+- **Ideal entry:** Wait for a pullback to $340-350 range (SMA50 support), which could happen on any market-wide correction
+- **Aggressive entry:** Buy breakout above $369.70 (ATH) with volume confirmation
+- **Dollar-cost average:** Start 50% position now, add on any dip to $345-350
+
+### For Existing Positions
+- **Hold.** The Iran conflict and defense spending supercycle provides fundamental tailwind
+- **Add on weakness** below $340
+
+---
 
 ## Scenarios ($10K Invested at $361.98)
 
-| Scenario | 12-Mo Target | Basis | $10K → | Return |
-|----------|-------------|-------|--------|--------|
-| 🚀 Bull (Iran escalation + all catalysts hit) | $430 | 24x FY2026E EPS $18.18, upside surprise to $18.50+ | $11,879 | +18.8% |
-| 📊 Base (steady execution, conservative beats) | $395 | 22x $18.00 EPS + dividend | $10,911 + $166 div | +10.8% |
-| 🐻 Bear (Iran peace + growth misses) | $300 | 18x $16.79 EPS, multiple compression | $8,288 | -17.1% |
+| Scenario | 12-Month Target | $10K → | Return |
+|----------|----------------|--------|--------|
+| 🚀 **Bull** (Iran war supplemental + all catalysts hit) | $430 | $11,879 | +18.8% |
+| 📊 **Base** (steady defense growth, partial catalysts) | $400 | $11,050 | +10.5% |
+| 🐻 **Bear** (conflict de-escalation, margins disappoint) | $310 | $8,564 | -14.4% |
 
-**Expected value:** Probability-weighted (20% bull / 55% base / 25% bear):
-- EV = (0.20 × $430) + (0.55 × $395) + (0.25 × $300) = $86 + $217.25 + $75 = **$378.25 (+4.5%)**
-- Including 1.66% dividend yield → **~6.2% total expected return**
+### Bull Case ($430 — +18.8%)
+- Iran supplemental appropriation passes ($75B+)
+- European allies sign major Combat Systems contracts
+- GDIT wins multiple $500M+ AI/cyber contracts
+- Earnings beat consistently through 2026
+- Stock re-rates to 25x forward earnings on $18.18 EPS = ~$455
+
+### Base Case ($400 — +10.5%)
+- Steady 8-9% EPS growth delivered
+- Defense spending grows as expected
+- No major upside/downside surprises
+- Stock trades to consensus PT ($397.84 finviz average)
+
+### Bear Case ($310 — -14.4%)
+- Iran conflict resolves quickly, defense premium unwinds
+- Marine Systems margin pressure returns (Columbia cost overruns)
+- Aerospace deliveries miss expectations
+- Multiple compression as growth decelerates further
+- Stock trades to 200 DMA / ~18x forward earnings
+
+---
 
 ## Risk Management
 
 ### Stop-Loss
-- **Level:** $320 (-11.6%)
-- **Rationale:** Below SMA 200, would signal technical breakdown
-- **Alternative:** Trail with 15% stop from highs
+- **Tight:** $340 (-6.1%) — below SMA50, signals trend break
+- **Standard:** $310 (-14.4%) — below SMA200, fundamental deterioration
+- **Wide:** $285 (-21.3%) — only if long-term conviction holder
 
 ### Position Sizing
-- **Recommended:** 2-3% of portfolio
-- **Rationale:** Low beta (0.37) means less portfolio volatility contribution, but the stock is near ATH with limited upside to consensus targets. Not a high-conviction asymmetric setup.
+- **Recommended:** 3-5% of portfolio
+- **Maximum:** 7% (if high conviction on defense supercycle)
+- **This is a "sleep well at night" stock**, not a high-risk/high-reward play
 
 ### What Kills the Trade?
-1. **Iran peace deal** — removes war premium, could send defense stocks down 10-15%
-2. **Q1 2026 earnings miss (Apr 22)** — if Q4 EPS flatline becomes a trend, multiple compresses quickly
-3. **Submarine program execution failure** — cost overruns at Electric Boat would hit both revenue and margins
-4. **Gulfstream demand collapse** — recession hitting private jet orders (Aerospace is GD's highest-margin segment)
-5. **CEO succession surprise** — Novakovic departure without smooth transition
+1. **Iran conflict resolution** — removes the war premium immediately (-10-15%)
+2. **Novakovic retirement announcement** — succession uncertainty (-5-8%)
+3. **Columbia-class major cost overrun** — Marine Systems profitability hit (-8-12%)
+4. **DOGE/defense budget cuts** — if Musk's efficiency push targets defense (-10%)
+5. **Broad market crash** — even with 0.37 beta, a 2008-style event drags everything
 
 ### Correlation Risk
-- **Highly correlated with:** LMT (r=0.85), RTX (r=0.80), NOC (r=0.75)
-- **If you already own:** LMT, RTX, NOC — GD adds limited diversification benefit. Consider GD as REPLACEMENT for weaker defense holdings, not addition.
-- **Moderate correlation with:** S&P 500 (beta 0.37), but defense outperforms in conflict periods
-- **Inverse correlation with:** Peace/diplomacy headlines, oil price spikes hurting broader market (but benefiting defense sentiment)
-
-## Entry Strategy
-
-**Recommended:** WAIT for pullback. The stock is -2.1% from ATH with only +0.66% upside to average analyst PT ($364.38). Risk/reward is not compelling at $362.
-
-**Better entries:**
-1. **$340** — post-earnings pullback opportunity (6% below current)
-2. **$320** — SMA 200 test, would be a gift (11% below current)
-3. **Earnings play:** Buy post-Q1 earnings dip if results are "conservative beat" and guidance disappoints on the surface
-
-Sources: StockAnalysis.com, Finviz.com, Google Finance, Barron's, IBD
+- **Positively correlated:** LMT, NOC, RTX, LHX (all defense primes)
+- **If you own multiple defense stocks, GD adds concentration risk** — diversify across sectors
+- **Negatively correlated with:** Consumer discretionary, tech growth (in risk-off environments, money flows INTO defense)

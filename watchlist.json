@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -452,9 +452,11 @@
       "market": "US",
       "name": "General Dynamics",
       "category": "military_ai",
-      "thesis_hint": "GDIT AI/cyber division, Abrams tanks, nuclear subs, enterprise IT",
+      "thesis_hint": "Defense fortress: nuclear sub monopoly, GDIT AI/cyber, Abrams/Stryker, Gulfstream. 0.37 beta, $4B FCF, 32yr dividend growth. Near ATH at 23.4x PE — quality but pricey",
       "priority": "medium",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 78,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "LHX",

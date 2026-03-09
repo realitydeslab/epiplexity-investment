@@ -1,89 +1,102 @@
-# GD Competitive Map — General Dynamics
+# General Dynamics (GD) — Competitive Map 🗺️
 
 *Research date: March 9, 2026*
 
 ---
 
-## Direct Competitors by Segment
-
-### Aerospace (Gulfstream)
-| Company | Product | GD Advantage | GD Disadvantage |
-|---------|---------|-------------|-----------------|
-| Bombardier | Global 7500/8000 | G700 range/cabin superiority | Bombardier improving fast |
-| Dassault | Falcon 10X | Brand heritage, service network | Falcon 10X is competitive |
-| Boeing (BBJ) | Boeing Business Jets | Purpose-built vs converted | BBJ larger cabin |
-| Textron (Cessna) | Citation Longitude | Gulfstream owns ultra-long-range | Citation dominates mid-size |
-
-**Gulfstream moat:** Dominant in the ultra-long-range large-cabin segment. G700/G800 are the flagship products; Canada certification resolved a key market access issue.
-
-### Marine Systems (Electric Boat)
-| Company | Product | Notes |
-|---------|---------|-------|
-| HII (Huntington Ingalls) | Aircraft carriers, amphibious ships | Duopoly partner, not direct competitor |
-| Electric Boat (GD) | Columbia-class SSBN, Virginia-class SSN | Sole prime for Columbia; lead for Virginia |
-
-**Marine moat: MONOPOLY.** GD Electric Boat is the ONLY company building Columbia-class ballistic missile submarines. Virginia-class is a duopoly with HII. This is an unassailable position.
-
-### Combat Systems
-| Company | Product | GD Advantage | GD Disadvantage |
-|---------|---------|-------------|-----------------|
-| BAE Systems | CV90, Archer artillery | European manufacturing base | BAE has UK/NATO relationships |
-| Rheinmetall | Leopard 2, Lynx IFV | GD has US government relationships | Rheinmetall winning European orders |
-| GDELS (GD subsidiary) | Piranha, Eagle | European footprint | Smaller scale than Rheinmetall |
-| Oshkosh (OSK) | JLTV tactical vehicles | Stryker/Abrams are heavier class | Oshkosh dominates light tactical |
-
-**Combat moat: Strong.** Abrams tank sole source; Stryker sole source. European subsidiary GDELS provides footprint for NATO allies.
-
-### Technologies (GDIT)
-| Company | Product | GD Advantage | GD Disadvantage |
-|---------|---------|-------------|-----------------|
-| Leidos (LDOS) | Defense IT, health IT | Larger IT portfolio | Leidos more diversified |
-| SAIC | Defense IT, cloud | GD has parent company scale | SAIC pure-play focus |
-| Booz Allen Hamilton (BAH) | Consulting + AI | GD has product revenues | BAH has stronger AI brand |
-| Palantir (PLTR) | AIP/Gotham defense platform | GD incumbent positions | Palantir is disrupting legacy IT |
-| Accenture Federal | Cloud modernization | GD security clearances | Accenture has commercial cloud expertise |
-
-**Technologies moat: Moderate.** GDIT benefits from existing security clearances and incumbency, but faces disruption from Palantir and cloud-native competitors.
-
 ## Who Benefits from the SAME Catalysts?
 
-| Catalyst | Also Benefits |
-|----------|--------------|
-| Iran conflict | LMT (munitions), RTX (missiles), NOC (B-21, ISR), KTOS (drones) |
-| European rearmament | RHM (tanks/ammo), BAESY (ships/subs), LMT (F-35), RENK.DE (drivetrains) |
-| Submarine spending | HII (duopoly partner), BWXT (nuclear propulsion) |
-| Defense IT/AI | PLTR, LDOS, BAH, CRWD, PANW |
-| Business jet demand | Bombardier, Dassault, Textron |
+### Iran Conflict / Defense Supercycle Beneficiaries
+| Company | Ticker | Primary Exposure | Market Cap |
+|---------|--------|------------------|------------|
+| Lockheed Martin | LMT | F-35, missiles, hypersonics | $150B |
+| Northrop Grumman | NOC | B-21 bomber, space, nuclear | $100B |
+| RTX (Raytheon) | RTX | Missiles, radar, engines | $268B |
+| L3Harris | LHX | ISR, electronic warfare, comms | $65B |
+| BAE Systems | BAESY | UK defense, munitions, vehicles | £36B |
+| Rheinmetall | RHM.DE | European vehicles, ammunition | €72B |
+
+### GD's Unique Positioning
+GD is the **only** US defense prime with this combination:
+1. **Nuclear submarines** (sole Columbia-class builder with HII)
+2. **Land combat vehicles** (Abrams, Stryker — primary US Army vehicles)
+3. **Government IT/AI** (GDIT — top 3 government IT provider)
+4. **Business aviation** (Gulfstream — #1 or #2 business jet maker)
+
+No other defense company has this diversification across sea, land, cyber, AND commercial aviation.
+
+---
+
+## Segment-by-Segment Competitive Landscape
+
+### Marine Systems (~26% of revenue)
+| Competitor | What They Do | GD Advantage |
+|-----------|--------------|-------------|
+| Huntington Ingalls (HII) | Aircraft carriers, amphibious ships, submarines | GD sole lead on Columbia-class; HII builds carriers |
+| No other US submarine builder | — | **Duopoly with HII. No substitute.** |
+
+**Moat: Maximum.** Only two companies in the world can build US nuclear submarines. This is an impenetrable moat.
+
+### Combat Systems (~16% of revenue)
+| Competitor | What They Do | GD Advantage |
+|-----------|--------------|-------------|
+| Rheinmetall (RHM.DE) | Leopard 2, Lynx IFV, ammo | European champion. GD advantage in US Army |
+| BAE Systems (BAESY) | Bradley IFV replacement (OMFV) | Direct competitor for OMFV; BAE won |
+| Oshkosh (OSK) | JLTV tactical vehicles | Different vehicle class |
+| KNDS (private) | Leopard/Leclerc, European JV | European only |
+
+**Moat: Strong in US, competitive globally.** Abrams has no US replacement. Stryker upgrade program is locked in. But BAE won the OMFV contract (replacing Bradley), which was a significant loss for GD.
+
+### Technologies / GDIT (~23% of revenue)
+| Competitor | What They Do | GD Advantage |
+|-----------|--------------|-------------|
+| Leidos (LDOS) | Government IT, defense analytics | Largest gov IT, direct competitor |
+| Booz Allen Hamilton (BAH) | Consulting, AI, analytics | More consulting-heavy |
+| SAIC | Government IT, engineering | Smaller, less diversified |
+| Palantir (PLTR) | AI/data platforms for defense | Newer entrant, different model |
+| Accenture Federal | IT modernization | Commercial DNA, less defense-native |
+
+**Moat: Moderate.** Government IT is competitive but sticky (long contract cycles, security clearances required). GDIT's AI and cybersecurity push differentiates, but Leidos is a formidable rival.
+
+### Aerospace / Gulfstream (~20% of revenue)
+| Competitor | What They Do | GD Advantage |
+|-----------|--------------|-------------|
+| Bombardier | Global 7500/8000 business jets | Direct competitor at ultra-long range |
+| Dassault (Falcon) | Falcon 6X/10X | European luxury segment |
+| Textron Aviation (TXT) | Cessna Citation, smaller jets | Different market segment |
+| Boeing Business Jets | BBJ variants | Much larger/more expensive |
+
+**Moat: Strong.** Gulfstream is the aspirational brand in business aviation. G700 and G800 are best-in-class. Production know-how is a 60+ year moat.
+
+---
 
 ## Who Loses if GD Wins?
 
-- **Rheinmetall** — if GD Combat Systems wins European Stryker orders over Lynx
-- **Leidos/SAIC** — if GDIT wins competitive re-competes in defense IT
-- **Bombardier** — if Gulfstream G800 takes ultra-long-range market share
-- **HII** — if GD Electric Boat captures larger share of submarine work scope
+- **HII** — if GD captures more submarine share in future programs
+- **Leidos / SAIC** — if GDIT wins major AI/cloud recompetes
+- **Bombardier** — if Gulfstream's new models dominate ultra-long-range
+- **Rheinmetall** — if European allies buy Abrams instead of Leopard
+- **Commercial IT companies** — if GDIT's zero-trust/AI captures market from Accenture Federal, AWS GovCloud
+
+---
 
 ## Pair Trade Opportunities
 
-### 1. Long GD / Short HII
-- **Thesis:** Both exposed to naval spending, but GD has diversification (Aerospace, Combat, IT) while HII is concentrated in shipbuilding with execution issues. GD trades at better valuation relative to growth.
-- **Risk:** HII has more upside if shipbuilding catches up
+### Long GD / Short Boeing (BA)
+- **Thesis:** GD executes flawlessly; Boeing continues to struggle with commercial aviation quality issues and defense program overruns
+- **Risk:** Boeing's military programs (F-15EX, T-7A, MQ-25) could recover
 
-### 2. Long GD / Short PLTR
-- **Thesis:** Both compete for defense IT/AI spending. GD is valued on fundamentals (23x PE, 1.9x P/S) vs PLTR's extreme valuation (80x+ PE). If defense AI spending grows, GD captures it at reasonable multiples while PLTR needs to grow into its valuation.
-- **Risk:** PLTR's AI platform is genuinely differentiated; GD's GDIT is more commodity-IT
+### Long GD / Short HII
+- **Thesis:** GD's diversification (4 segments) vs. HII's concentration (shipbuilding only). GD benefits from same navy spending but with less execution risk across broader portfolio
+- **Risk:** HII's aircraft carrier monopoly is equally durable
 
-### 3. Long GD / Short Boeing (BA)
-- **Thesis:** Both are diversified aerospace/defense, but GD has clean execution and margin stability while Boeing continues to face production, quality, and financial challenges. GD's Gulfstream is taking business jet share from Boeing BBJ.
-- **Risk:** Boeing turnaround could be dramatic if production stabilizes
+### Long GD + LMT (Defense Basket)
+- **Thesis:** Rather than picking one defense prime, own the two most diversified (GD + LMT) for full spectrum defense exposure
+- **Covers:** Submarines + Vehicles + IT/AI (GD) and Aircraft + Missiles + Space (LMT)
 
-## GD's Unique Positioning
+---
 
-**GD is the ONLY defense prime with major exposure to all four quadrants:**
-1. ✈️ **Business aviation** (Gulfstream) — commercial/wealth exposure
-2. 🚢 **Naval** (Electric Boat) — submarine monopoly
-3. 🏗️ **Land combat** (Combat Systems) — tanks, vehicles, munitions
-4. 💻 **IT/Cyber** (GDIT) — digital warfare, AI, cloud
+## Competitive Position Score: 8/10
 
-This diversification is GD's structural advantage. In any macro scenario, at least 2-3 segments perform well. Recession? Defense grows. Peace? Business jets surge. War? All segments benefit.
-
-Sources: StockAnalysis.com, Finviz.com, Company reports, industry research
+**Key strengths:** Nuclear submarine duopoly, Gulfstream brand, GDIT scale, Abrams sole source
+**Key weakness:** Lost OMFV to BAE, GDIT margins below peers, European Combat Systems competition intensifying
