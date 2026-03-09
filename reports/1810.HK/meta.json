@@ -1,0 +1,113 @@
+{
+  "ticker": "1810.HK",
+  "name": "Xiaomi Corporation",
+  "market": "HK",
+  "category": "hk_tech",
+  "researched_date": "2026-03-09",
+  "current_price": {
+    "value": 33.68,
+    "currency": "HKD",
+    "date": "2026-03-09"
+  },
+  "year_range": {
+    "low": 31.20,
+    "high": 61.45
+  },
+  "market_cap": {
+    "value": 880580000000,
+    "currency": "HKD"
+  },
+  "pe_ratio": 17.73,
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scenarios": {
+    "bull": {
+      "target": 55.00,
+      "return_pct": 63.3,
+      "ten_k_outcome": 16330
+    },
+    "base": {
+      "target": 42.00,
+      "return_pct": 24.7,
+      "ten_k_outcome": 12470
+    },
+    "bear": {
+      "target": 26.00,
+      "return_pct": -22.8,
+      "ten_k_outcome": 7720
+    }
+  },
+  "stop_loss": 28.00,
+  "position_size_pct": "3-5%",
+  "key_catalysts": [
+    {
+      "event": "Next-gen SU7 sedan launch",
+      "date": "2026-04",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "Q4 2025 / FY2025 earnings",
+      "date": "2026-03-late",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "YU7 GT performance SUV launch",
+      "date": "2026-H1",
+      "impact": "medium-high",
+      "probability": "high"
+    },
+    {
+      "event": "YU9 EREV SUV launch",
+      "date": "2026-H2",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "Humanoid robot factory scale-up",
+      "date": "2026-ongoing",
+      "impact": "medium",
+      "probability": "medium"
+    },
+    {
+      "event": "AI agent platform expansion",
+      "date": "2026-ongoing",
+      "impact": "medium",
+      "probability": "medium"
+    },
+    {
+      "event": "Memory chip cost normalization",
+      "date": "2026-H2",
+      "impact": "medium-high",
+      "probability": "medium"
+    }
+  ],
+  "key_metrics": {
+    "revenue_q3_2025": "CNY 113.12B",
+    "revenue_yoy_growth": "22.28%",
+    "net_income_yoy_growth": "129.26%",
+    "net_profit_margin": "10.85%",
+    "cash_position": "CNY 110.15B",
+    "ev_deliveries_2025": 411837,
+    "ev_deliveries_2026_target": 550000,
+    "ev_cumulative_deliveries": 600000,
+    "hyperos_monthly_active_users": "600M+",
+    "smartphone_rank": "#3 global"
+  },
+  "key_risks": [
+    "SU7 recall (370K units, door handle safety)",
+    "Memory chip shortage margin pressure",
+    "New SU7 launch execution risk",
+    "China EV price war",
+    "Geopolitical/sanctions risk"
+  ],
+  "sources": [
+    "Google Finance",
+    "CnEVPost",
+    "CNBC",
+    "India Today",
+    "Futu"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -580,11 +580,11 @@
       "market": "HK",
       "name": "Xiaomi",
       "category": "hk_tech",
-      "thesis_hint": "AI + IoT ecosystem, EV (SU7), smart manufacturing, HyperOS",
+      "thesis_hint": "Model transition trough entry: new SU7 Apr, YU7 GT H1, YU9 EREV H2, 600M AI agent users, humanoid robot deployed, 17.7x PE at 129% earnings growth",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 72,
-      "last_researched": "2026-03-06"
+      "status": "researched",
+      "epiplexity_score": 82,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "9868.HK",
