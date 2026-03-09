@@ -1,0 +1,43 @@
+{
+  "ticker": "6082.HK",
+  "name": "Shanghai Biren Technology",
+  "market": "HK",
+  "category": "china_ai",
+  "research_date": "2026-03-09",
+  "price_at_research": 31.46,
+  "currency": "HKD",
+  "market_cap_hkd": "76.7B",
+  "market_cap_usd": "9.8B",
+  "ipo_date": "2026-01-02",
+  "ipo_price": 19.60,
+  "52_week_high": 42.88,
+  "52_week_low": 30.10,
+  "revenue_ttm_hkd": "404.0M",
+  "gross_margin": 0.4772,
+  "net_margin": -6.3138,
+  "ebitda_ttm_hkd": "-956.6M",
+  "eps_ttm": -1.05,
+  "shares_outstanding": "2.44B",
+  "ps_ratio": 190,
+  "epiplexity_score": 58,
+  "verdict": "WAIT — Revisit post lock-up expiry (July 2026)",
+  "risk_level": "very_high",
+  "position_size_recommendation": "1-2% max",
+  "key_catalysts": [
+    {"event": "FY2025 earnings release", "date": "2026-03-Q1/Q2", "impact": "high"},
+    {"event": "IPO lock-up expiry", "date": "2026-07-02", "impact": "high_negative"},
+    {"event": "BR200 chip announcement", "date": "2026-Q2/Q3", "impact": "high"},
+    {"event": "Government AI procurement", "date": "2026-H1", "impact": "medium"},
+    {"event": "US sanctions developments", "date": "ongoing", "impact": "binary"}
+  ],
+  "scenarios": {
+    "bull": {"target": 55, "return_pct": 74.8, "probability": 0.15},
+    "base": {"target": 35, "return_pct": 11.3, "probability": 0.35},
+    "bear": {"target": 25, "return_pct": -20.5, "probability": 0.30},
+    "hard_bear": {"target": 15, "return_pct": -52.3, "probability": 0.20}
+  },
+  "expected_return_pct": -4.5,
+  "competitors": ["Huawei Ascend", "Moore Threads", "Cambricon (688256.SS)", "NVIDIA (NVDA)"],
+  "better_alternatives": ["SMIC (0981.HK)", "China AI chip basket"],
+  "watchlist_note": "Ticker corrected from 2252.HK to 6082.HK"
+}
