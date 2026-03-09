@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1386,12 +1386,13 @@
       "ticker": "FRSH",
       "market": "US",
       "name": "Freshworks",
-      "category": "anticipated_2026",
-      "thesis_hint": "CEO bought 125K shares $7.95 open market Mar 2, enterprise AI SaaS pivot, 73% below IPO highs",
+      "category": "ai_platforms",
+      "thesis_hint": "SaaSpocalypse contrarian: 1.9x EV/Sales, 10% FCF yield, CEO bought $994K at $7.95, $400M buyback (17% of mcap), Freddy AI Agent, first profitable year, 85% gross margin, 28% FCF margin",
       "priority": "high",
-      "status": "pending",
-      "epiplexity_score": 76,
-      "discovered": "2026-03-08"
+      "status": "researched",
+      "epiplexity_score": 78,
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "ORLA",

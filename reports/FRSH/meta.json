@@ -1,0 +1,153 @@
+{
+  "ticker": "FRSH",
+  "name": "Freshworks Inc.",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "category": "ai_platforms",
+  "sector": "Software - Application",
+  "research_date": "2026-03-09",
+  "price_at_research": 8.40,
+  "currency": "USD",
+  "market_cap_b": 2.39,
+  "enterprise_value_b": 1.59,
+  "epiplexity_score": 78,
+  "scores": {
+    "catalyst_strength": 85,
+    "growth_velocity": 65,
+    "profitability": 82,
+    "valuation": 92,
+    "leadership": 80,
+    "competitive_position": 65,
+    "risk_reward": 88,
+    "insider_conviction": 90
+  },
+  "valuation": {
+    "pe_ttm": 12.97,
+    "pe_forward": 12.14,
+    "peg": 1.19,
+    "ps": 2.85,
+    "ev_sales": 1.89,
+    "p_fcf": 10.81,
+    "p_book": 2.31,
+    "fcf_yield_pct": 9.87
+  },
+  "growth": {
+    "revenue_yoy_pct": 16.43,
+    "revenue_q4_yoy_pct": 14.48,
+    "eps_yoy_pct": 305.27,
+    "fcf_growth_pct": 56.25,
+    "revenue_2026e_m": 975.45,
+    "eps_2026e": 0.58,
+    "eps_2027e": 0.71
+  },
+  "margins": {
+    "gross_pct": 84.96,
+    "operating_pct": 1.57,
+    "profit_pct": 21.90,
+    "fcf_pct": 28.22,
+    "ebitda_pct": 8.44
+  },
+  "balance_sheet": {
+    "net_cash_m": 632.15,
+    "total_debt_m": 42.50,
+    "cash_per_share": 2.97,
+    "quick_ratio": 2.14
+  },
+  "technicals": {
+    "price": 8.40,
+    "52w_high": 16.48,
+    "52w_low": 6.79,
+    "sma_20_vs_price_pct": 7.46,
+    "sma_50_vs_price_pct": -15.33,
+    "sma_200_vs_price_pct": -31.73,
+    "rsi_14": 46.68,
+    "beta": 0.89,
+    "short_float_pct": 10.41,
+    "short_ratio": 3.90
+  },
+  "insider": {
+    "ownership_pct": 30.26,
+    "recent_transactions": "CEO Dennis Woodside bought 125K shares at $7.95 on March 2, 2026 (~$994K open market)",
+    "net_insider_trans_pct": 0.48
+  },
+  "catalysts": [
+    {
+      "event": "$400M share repurchase program",
+      "date": "2026-02-26",
+      "status": "authorized",
+      "impact": "high"
+    },
+    {
+      "event": "CEO open market purchase $994K",
+      "date": "2026-03-02",
+      "status": "completed",
+      "impact": "high"
+    },
+    {
+      "event": "Freddy AI Agent adoption acceleration",
+      "date": "2026-H1",
+      "status": "ongoing",
+      "impact": "high"
+    },
+    {
+      "event": "Q1 2026 earnings",
+      "date": "2026-05",
+      "status": "upcoming",
+      "impact": "high"
+    },
+    {
+      "event": "Enterprise upmarket pivot execution",
+      "date": "2026-H1-H2",
+      "status": "ongoing",
+      "impact": "medium"
+    }
+  ],
+  "analyst": {
+    "consensus": "Buy",
+    "num_analysts": 14,
+    "avg_target": 14.86,
+    "median_target": 16.00,
+    "low_target": 8.00,
+    "high_target": 25.00,
+    "upside_to_avg_pct": 75.24,
+    "recommendation_score": 1.88
+  },
+  "scenarios": {
+    "bull": {
+      "target": 16.00,
+      "return_pct": 90.5,
+      "10k_becomes": 19048,
+      "probability": "medium"
+    },
+    "base": {
+      "target": 12.00,
+      "return_pct": 42.9,
+      "10k_becomes": 14286,
+      "probability": "high"
+    },
+    "bear": {
+      "target": 6.50,
+      "return_pct": -22.6,
+      "10k_becomes": 7738,
+      "probability": "low-medium"
+    }
+  },
+  "trade": {
+    "entry_zone": "$8.00-8.50",
+    "stop_loss": 6.50,
+    "position_size_pct": "3-5%",
+    "conviction": "high",
+    "verdict": "BUY"
+  },
+  "status": "researched",
+  "sources": [
+    "Finviz",
+    "StockAnalysis",
+    "Macrotrends",
+    "Motley Fool",
+    "Seeking Alpha",
+    "Forbes",
+    "Freshworks IR",
+    "Constellation Research"
+  ]
+}
