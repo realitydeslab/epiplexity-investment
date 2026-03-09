@@ -1,0 +1,89 @@
+{
+  "ticker": "LRCX",
+  "name": "Lam Research Corporation",
+  "market": "US",
+  "exchange": "NASDAQ",
+  "sector": "Semiconductor Equipment & Materials",
+  "category": "ai_semiconductors",
+  "research_date": "2026-03-09",
+  "price_at_research": 211.15,
+  "market_cap_billions": 263.68,
+  "currency": "USD",
+  "epiplexity_score": 82,
+  "scores": {
+    "catalyst_quality": 9,
+    "growth_velocity": 9,
+    "competitive_moat": 10,
+    "valuation": 6,
+    "risk_profile": 7,
+    "leadership": 8
+  },
+  "verdict": "BUY_ON_PULLBACK",
+  "conviction": "high",
+  "key_catalyst": "HBM/GAA etch intensity supercycle + S&P 100 inclusion",
+  "catalyst_date": "2026-04-22",
+  "catalyst_type": "earnings",
+  "targets": {
+    "bull_12m": 325,
+    "base_12m": 260,
+    "bear_12m": 160,
+    "stop_loss": 180
+  },
+  "scenarios_10k": {
+    "bull": {"target": 325, "value": 15393, "return_pct": 53.9},
+    "base": {"target": 260, "value": 12313, "return_pct": 23.1},
+    "bear": {"target": 160, "value": 7578, "return_pct": -24.2}
+  },
+  "financials": {
+    "revenue_ttm_billions": 20.56,
+    "revenue_growth_yoy_pct": 26.85,
+    "eps_ttm": 4.88,
+    "eps_growth_yoy_pct": 48.22,
+    "gross_margin_pct": 49.80,
+    "operating_margin_pct": 33.76,
+    "profit_margin_pct": 30.22,
+    "fcf_margin_pct": 30.23,
+    "roe_pct": 65.56,
+    "roic_pct": 44.78,
+    "pe_trailing": 43.28,
+    "pe_forward": 29.96,
+    "peg_ratio": 1.20,
+    "ev_ebitda": 35.68,
+    "ps_ratio": 12.82,
+    "dividend_yield_pct": 0.49,
+    "short_float_pct": 2.65,
+    "beta": 1.82,
+    "cash_billions": 6.18,
+    "debt_to_equity": 0.44
+  },
+  "estimates": {
+    "fy2026_revenue_billions": 22.84,
+    "fy2026_eps": 5.42,
+    "fy2027_revenue_billions": 28.40,
+    "fy2027_eps": 7.08
+  },
+  "analyst_consensus": {
+    "rating": "Strong Buy",
+    "avg_target": 237.08,
+    "low_target": 115,
+    "high_target": 325,
+    "num_analysts": 24,
+    "strong_buy": 11,
+    "buy": 10,
+    "hold": 4,
+    "sell": 0
+  },
+  "key_risks": [
+    "China export restriction expansion (25-30% revenue at risk)",
+    "WFE cycle peak in H2 2026",
+    "Multiple compression from 43x trailing P/E",
+    "Geopolitical/macro headwinds (Iran conflict, oil)"
+  ],
+  "key_dates": [
+    {"date": "2026-03-09", "event": "S&P 100 inclusion effective"},
+    {"date": "2026-04-22", "event": "Q3 FY2026 earnings"},
+    {"date": "2026-07-XX", "event": "Q4 FY2026 earnings + FY2027 guidance"},
+    {"date": "2026-H2", "event": "TSMC N2 volume ramp begins"}
+  ],
+  "status": "researched"
+}

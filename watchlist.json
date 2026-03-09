@@ -1086,11 +1086,12 @@
       "market": "US",
       "name": "Lam Research",
       "category": "ai_semiconductors",
-      "thesis_hint": "Semiconductor equipment for AI chips, +138% in 6 months, Morgan Stanley upgrade, HBM/DRAM capex",
-      "priority": "medium",
-      "status": "pending",
-      "epiplexity_score": 74,
-      "discovered": "2026-03-07"
+      "thesis_hint": "~50% etch market share monopoly, HBM/GAA etch intensity supercycle, S&P 100 addition, 30% EPS growth, PEG 1.20, 50% gross margin, $6.2B FCF, Apr 22 earnings catalyst",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 82,
+      "discovered": "2026-03-07",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "SAABY",
