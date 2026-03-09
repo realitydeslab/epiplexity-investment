@@ -1,0 +1,76 @@
+{
+  "ticker": "ALDX",
+  "name": "Aldeyra Therapeutics",
+  "market": "US",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 5.26,
+  "market_cap": "316.56M",
+  "enterprise_value": "262M",
+  "epiplexity_score": 76,
+  "verdict": "SPECULATIVE BUY",
+  "catalyst_primary": "FDA PDUFA reproxalap dry eye disease",
+  "catalyst_date": "2026-03-16",
+  "catalyst_probability": "55-60%",
+  "scenarios": {
+    "bull": {
+      "target": "$12-15",
+      "return": "+128% to +185%",
+      "probability": "30%",
+      "10k_becomes": "$22,800-$28,500"
+    },
+    "base": {
+      "target": "$8-10",
+      "return": "+52% to +90%",
+      "probability": "30%",
+      "10k_becomes": "$15,200-$19,000"
+    },
+    "bear": {
+      "target": "$1.50-2.50",
+      "return": "-52% to -71%",
+      "probability": "40%",
+      "10k_becomes": "$2,850-$4,750"
+    }
+  },
+  "weighted_expected_return": "+43.65%",
+  "key_metrics": {
+    "pe_forward": 19.85,
+    "cash": "70.04M",
+    "debt": "15.53M",
+    "net_cash": "54.51M",
+    "cash_per_share": 1.16,
+    "burn_rate_annual": "33M",
+    "cash_runway_years": 2,
+    "short_float_pct": 11.26,
+    "days_to_cover": 6.78,
+    "insider_own_pct": 3.14,
+    "institutional_own_pct": 53.59,
+    "employees": 8,
+    "analyst_consensus": "Strong Buy",
+    "analyst_pt_avg": 9.50,
+    "analyst_count": 2
+  },
+  "key_dates": [
+    {"date": "2026-03-16", "event": "FDA PDUFA reproxalap DED", "priority": "critical"},
+    {"date": "2026-Q2", "event": "AbbVie option exercise decision", "priority": "high"},
+    {"date": "2026-Q2", "event": "Allergic conjunctivitis NDA update", "priority": "medium"},
+    {"date": "2026-H2", "event": "Commercial launch if approved", "priority": "high"},
+    {"date": "2026-11", "event": "FY2026 earnings", "priority": "medium"}
+  ],
+  "competitors": ["ABBV", "BLCO", "REGN"],
+  "pair_trades": ["Long ALDX / Short BLCO", "Long ALDX + Long ABBV"],
+  "risks": [
+    "Field trial missed primary endpoint — CRL risk ~40%",
+    "8 employees, zero commercial infrastructure",
+    "DED market increasingly competitive",
+    "Cash runway ~2 years if rejected"
+  ],
+  "sources": [
+    "StockAnalysis.com",
+    "Finviz",
+    "Seeking Alpha",
+    "Aldeyra corporate website",
+    "BusinessWire press releases",
+    "NASDAQ insider data"
+  ]
+}

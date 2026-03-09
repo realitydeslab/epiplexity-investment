@@ -1010,9 +1010,9 @@
       "market": "US",
       "name": "Aldeyra Therapeutics",
       "category": "anticipated_2026",
-      "thesis_hint": "Binary FDA PDUFA March 16 for reproxalap (dry eye), AbbVie $200M deal on approval",
-      "priority": "medium",
-      "status": "pending",
+      "thesis_hint": "Binary FDA PDUFA March 16 for reproxalap (dry eye), AbbVie $200M deal on approval, first-in-class RASP modulator, 8-employee virtual pharma, 11% short float squeeze, +44% weighted EV",
+      "priority": "high",
+      "status": "researched",
       "epiplexity_score": 76,
       "discovered": "2026-03-06",
       "last_researched": "2026-03-09"
