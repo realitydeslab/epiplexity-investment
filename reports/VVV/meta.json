@@ -1,0 +1,78 @@
+{
+  "ticker": "VVV",
+  "name": "Venice Token",
+  "market": "CRYPTO",
+  "chain": "Base (Ethereum L2)",
+  "category": "crypto_ai",
+  "research_date": "2026-03-09",
+  "price_at_research": 5.27,
+  "market_cap_circulating": 234000000,
+  "fdv": 594000000,
+  "circulating_supply": 44600000,
+  "total_supply": 112600000,
+  "holders": 126937,
+  "daily_volume": 17600000,
+  "epiplexity_score": 76,
+  "verdict": "BUY",
+  "conviction": "medium-high",
+  "risk_profile": "high",
+  "targets": {
+    "bull_12mo": 15.00,
+    "base_12mo": 9.00,
+    "bear_12mo": 2.50,
+    "stop_loss": 3.50
+  },
+  "scenarios_10k": {
+    "bull": { "value": 28463, "return_pct": 185 },
+    "base": { "value": 17078, "return_pct": 71 },
+    "bear": { "value": 4744, "return_pct": -53 }
+  },
+  "position_sizing": "2-4% of portfolio",
+  "key_catalysts": [
+    {
+      "event": "Major CEX listing (Binance/Bybit)",
+      "timeline": "H1-H2 2026",
+      "probability": "medium",
+      "impact": "30-80%"
+    },
+    {
+      "event": "AI agent adoption / staking squeeze",
+      "timeline": "Q2-Q4 2026",
+      "probability": "medium-high",
+      "impact": "50-100%"
+    },
+    {
+      "event": "Crypto AI narrative rotation",
+      "timeline": "Q2-Q4 2026",
+      "probability": "medium",
+      "impact": "100-300%"
+    },
+    {
+      "event": "Multimodal expansion (video/audio)",
+      "timeline": "ongoing",
+      "probability": "high",
+      "impact": "20-40%"
+    }
+  ],
+  "key_risks": [
+    "Centralized mint function - owner can mint unlimited VVV",
+    "Unverified user/revenue metrics",
+    "Crypto small-cap volatility",
+    "Partial decentralization overstated",
+    "Regulatory risk for uncensored AI + crypto"
+  ],
+  "key_dates": [
+    { "date": "Q2 2026", "event": "Potential CEX listing" },
+    { "date": "Q3 2026", "event": "~1 year token anniversary" },
+    { "date": "Ongoing", "event": "Monitor Basescan for minting events" }
+  ],
+  "sources": [
+    "https://venice.ai/vvv",
+    "https://venice.ai/about",
+    "https://docs.venice.ai",
+    "https://basescan.org/token/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "https://coinmarketcap.com/currencies/venice-token/",
+    "https://en.wikipedia.org/wiki/Erik_Voorhees"
+  ],
+  "status": "researched"
+}

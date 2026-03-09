@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -1332,11 +1332,12 @@
       "market": "CRYPTO",
       "name": "Venice Token",
       "category": "crypto_ai",
-      "thesis_hint": "AI privacy platform, Erik Voorhees, censorship-resistant AI, real product revenue, surged 20% in downturn",
+      "thesis_hint": "Crypto AI quality play: 1M+ users, $12-20M ARR est, Erik Voorhees, Diem staking model, 40+ models incl Claude/GPT/Gemini, privacy moat. Risk: centralized mint function, unverified metrics",
       "priority": "high",
-      "status": "pending",
+      "status": "researched",
       "epiplexity_score": 76,
-      "discovered": "2026-03-08"
+      "discovered": "2026-03-08",
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "HNSA",
