@@ -551,9 +551,11 @@
       "market": "HK",
       "name": "Meituan",
       "category": "hk_tech",
-      "thesis_hint": "AI-powered delivery/logistics, autonomous drones, local services super-app",
+      "thesis_hint": "Contrarian buy at 52-week low. World's only national drone delivery license, CNY 100B cash, 60-70% food delivery share, FY2025 loss is deliberate investment cycle not structural. 53% analyst upside, 23.6% short interest squeeze potential.",
       "priority": "high",
-      "status": "pending"
+      "status": "researched",
+      "epiplexity_score": 78,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "9618.HK",

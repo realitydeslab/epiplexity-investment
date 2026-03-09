@@ -1,0 +1,82 @@
+{
+  "ticker": "3690.HK",
+  "name": "Meituan",
+  "exchange": "HKEX",
+  "sector": "Consumer Technology / Local Services",
+  "research_date": "2026-03-09",
+  "status": "completed",
+  "scores": {
+    "catalyst_strength": 8.0,
+    "growth_velocity": 6.0,
+    "leadership": 8.5,
+    "competitive_position": 9.0,
+    "risk_reward": 7.5,
+    "conviction": 7.5,
+    "overall": 7.8
+  },
+  "price": {
+    "current": 78.70,
+    "currency": "HKD",
+    "52w_high": 189.60,
+    "52w_low": 73.60,
+    "market_cap_usd": "62B",
+    "market_cap_hkd": "481B"
+  },
+  "targets": {
+    "bull_12m": 150.00,
+    "base_12m": 110.00,
+    "bear_12m": 55.00,
+    "analyst_consensus": 112.00,
+    "stop_loss": 63.00
+  },
+  "financials": {
+    "revenue_ttm_cny": "410.7B",
+    "revenue_fy2024_cny": "337.59B",
+    "net_income_fy2024_cny": "35.81B",
+    "expected_loss_fy2025_cny": "23.3B-24.3B",
+    "cash_reserves_cny": "100B+",
+    "gross_margin": "33.52%",
+    "shares_outstanding": "6.11B"
+  },
+  "catalyst_dates": [
+    {
+      "date": "2026-03-31",
+      "event": "FY2025 Annual Results",
+      "importance": "critical"
+    },
+    {
+      "date": "2026-04-15",
+      "event": "CAAC License 1-Year Anniversary / Drone Progress Update",
+      "importance": "high"
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Q1 2026 Trading Update",
+      "importance": "high"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "HSI Semi-Annual Rebalancing",
+      "importance": "medium"
+    },
+    {
+      "date": "2026-08-31",
+      "event": "H1 2026 Results",
+      "importance": "critical"
+    },
+    {
+      "date": "2026-09-30",
+      "event": "Keeta Breakeven Target",
+      "importance": "high"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "Q3 2026 Results",
+      "importance": "high"
+    }
+  ],
+  "verdict": "BUY",
+  "position_size": "3-5%",
+  "key_thesis": "Contrarian buy at maximum pessimism. 60-70% market share leader with world's only national drone delivery license, CNY 100B cash, AI saving $230M/year — trading at 1.2x revenue after deliberate investment cycle. Asymmetric setup: +91% bull / -30% bear.",
+  "tags": ["china_tech", "food_delivery", "drones", "AI", "contrarian", "deep_value", "hk_stock"]
+}
