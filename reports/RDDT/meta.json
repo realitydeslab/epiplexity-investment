@@ -1,0 +1,125 @@
+{
+  "ticker": "RDDT",
+  "name": "Reddit, Inc.",
+  "market": "US",
+  "exchange": "NYSE",
+  "category": "anticipated_2026",
+  "research_date": "2026-03-09",
+  "price_at_research": 138.86,
+  "market_cap_b": 26.53,
+  "enterprise_value_b": 23.96,
+  "epiplexity_score": 82,
+  "verdict": "BUY",
+  "conviction": "high",
+  "scores": {
+    "catalyst_quality": 9,
+    "growth_velocity": 9,
+    "leadership": 7,
+    "valuation": 7,
+    "risk_reward": 9,
+    "competitive_moat": 8
+  },
+  "financials": {
+    "revenue_ttm_m": 2203,
+    "revenue_growth_yoy": 0.694,
+    "net_income_m": 529.72,
+    "eps_diluted": 2.62,
+    "eps_forward": 4.21,
+    "gross_margin": 0.9118,
+    "operating_margin": 0.2007,
+    "net_margin": 0.2405,
+    "fcf_margin": 0.3106,
+    "fcf_m": 684.17,
+    "cash_b": 2.48,
+    "debt_m": 23.21
+  },
+  "valuation": {
+    "pe_trailing": 52.98,
+    "pe_forward": 33.66,
+    "peg": 0.90,
+    "ps_forward": 8.56,
+    "ev_sales": 10.88,
+    "p_fcf": 38.61
+  },
+  "technicals": {
+    "rsi": 34.71,
+    "beta": 2.42,
+    "50dma": 187.31,
+    "200dma": 190.08,
+    "52w_change": 0.0352
+  },
+  "short_interest": {
+    "shares_short_m": 17.15,
+    "short_pct_float": 0.1269,
+    "days_to_cover": 2.47,
+    "short_trend": "decreasing"
+  },
+  "scenarios": {
+    "bull_12mo": {
+      "target": 250,
+      "return_pct": 80,
+      "thesis": "AI licensing doubles, S&P inclusion, buyback accelerates"
+    },
+    "base_12mo": {
+      "target": 200,
+      "return_pct": 44,
+      "thesis": "Consensus met, gradual re-rating"
+    },
+    "bear_12mo": {
+      "target": 100,
+      "return_pct": -28,
+      "thesis": "Growth decelerates, AI licensing stalls, ad recession"
+    }
+  },
+  "catalysts": [
+    {
+      "event": "Q1 2026 Earnings",
+      "date": "2026-04-30",
+      "impact": "high",
+      "probability": "high"
+    },
+    {
+      "event": "S&P 500 Index Inclusion",
+      "date": "2026-06-15",
+      "impact": "high",
+      "probability": "medium"
+    },
+    {
+      "event": "AI Personalization Launch (remove login wall)",
+      "date": "2026-07-01",
+      "impact": "medium",
+      "probability": "high"
+    },
+    {
+      "event": "Reddit Answers Monetization",
+      "date": "2026-09-01",
+      "impact": "high",
+      "probability": "medium-high"
+    },
+    {
+      "event": "$1B Buyback Execution",
+      "date": "2026-12-31",
+      "impact": "medium",
+      "probability": "high"
+    }
+  ],
+  "insider_signal": "mixed_with_director_buy",
+  "insider_buy_notable": "Director Sarah Farrell bought $7.48M at ~$140-150",
+  "analyst_consensus": "Buy",
+  "analyst_count": 27,
+  "analyst_avg_pt": 227.7,
+  "analyst_upside_pct": 63.98,
+  "employees": 2555,
+  "shares_outstanding_m": 191.04,
+  "float_m": 135.14,
+  "institutional_ownership_pct": 68.59,
+  "insider_ownership_pct": 3.07,
+  "risk_factors": [
+    "Google traffic dependency (~48%)",
+    "94% advertising revenue concentration",
+    "AI-generated content quality degradation",
+    "High insider selling (automatic plans)",
+    "Beta 2.42 — high volatility"
+  ],
+  "status": "researched"
+}

@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "updated": "2026-03-09",
   "categories": {
     "ai_infrastructure": "Companies building the physical and cloud infrastructure for AI",
@@ -393,9 +393,11 @@
       "market": "US",
       "name": "Reddit",
       "category": "anticipated_2026",
-      "thesis_hint": "AI training data moat \u2014 Google/OpenAI licensing deals",
-      "priority": "medium",
-      "status": "pending"
+      "thesis_hint": "AI training data moat \u2014 Google/OpenAI licensing, Reddit Answers 15M WAU, 69% rev growth, PEG 0.90, $7.5M director buy, 40% off highs",
+      "priority": "high",
+      "status": "researched",
+      "epiplexity_score": 82,
+      "last_researched": "2026-03-09"
     },
     {
       "ticker": "APP",
